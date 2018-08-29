@@ -1,7 +1,7 @@
 {
-  "name": "i-zondicons",
-  "description": "Vusion Icon Set - Feather",
-  "version": "1.0.0",
+  "name": "i-zondicons.vue",
+  "description": "Vusion Icon Set - Zondicons",
+  "version": "1.0.1",
   "author": "Rainfore <rainforest92@126.com>",
   "main": "./index.js",
   "repository": "vusion/icon-sets",
