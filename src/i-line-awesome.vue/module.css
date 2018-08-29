@@ -1,0 +1,2615 @@
+.root[name="500px"]::before {
+    icon-font: url('./assets/500px.svg');
+}
+
+.root[name="adjust"]::before {
+    icon-font: url('./assets/adjust.svg');
+}
+
+.root[name="adn"]::before {
+    icon-font: url('./assets/adn.svg');
+}
+
+.root[name="align-center"]::before {
+    icon-font: url('./assets/align-center.svg');
+}
+
+.root[name="align-justify"]::before {
+    icon-font: url('./assets/align-justify.svg');
+}
+
+.root[name="align-left"]::before {
+    icon-font: url('./assets/align-left.svg');
+}
+
+.root[name="align-right"]::before {
+    icon-font: url('./assets/align-right.svg');
+}
+
+.root[name="amazon"]::before {
+    icon-font: url('./assets/amazon.svg');
+}
+
+.root[name="ambulance"]::before {
+    icon-font: url('./assets/ambulance.svg');
+}
+
+.root[name="anchor"]::before {
+    icon-font: url('./assets/anchor.svg');
+}
+
+.root[name="android"]::before {
+    icon-font: url('./assets/android.svg');
+}
+
+.root[name="angellist"]::before {
+    icon-font: url('./assets/angellist.svg');
+}
+
+.root[name="angle-double-down"]::before {
+    icon-font: url('./assets/angle-double-down.svg');
+}
+
+.root[name="angle-double-left"]::before {
+    icon-font: url('./assets/angle-double-left.svg');
+}
+
+.root[name="angle-double-right"]::before {
+    icon-font: url('./assets/angle-double-right.svg');
+}
+
+.root[name="angle-double-up"]::before {
+    icon-font: url('./assets/angle-double-up.svg');
+}
+
+.root[name="angle-down"]::before {
+    icon-font: url('./assets/angle-down.svg');
+}
+
+.root[name="angle-left"]::before {
+    icon-font: url('./assets/angle-left.svg');
+}
+
+.root[name="angle-right"]::before {
+    icon-font: url('./assets/angle-right.svg');
+}
+
+.root[name="angle-up"]::before {
+    icon-font: url('./assets/angle-up.svg');
+}
+
+.root[name="apple"]::before {
+    icon-font: url('./assets/apple.svg');
+}
+
+.root[name="archive"]::before {
+    icon-font: url('./assets/archive.svg');
+}
+
+.root[name="area-chart"]::before {
+    icon-font: url('./assets/area-chart.svg');
+}
+
+.root[name="arrow-circle-down"]::before {
+    icon-font: url('./assets/arrow-circle-down.svg');
+}
+
+.root[name="arrow-circle-left"]::before {
+    icon-font: url('./assets/arrow-circle-left.svg');
+}
+
+.root[name="arrow-circle-o-down"]::before {
+    icon-font: url('./assets/arrow-circle-o-down.svg');
+}
+
+.root[name="arrow-circle-o-left"]::before {
+    icon-font: url('./assets/arrow-circle-o-left.svg');
+}
+
+.root[name="arrow-circle-o-right"]::before {
+    icon-font: url('./assets/arrow-circle-o-right.svg');
+}
+
+.root[name="arrow-circle-o-up"]::before {
+    icon-font: url('./assets/arrow-circle-o-up.svg');
+}
+
+.root[name="arrow-circle-right"]::before {
+    icon-font: url('./assets/arrow-circle-right.svg');
+}
+
+.root[name="arrow-circle-up"]::before {
+    icon-font: url('./assets/arrow-circle-up.svg');
+}
+
+.root[name="arrow-down"]::before {
+    icon-font: url('./assets/arrow-down.svg');
+}
+
+.root[name="arrow-left"]::before {
+    icon-font: url('./assets/arrow-left.svg');
+}
+
+.root[name="arrow-right"]::before {
+    icon-font: url('./assets/arrow-right.svg');
+}
+
+.root[name="arrow-up"]::before {
+    icon-font: url('./assets/arrow-up.svg');
+}
+
+.root[name="arrows-alt"]::before {
+    icon-font: url('./assets/arrows-alt.svg');
+}
+
+.root[name="arrows-h"]::before {
+    icon-font: url('./assets/arrows-h.svg');
+}
+
+.root[name="arrows-v"]::before {
+    icon-font: url('./assets/arrows-v.svg');
+}
+
+.root[name="arrows"]::before {
+    icon-font: url('./assets/arrows.svg');
+}
+
+.root[name="asterisk"]::before {
+    icon-font: url('./assets/asterisk.svg');
+}
+
+.root[name="at"]::before {
+    icon-font: url('./assets/at.svg');
+}
+
+.root[name="automobile"]::before {
+    icon-font: url('./assets/automobile.svg');
+}
+
+.root[name="backward"]::before {
+    icon-font: url('./assets/backward.svg');
+}
+
+.root[name="balance-scale"]::before {
+    icon-font: url('./assets/balance-scale.svg');
+}
+
+.root[name="ban"]::before {
+    icon-font: url('./assets/ban.svg');
+}
+
+.root[name="bank"]::before {
+    icon-font: url('./assets/bank.svg');
+}
+
+.root[name="bar-chart-o"]::before {
+    icon-font: url('./assets/bar-chart-o.svg');
+}
+
+.root[name="bar-chart"]::before {
+    icon-font: url('./assets/bar-chart.svg');
+}
+
+.root[name="barcode"]::before {
+    icon-font: url('./assets/barcode.svg');
+}
+
+.root[name="bars"]::before {
+    icon-font: url('./assets/bars.svg');
+}
+
+.root[name="battery-0"]::before {
+    icon-font: url('./assets/battery-0.svg');
+}
+
+.root[name="battery-1"]::before {
+    icon-font: url('./assets/battery-1.svg');
+}
+
+.root[name="battery-2"]::before {
+    icon-font: url('./assets/battery-2.svg');
+}
+
+.root[name="battery-3"]::before {
+    icon-font: url('./assets/battery-3.svg');
+}
+
+.root[name="battery-4"]::before {
+    icon-font: url('./assets/battery-4.svg');
+}
+
+.root[name="battery-empty"]::before {
+    icon-font: url('./assets/battery-empty.svg');
+}
+
+.root[name="battery-full"]::before {
+    icon-font: url('./assets/battery-full.svg');
+}
+
+.root[name="battery-half"]::before {
+    icon-font: url('./assets/battery-half.svg');
+}
+
+.root[name="battery-quarter"]::before {
+    icon-font: url('./assets/battery-quarter.svg');
+}
+
+.root[name="battery-three-quarters"]::before {
+    icon-font: url('./assets/battery-three-quarters.svg');
+}
+
+.root[name="bed"]::before {
+    icon-font: url('./assets/bed.svg');
+}
+
+.root[name="beer"]::before {
+    icon-font: url('./assets/beer.svg');
+}
+
+.root[name="behance-square"]::before {
+    icon-font: url('./assets/behance-square.svg');
+}
+
+.root[name="behance"]::before {
+    icon-font: url('./assets/behance.svg');
+}
+
+.root[name="bell-o"]::before {
+    icon-font: url('./assets/bell-o.svg');
+}
+
+.root[name="bell-slash-o"]::before {
+    icon-font: url('./assets/bell-slash-o.svg');
+}
+
+.root[name="bell-slash"]::before {
+    icon-font: url('./assets/bell-slash.svg');
+}
+
+.root[name="bell"]::before {
+    icon-font: url('./assets/bell.svg');
+}
+
+.root[name="bicycle"]::before {
+    icon-font: url('./assets/bicycle.svg');
+}
+
+.root[name="binoculars"]::before {
+    icon-font: url('./assets/binoculars.svg');
+}
+
+.root[name="birthday-cake"]::before {
+    icon-font: url('./assets/birthday-cake.svg');
+}
+
+.root[name="bitbucket-square"]::before {
+    icon-font: url('./assets/bitbucket-square.svg');
+}
+
+.root[name="bitbucket"]::before {
+    icon-font: url('./assets/bitbucket.svg');
+}
+
+.root[name="bitcoin"]::before {
+    icon-font: url('./assets/bitcoin.svg');
+}
+
+.root[name="black-tie"]::before {
+    icon-font: url('./assets/black-tie.svg');
+}
+
+.root[name="bold"]::before {
+    icon-font: url('./assets/bold.svg');
+}
+
+.root[name="bolt"]::before {
+    icon-font: url('./assets/bolt.svg');
+}
+
+.root[name="bomb"]::before {
+    icon-font: url('./assets/bomb.svg');
+}
+
+.root[name="book"]::before {
+    icon-font: url('./assets/book.svg');
+}
+
+.root[name="bookmark-o"]::before {
+    icon-font: url('./assets/bookmark-o.svg');
+}
+
+.root[name="bookmark"]::before {
+    icon-font: url('./assets/bookmark.svg');
+}
+
+.root[name="briefcase"]::before {
+    icon-font: url('./assets/briefcase.svg');
+}
+
+.root[name="btc"]::before {
+    icon-font: url('./assets/btc.svg');
+}
+
+.root[name="bug"]::before {
+    icon-font: url('./assets/bug.svg');
+}
+
+.root[name="building-o"]::before {
+    icon-font: url('./assets/building-o.svg');
+}
+
+.root[name="building"]::before {
+    icon-font: url('./assets/building.svg');
+}
+
+.root[name="bullhorn"]::before {
+    icon-font: url('./assets/bullhorn.svg');
+}
+
+.root[name="bullseye"]::before {
+    icon-font: url('./assets/bullseye.svg');
+}
+
+.root[name="bus"]::before {
+    icon-font: url('./assets/bus.svg');
+}
+
+.root[name="buysellads"]::before {
+    icon-font: url('./assets/buysellads.svg');
+}
+
+.root[name="cab"]::before {
+    icon-font: url('./assets/cab.svg');
+}
+
+.root[name="calculator"]::before {
+    icon-font: url('./assets/calculator.svg');
+}
+
+.root[name="calendar-check-o"]::before {
+    icon-font: url('./assets/calendar-check-o.svg');
+}
+
+.root[name="calendar-minus-o"]::before {
+    icon-font: url('./assets/calendar-minus-o.svg');
+}
+
+.root[name="calendar-o"]::before {
+    icon-font: url('./assets/calendar-o.svg');
+}
+
+.root[name="calendar-plus-o"]::before {
+    icon-font: url('./assets/calendar-plus-o.svg');
+}
+
+.root[name="calendar-times-o"]::before {
+    icon-font: url('./assets/calendar-times-o.svg');
+}
+
+.root[name="calendar"]::before {
+    icon-font: url('./assets/calendar.svg');
+}
+
+.root[name="camera-retro"]::before {
+    icon-font: url('./assets/camera-retro.svg');
+}
+
+.root[name="camera"]::before {
+    icon-font: url('./assets/camera.svg');
+}
+
+.root[name="car"]::before {
+    icon-font: url('./assets/car.svg');
+}
+
+.root[name="caret-down"]::before {
+    icon-font: url('./assets/caret-down.svg');
+}
+
+.root[name="caret-left"]::before {
+    icon-font: url('./assets/caret-left.svg');
+}
+
+.root[name="caret-right"]::before {
+    icon-font: url('./assets/caret-right.svg');
+}
+
+.root[name="caret-square-o-down"]::before {
+    icon-font: url('./assets/caret-square-o-down.svg');
+}
+
+.root[name="caret-square-o-left"]::before {
+    icon-font: url('./assets/caret-square-o-left.svg');
+}
+
+.root[name="caret-square-o-right"]::before {
+    icon-font: url('./assets/caret-square-o-right.svg');
+}
+
+.root[name="caret-square-o-up"]::before {
+    icon-font: url('./assets/caret-square-o-up.svg');
+}
+
+.root[name="caret-up"]::before {
+    icon-font: url('./assets/caret-up.svg');
+}
+
+.root[name="cart-arrow-down"]::before {
+    icon-font: url('./assets/cart-arrow-down.svg');
+}
+
+.root[name="cart-plus"]::before {
+    icon-font: url('./assets/cart-plus.svg');
+}
+
+.root[name="cc-amex"]::before {
+    icon-font: url('./assets/cc-amex.svg');
+}
+
+.root[name="cc-diners-club"]::before {
+    icon-font: url('./assets/cc-diners-club.svg');
+}
+
+.root[name="cc-discover"]::before {
+    icon-font: url('./assets/cc-discover.svg');
+}
+
+.root[name="cc-jcb"]::before {
+    icon-font: url('./assets/cc-jcb.svg');
+}
+
+.root[name="cc-mastercard"]::before {
+    icon-font: url('./assets/cc-mastercard.svg');
+}
+
+.root[name="cc-paypal"]::before {
+    icon-font: url('./assets/cc-paypal.svg');
+}
+
+.root[name="cc-stripe"]::before {
+    icon-font: url('./assets/cc-stripe.svg');
+}
+
+.root[name="cc-visa"]::before {
+    icon-font: url('./assets/cc-visa.svg');
+}
+
+.root[name="cc"]::before {
+    icon-font: url('./assets/cc.svg');
+}
+
+.root[name="certificate"]::before {
+    icon-font: url('./assets/certificate.svg');
+}
+
+.root[name="chain-broken"]::before {
+    icon-font: url('./assets/chain-broken.svg');
+}
+
+.root[name="chain"]::before {
+    icon-font: url('./assets/chain.svg');
+}
+
+.root[name="check-circle-o"]::before {
+    icon-font: url('./assets/check-circle-o.svg');
+}
+
+.root[name="check-circle"]::before {
+    icon-font: url('./assets/check-circle.svg');
+}
+
+.root[name="check-square-o"]::before {
+    icon-font: url('./assets/check-square-o.svg');
+}
+
+.root[name="check-square"]::before {
+    icon-font: url('./assets/check-square.svg');
+}
+
+.root[name="check"]::before {
+    icon-font: url('./assets/check.svg');
+}
+
+.root[name="chevron-circle-down"]::before {
+    icon-font: url('./assets/chevron-circle-down.svg');
+}
+
+.root[name="chevron-circle-left"]::before {
+    icon-font: url('./assets/chevron-circle-left.svg');
+}
+
+.root[name="chevron-circle-right"]::before {
+    icon-font: url('./assets/chevron-circle-right.svg');
+}
+
+.root[name="chevron-circle-up"]::before {
+    icon-font: url('./assets/chevron-circle-up.svg');
+}
+
+.root[name="chevron-down"]::before {
+    icon-font: url('./assets/chevron-down.svg');
+}
+
+.root[name="chevron-left"]::before {
+    icon-font: url('./assets/chevron-left.svg');
+}
+
+.root[name="chevron-right"]::before {
+    icon-font: url('./assets/chevron-right.svg');
+}
+
+.root[name="chevron-up"]::before {
+    icon-font: url('./assets/chevron-up.svg');
+}
+
+.root[name="child"]::before {
+    icon-font: url('./assets/child.svg');
+}
+
+.root[name="chrome"]::before {
+    icon-font: url('./assets/chrome.svg');
+}
+
+.root[name="circle-o-notch"]::before {
+    icon-font: url('./assets/circle-o-notch.svg');
+}
+
+.root[name="circle-o"]::before {
+    icon-font: url('./assets/circle-o.svg');
+}
+
+.root[name="circle-thin"]::before {
+    icon-font: url('./assets/circle-thin.svg');
+}
+
+.root[name="circle"]::before {
+    icon-font: url('./assets/circle.svg');
+}
+
+.root[name="clipboard"]::before {
+    icon-font: url('./assets/clipboard.svg');
+}
+
+.root[name="clock-o"]::before {
+    icon-font: url('./assets/clock-o.svg');
+}
+
+.root[name="clone"]::before {
+    icon-font: url('./assets/clone.svg');
+}
+
+.root[name="close"]::before {
+    icon-font: url('./assets/close.svg');
+}
+
+.root[name="cloud-download"]::before {
+    icon-font: url('./assets/cloud-download.svg');
+}
+
+.root[name="cloud-upload"]::before {
+    icon-font: url('./assets/cloud-upload.svg');
+}
+
+.root[name="cloud"]::before {
+    icon-font: url('./assets/cloud.svg');
+}
+
+.root[name="cny"]::before {
+    icon-font: url('./assets/cny.svg');
+}
+
+.root[name="code-fork"]::before {
+    icon-font: url('./assets/code-fork.svg');
+}
+
+.root[name="code"]::before {
+    icon-font: url('./assets/code.svg');
+}
+
+.root[name="codepen"]::before {
+    icon-font: url('./assets/codepen.svg');
+}
+
+.root[name="coffee"]::before {
+    icon-font: url('./assets/coffee.svg');
+}
+
+.root[name="cog"]::before {
+    icon-font: url('./assets/cog.svg');
+}
+
+.root[name="cogs"]::before {
+    icon-font: url('./assets/cogs.svg');
+}
+
+.root[name="columns"]::before {
+    icon-font: url('./assets/columns.svg');
+}
+
+.root[name="comment-o"]::before {
+    icon-font: url('./assets/comment-o.svg');
+}
+
+.root[name="comment"]::before {
+    icon-font: url('./assets/comment.svg');
+}
+
+.root[name="commenting-o"]::before {
+    icon-font: url('./assets/commenting-o.svg');
+}
+
+.root[name="commenting"]::before {
+    icon-font: url('./assets/commenting.svg');
+}
+
+.root[name="comments-o"]::before {
+    icon-font: url('./assets/comments-o.svg');
+}
+
+.root[name="comments"]::before {
+    icon-font: url('./assets/comments.svg');
+}
+
+.root[name="compass"]::before {
+    icon-font: url('./assets/compass.svg');
+}
+
+.root[name="compress"]::before {
+    icon-font: url('./assets/compress.svg');
+}
+
+.root[name="connectdevelop"]::before {
+    icon-font: url('./assets/connectdevelop.svg');
+}
+
+.root[name="contao"]::before {
+    icon-font: url('./assets/contao.svg');
+}
+
+.root[name="copy"]::before {
+    icon-font: url('./assets/copy.svg');
+}
+
+.root[name="copyright"]::before {
+    icon-font: url('./assets/copyright.svg');
+}
+
+.root[name="creative-commons"]::before {
+    icon-font: url('./assets/creative-commons.svg');
+}
+
+.root[name="credit-card"]::before {
+    icon-font: url('./assets/credit-card.svg');
+}
+
+.root[name="crop"]::before {
+    icon-font: url('./assets/crop.svg');
+}
+
+.root[name="crosshairs"]::before {
+    icon-font: url('./assets/crosshairs.svg');
+}
+
+.root[name="css3"]::before {
+    icon-font: url('./assets/css3.svg');
+}
+
+.root[name="cube"]::before {
+    icon-font: url('./assets/cube.svg');
+}
+
+.root[name="cubes"]::before {
+    icon-font: url('./assets/cubes.svg');
+}
+
+.root[name="cut"]::before {
+    icon-font: url('./assets/cut.svg');
+}
+
+.root[name="cutlery"]::before {
+    icon-font: url('./assets/cutlery.svg');
+}
+
+.root[name="dashboard"]::before {
+    icon-font: url('./assets/dashboard.svg');
+}
+
+.root[name="dashcube"]::before {
+    icon-font: url('./assets/dashcube.svg');
+}
+
+.root[name="database"]::before {
+    icon-font: url('./assets/database.svg');
+}
+
+.root[name="dedent"]::before {
+    icon-font: url('./assets/dedent.svg');
+}
+
+.root[name="delicious"]::before {
+    icon-font: url('./assets/delicious.svg');
+}
+
+.root[name="desktop"]::before {
+    icon-font: url('./assets/desktop.svg');
+}
+
+.root[name="deviantart"]::before {
+    icon-font: url('./assets/deviantart.svg');
+}
+
+.root[name="diamond"]::before {
+    icon-font: url('./assets/diamond.svg');
+}
+
+.root[name="digg"]::before {
+    icon-font: url('./assets/digg.svg');
+}
+
+.root[name="dollar"]::before {
+    icon-font: url('./assets/dollar.svg');
+}
+
+.root[name="dot-circle-o"]::before {
+    icon-font: url('./assets/dot-circle-o.svg');
+}
+
+.root[name="download"]::before {
+    icon-font: url('./assets/download.svg');
+}
+
+.root[name="dribbble"]::before {
+    icon-font: url('./assets/dribbble.svg');
+}
+
+.root[name="dropbox"]::before {
+    icon-font: url('./assets/dropbox.svg');
+}
+
+.root[name="drupal"]::before {
+    icon-font: url('./assets/drupal.svg');
+}
+
+.root[name="edit"]::before {
+    icon-font: url('./assets/edit.svg');
+}
+
+.root[name="eject"]::before {
+    icon-font: url('./assets/eject.svg');
+}
+
+.root[name="ellipsis-h"]::before {
+    icon-font: url('./assets/ellipsis-h.svg');
+}
+
+.root[name="ellipsis-v"]::before {
+    icon-font: url('./assets/ellipsis-v.svg');
+}
+
+.root[name="empire"]::before {
+    icon-font: url('./assets/empire.svg');
+}
+
+.root[name="envelope-o"]::before {
+    icon-font: url('./assets/envelope-o.svg');
+}
+
+.root[name="envelope-square"]::before {
+    icon-font: url('./assets/envelope-square.svg');
+}
+
+.root[name="envelope"]::before {
+    icon-font: url('./assets/envelope.svg');
+}
+
+.root[name="eraser"]::before {
+    icon-font: url('./assets/eraser.svg');
+}
+
+.root[name="eur"]::before {
+    icon-font: url('./assets/eur.svg');
+}
+
+.root[name="euro"]::before {
+    icon-font: url('./assets/euro.svg');
+}
+
+.root[name="exchange"]::before {
+    icon-font: url('./assets/exchange.svg');
+}
+
+.root[name="exclamation-circle"]::before {
+    icon-font: url('./assets/exclamation-circle.svg');
+}
+
+.root[name="exclamation-triangle"]::before {
+    icon-font: url('./assets/exclamation-triangle.svg');
+}
+
+.root[name="exclamation"]::before {
+    icon-font: url('./assets/exclamation.svg');
+}
+
+.root[name="expand"]::before {
+    icon-font: url('./assets/expand.svg');
+}
+
+.root[name="expeditedssl"]::before {
+    icon-font: url('./assets/expeditedssl.svg');
+}
+
+.root[name="external-link-square"]::before {
+    icon-font: url('./assets/external-link-square.svg');
+}
+
+.root[name="external-link"]::before {
+    icon-font: url('./assets/external-link.svg');
+}
+
+.root[name="eye-slash"]::before {
+    icon-font: url('./assets/eye-slash.svg');
+}
+
+.root[name="eye"]::before {
+    icon-font: url('./assets/eye.svg');
+}
+
+.root[name="eyedropper"]::before {
+    icon-font: url('./assets/eyedropper.svg');
+}
+
+.root[name="facebook-official"]::before {
+    icon-font: url('./assets/facebook-official.svg');
+}
+
+.root[name="facebook-square"]::before {
+    icon-font: url('./assets/facebook-square.svg');
+}
+
+.root[name="facebook"]::before {
+    icon-font: url('./assets/facebook.svg');
+}
+
+.root[name="fast-backward"]::before {
+    icon-font: url('./assets/fast-backward.svg');
+}
+
+.root[name="fast-forward"]::before {
+    icon-font: url('./assets/fast-forward.svg');
+}
+
+.root[name="fax"]::before {
+    icon-font: url('./assets/fax.svg');
+}
+
+.root[name="female"]::before {
+    icon-font: url('./assets/female.svg');
+}
+
+.root[name="fighter-jet"]::before {
+    icon-font: url('./assets/fighter-jet.svg');
+}
+
+.root[name="file-archive-o"]::before {
+    icon-font: url('./assets/file-archive-o.svg');
+}
+
+.root[name="file-audio-o"]::before {
+    icon-font: url('./assets/file-audio-o.svg');
+}
+
+.root[name="file-code-o"]::before {
+    icon-font: url('./assets/file-code-o.svg');
+}
+
+.root[name="file-excel-o"]::before {
+    icon-font: url('./assets/file-excel-o.svg');
+}
+
+.root[name="file-image-o"]::before {
+    icon-font: url('./assets/file-image-o.svg');
+}
+
+.root[name="file-movie-o"]::before {
+    icon-font: url('./assets/file-movie-o.svg');
+}
+
+.root[name="file-o"]::before {
+    icon-font: url('./assets/file-o.svg');
+}
+
+.root[name="file-pdf-o"]::before {
+    icon-font: url('./assets/file-pdf-o.svg');
+}
+
+.root[name="file-photo-o"]::before {
+    icon-font: url('./assets/file-photo-o.svg');
+}
+
+.root[name="file-picture-o"]::before {
+    icon-font: url('./assets/file-picture-o.svg');
+}
+
+.root[name="file-powerpoint-o"]::before {
+    icon-font: url('./assets/file-powerpoint-o.svg');
+}
+
+.root[name="file-sound-o"]::before {
+    icon-font: url('./assets/file-sound-o.svg');
+}
+
+.root[name="file-text-o"]::before {
+    icon-font: url('./assets/file-text-o.svg');
+}
+
+.root[name="file-text"]::before {
+    icon-font: url('./assets/file-text.svg');
+}
+
+.root[name="file-video-o"]::before {
+    icon-font: url('./assets/file-video-o.svg');
+}
+
+.root[name="file-word-o"]::before {
+    icon-font: url('./assets/file-word-o.svg');
+}
+
+.root[name="file-zip-o"]::before {
+    icon-font: url('./assets/file-zip-o.svg');
+}
+
+.root[name="file"]::before {
+    icon-font: url('./assets/file.svg');
+}
+
+.root[name="files-o"]::before {
+    icon-font: url('./assets/files-o.svg');
+}
+
+.root[name="film"]::before {
+    icon-font: url('./assets/film.svg');
+}
+
+.root[name="filter"]::before {
+    icon-font: url('./assets/filter.svg');
+}
+
+.root[name="fire-extinguisher"]::before {
+    icon-font: url('./assets/fire-extinguisher.svg');
+}
+
+.root[name="fire"]::before {
+    icon-font: url('./assets/fire.svg');
+}
+
+.root[name="firefox"]::before {
+    icon-font: url('./assets/firefox.svg');
+}
+
+.root[name="flag-checkered"]::before {
+    icon-font: url('./assets/flag-checkered.svg');
+}
+
+.root[name="flag-o"]::before {
+    icon-font: url('./assets/flag-o.svg');
+}
+
+.root[name="flag"]::before {
+    icon-font: url('./assets/flag.svg');
+}
+
+.root[name="flash"]::before {
+    icon-font: url('./assets/flash.svg');
+}
+
+.root[name="flask"]::before {
+    icon-font: url('./assets/flask.svg');
+}
+
+.root[name="flickr"]::before {
+    icon-font: url('./assets/flickr.svg');
+}
+
+.root[name="floppy-o"]::before {
+    icon-font: url('./assets/floppy-o.svg');
+}
+
+.root[name="folder-o"]::before {
+    icon-font: url('./assets/folder-o.svg');
+}
+
+.root[name="folder-open-o"]::before {
+    icon-font: url('./assets/folder-open-o.svg');
+}
+
+.root[name="folder-open"]::before {
+    icon-font: url('./assets/folder-open.svg');
+}
+
+.root[name="folder"]::before {
+    icon-font: url('./assets/folder.svg');
+}
+
+.root[name="font"]::before {
+    icon-font: url('./assets/font.svg');
+}
+
+.root[name="fonticons"]::before {
+    icon-font: url('./assets/fonticons.svg');
+}
+
+.root[name="forumbee"]::before {
+    icon-font: url('./assets/forumbee.svg');
+}
+
+.root[name="forward"]::before {
+    icon-font: url('./assets/forward.svg');
+}
+
+.root[name="foursquare"]::before {
+    icon-font: url('./assets/foursquare.svg');
+}
+
+.root[name="frown-o"]::before {
+    icon-font: url('./assets/frown-o.svg');
+}
+
+.root[name="futbol-o"]::before {
+    icon-font: url('./assets/futbol-o.svg');
+}
+
+.root[name="gamepad"]::before {
+    icon-font: url('./assets/gamepad.svg');
+}
+
+.root[name="gavel"]::before {
+    icon-font: url('./assets/gavel.svg');
+}
+
+.root[name="gbp"]::before {
+    icon-font: url('./assets/gbp.svg');
+}
+
+.root[name="gear"]::before {
+    icon-font: url('./assets/gear.svg');
+}
+
+.root[name="gears"]::before {
+    icon-font: url('./assets/gears.svg');
+}
+
+.root[name="genderless"]::before {
+    icon-font: url('./assets/genderless.svg');
+}
+
+.root[name="get-pocket"]::before {
+    icon-font: url('./assets/get-pocket.svg');
+}
+
+.root[name="gg-circle"]::before {
+    icon-font: url('./assets/gg-circle.svg');
+}
+
+.root[name="gg"]::before {
+    icon-font: url('./assets/gg.svg');
+}
+
+.root[name="gift"]::before {
+    icon-font: url('./assets/gift.svg');
+}
+
+.root[name="git-square"]::before {
+    icon-font: url('./assets/git-square.svg');
+}
+
+.root[name="git"]::before {
+    icon-font: url('./assets/git.svg');
+}
+
+.root[name="github-alt"]::before {
+    icon-font: url('./assets/github-alt.svg');
+}
+
+.root[name="github-square"]::before {
+    icon-font: url('./assets/github-square.svg');
+}
+
+.root[name="github"]::before {
+    icon-font: url('./assets/github.svg');
+}
+
+.root[name="glass"]::before {
+    icon-font: url('./assets/glass.svg');
+}
+
+.root[name="globe"]::before {
+    icon-font: url('./assets/globe.svg');
+}
+
+.root[name="google-plus-square"]::before {
+    icon-font: url('./assets/google-plus-square.svg');
+}
+
+.root[name="google-plus"]::before {
+    icon-font: url('./assets/google-plus.svg');
+}
+
+.root[name="google-wallet"]::before {
+    icon-font: url('./assets/google-wallet.svg');
+}
+
+.root[name="google"]::before {
+    icon-font: url('./assets/google.svg');
+}
+
+.root[name="graduation-cap"]::before {
+    icon-font: url('./assets/graduation-cap.svg');
+}
+
+.root[name="gratipay"]::before {
+    icon-font: url('./assets/gratipay.svg');
+}
+
+.root[name="group"]::before {
+    icon-font: url('./assets/group.svg');
+}
+
+.root[name="h-square"]::before {
+    icon-font: url('./assets/h-square.svg');
+}
+
+.root[name="hacker-news"]::before {
+    icon-font: url('./assets/hacker-news.svg');
+}
+
+.root[name="hand-grab-o"]::before {
+    icon-font: url('./assets/hand-grab-o.svg');
+}
+
+.root[name="hand-lizard-o"]::before {
+    icon-font: url('./assets/hand-lizard-o.svg');
+}
+
+.root[name="hand-o-down"]::before {
+    icon-font: url('./assets/hand-o-down.svg');
+}
+
+.root[name="hand-o-left"]::before {
+    icon-font: url('./assets/hand-o-left.svg');
+}
+
+.root[name="hand-o-right"]::before {
+    icon-font: url('./assets/hand-o-right.svg');
+}
+
+.root[name="hand-o-up"]::before {
+    icon-font: url('./assets/hand-o-up.svg');
+}
+
+.root[name="hand-paper-o"]::before {
+    icon-font: url('./assets/hand-paper-o.svg');
+}
+
+.root[name="hand-peace-o"]::before {
+    icon-font: url('./assets/hand-peace-o.svg');
+}
+
+.root[name="hand-pointer-o"]::before {
+    icon-font: url('./assets/hand-pointer-o.svg');
+}
+
+.root[name="hand-rock-o"]::before {
+    icon-font: url('./assets/hand-rock-o.svg');
+}
+
+.root[name="hand-scissors-o"]::before {
+    icon-font: url('./assets/hand-scissors-o.svg');
+}
+
+.root[name="hand-spock-o"]::before {
+    icon-font: url('./assets/hand-spock-o.svg');
+}
+
+.root[name="hand-stop-o"]::before {
+    icon-font: url('./assets/hand-stop-o.svg');
+}
+
+.root[name="hdd-o"]::before {
+    icon-font: url('./assets/hdd-o.svg');
+}
+
+.root[name="header"]::before {
+    icon-font: url('./assets/header.svg');
+}
+
+.root[name="headphones"]::before {
+    icon-font: url('./assets/headphones.svg');
+}
+
+.root[name="heart-o"]::before {
+    icon-font: url('./assets/heart-o.svg');
+}
+
+.root[name="heart"]::before {
+    icon-font: url('./assets/heart.svg');
+}
+
+.root[name="heartbeat"]::before {
+    icon-font: url('./assets/heartbeat.svg');
+}
+
+.root[name="history"]::before {
+    icon-font: url('./assets/history.svg');
+}
+
+.root[name="home"]::before {
+    icon-font: url('./assets/home.svg');
+}
+
+.root[name="hospital-o"]::before {
+    icon-font: url('./assets/hospital-o.svg');
+}
+
+.root[name="hotel"]::before {
+    icon-font: url('./assets/hotel.svg');
+}
+
+.root[name="hourglass-1"]::before {
+    icon-font: url('./assets/hourglass-1.svg');
+}
+
+.root[name="hourglass-2"]::before {
+    icon-font: url('./assets/hourglass-2.svg');
+}
+
+.root[name="hourglass-3"]::before {
+    icon-font: url('./assets/hourglass-3.svg');
+}
+
+.root[name="hourglass-end"]::before {
+    icon-font: url('./assets/hourglass-end.svg');
+}
+
+.root[name="hourglass-half"]::before {
+    icon-font: url('./assets/hourglass-half.svg');
+}
+
+.root[name="hourglass-o"]::before {
+    icon-font: url('./assets/hourglass-o.svg');
+}
+
+.root[name="hourglass-start"]::before {
+    icon-font: url('./assets/hourglass-start.svg');
+}
+
+.root[name="hourglass"]::before {
+    icon-font: url('./assets/hourglass.svg');
+}
+
+.root[name="houzz"]::before {
+    icon-font: url('./assets/houzz.svg');
+}
+
+.root[name="html5"]::before {
+    icon-font: url('./assets/html5.svg');
+}
+
+.root[name="i-cursor"]::before {
+    icon-font: url('./assets/i-cursor.svg');
+}
+
+.root[name="ils"]::before {
+    icon-font: url('./assets/ils.svg');
+}
+
+.root[name="image"]::before {
+    icon-font: url('./assets/image.svg');
+}
+
+.root[name="inbox"]::before {
+    icon-font: url('./assets/inbox.svg');
+}
+
+.root[name="indent"]::before {
+    icon-font: url('./assets/indent.svg');
+}
+
+.root[name="industry"]::before {
+    icon-font: url('./assets/industry.svg');
+}
+
+.root[name="info-circle"]::before {
+    icon-font: url('./assets/info-circle.svg');
+}
+
+.root[name="info"]::before {
+    icon-font: url('./assets/info.svg');
+}
+
+.root[name="inr"]::before {
+    icon-font: url('./assets/inr.svg');
+}
+
+.root[name="instagram"]::before {
+    icon-font: url('./assets/instagram.svg');
+}
+
+.root[name="institution"]::before {
+    icon-font: url('./assets/institution.svg');
+}
+
+.root[name="internet-explorer"]::before {
+    icon-font: url('./assets/internet-explorer.svg');
+}
+
+.root[name="ioxhost"]::before {
+    icon-font: url('./assets/ioxhost.svg');
+}
+
+.root[name="italic"]::before {
+    icon-font: url('./assets/italic.svg');
+}
+
+.root[name="joomla"]::before {
+    icon-font: url('./assets/joomla.svg');
+}
+
+.root[name="jpy"]::before {
+    icon-font: url('./assets/jpy.svg');
+}
+
+.root[name="jsfiddle"]::before {
+    icon-font: url('./assets/jsfiddle.svg');
+}
+
+.root[name="key"]::before {
+    icon-font: url('./assets/key.svg');
+}
+
+.root[name="keyboard-o"]::before {
+    icon-font: url('./assets/keyboard-o.svg');
+}
+
+.root[name="krw"]::before {
+    icon-font: url('./assets/krw.svg');
+}
+
+.root[name="language"]::before {
+    icon-font: url('./assets/language.svg');
+}
+
+.root[name="laptop"]::before {
+    icon-font: url('./assets/laptop.svg');
+}
+
+.root[name="lastfm-square"]::before {
+    icon-font: url('./assets/lastfm-square.svg');
+}
+
+.root[name="lastfm"]::before {
+    icon-font: url('./assets/lastfm.svg');
+}
+
+.root[name="leaf"]::before {
+    icon-font: url('./assets/leaf.svg');
+}
+
+.root[name="leanpub"]::before {
+    icon-font: url('./assets/leanpub.svg');
+}
+
+.root[name="legal"]::before {
+    icon-font: url('./assets/legal.svg');
+}
+
+.root[name="lemon-o"]::before {
+    icon-font: url('./assets/lemon-o.svg');
+}
+
+.root[name="level-down"]::before {
+    icon-font: url('./assets/level-down.svg');
+}
+
+.root[name="level-up"]::before {
+    icon-font: url('./assets/level-up.svg');
+}
+
+.root[name="life-bouy"]::before {
+    icon-font: url('./assets/life-bouy.svg');
+}
+
+.root[name="life-buoy"]::before {
+    icon-font: url('./assets/life-buoy.svg');
+}
+
+.root[name="life-ring"]::before {
+    icon-font: url('./assets/life-ring.svg');
+}
+
+.root[name="life-saver"]::before {
+    icon-font: url('./assets/life-saver.svg');
+}
+
+.root[name="lightbulb-o"]::before {
+    icon-font: url('./assets/lightbulb-o.svg');
+}
+
+.root[name="line-chart"]::before {
+    icon-font: url('./assets/line-chart.svg');
+}
+
+.root[name="link"]::before {
+    icon-font: url('./assets/link.svg');
+}
+
+.root[name="linkedin-square"]::before {
+    icon-font: url('./assets/linkedin-square.svg');
+}
+
+.root[name="linkedin"]::before {
+    icon-font: url('./assets/linkedin.svg');
+}
+
+.root[name="linux"]::before {
+    icon-font: url('./assets/linux.svg');
+}
+
+.root[name="list-alt"]::before {
+    icon-font: url('./assets/list-alt.svg');
+}
+
+.root[name="list-ol"]::before {
+    icon-font: url('./assets/list-ol.svg');
+}
+
+.root[name="list-ul"]::before {
+    icon-font: url('./assets/list-ul.svg');
+}
+
+.root[name="list"]::before {
+    icon-font: url('./assets/list.svg');
+}
+
+.root[name="location-arrow"]::before {
+    icon-font: url('./assets/location-arrow.svg');
+}
+
+.root[name="lock"]::before {
+    icon-font: url('./assets/lock.svg');
+}
+
+.root[name="long-arrow-down"]::before {
+    icon-font: url('./assets/long-arrow-down.svg');
+}
+
+.root[name="long-arrow-left"]::before {
+    icon-font: url('./assets/long-arrow-left.svg');
+}
+
+.root[name="long-arrow-right"]::before {
+    icon-font: url('./assets/long-arrow-right.svg');
+}
+
+.root[name="long-arrow-up"]::before {
+    icon-font: url('./assets/long-arrow-up.svg');
+}
+
+.root[name="magic"]::before {
+    icon-font: url('./assets/magic.svg');
+}
+
+.root[name="magnet"]::before {
+    icon-font: url('./assets/magnet.svg');
+}
+
+.root[name="mail-forward"]::before {
+    icon-font: url('./assets/mail-forward.svg');
+}
+
+.root[name="mail-reply-all"]::before {
+    icon-font: url('./assets/mail-reply-all.svg');
+}
+
+.root[name="mail-reply"]::before {
+    icon-font: url('./assets/mail-reply.svg');
+}
+
+.root[name="male"]::before {
+    icon-font: url('./assets/male.svg');
+}
+
+.root[name="map-marker"]::before {
+    icon-font: url('./assets/map-marker.svg');
+}
+
+.root[name="map-o"]::before {
+    icon-font: url('./assets/map-o.svg');
+}
+
+.root[name="map-pin"]::before {
+    icon-font: url('./assets/map-pin.svg');
+}
+
+.root[name="map-signs"]::before {
+    icon-font: url('./assets/map-signs.svg');
+}
+
+.root[name="map"]::before {
+    icon-font: url('./assets/map.svg');
+}
+
+.root[name="mars-double"]::before {
+    icon-font: url('./assets/mars-double.svg');
+}
+
+.root[name="mars-stroke-h"]::before {
+    icon-font: url('./assets/mars-stroke-h.svg');
+}
+
+.root[name="mars-stroke-v"]::before {
+    icon-font: url('./assets/mars-stroke-v.svg');
+}
+
+.root[name="mars-stroke"]::before {
+    icon-font: url('./assets/mars-stroke.svg');
+}
+
+.root[name="mars"]::before {
+    icon-font: url('./assets/mars.svg');
+}
+
+.root[name="maxcdn"]::before {
+    icon-font: url('./assets/maxcdn.svg');
+}
+
+.root[name="meanpath"]::before {
+    icon-font: url('./assets/meanpath.svg');
+}
+
+.root[name="medium"]::before {
+    icon-font: url('./assets/medium.svg');
+}
+
+.root[name="medkit"]::before {
+    icon-font: url('./assets/medkit.svg');
+}
+
+.root[name="meh-o"]::before {
+    icon-font: url('./assets/meh-o.svg');
+}
+
+.root[name="mercury"]::before {
+    icon-font: url('./assets/mercury.svg');
+}
+
+.root[name="microphone-slash"]::before {
+    icon-font: url('./assets/microphone-slash.svg');
+}
+
+.root[name="microphone"]::before {
+    icon-font: url('./assets/microphone.svg');
+}
+
+.root[name="minus-circle"]::before {
+    icon-font: url('./assets/minus-circle.svg');
+}
+
+.root[name="minus-square-o"]::before {
+    icon-font: url('./assets/minus-square-o.svg');
+}
+
+.root[name="minus-square"]::before {
+    icon-font: url('./assets/minus-square.svg');
+}
+
+.root[name="minus"]::before {
+    icon-font: url('./assets/minus.svg');
+}
+
+.root[name="mobile-phone"]::before {
+    icon-font: url('./assets/mobile-phone.svg');
+}
+
+.root[name="mobile"]::before {
+    icon-font: url('./assets/mobile.svg');
+}
+
+.root[name="money"]::before {
+    icon-font: url('./assets/money.svg');
+}
+
+.root[name="moon-o"]::before {
+    icon-font: url('./assets/moon-o.svg');
+}
+
+.root[name="mortar-board"]::before {
+    icon-font: url('./assets/mortar-board.svg');
+}
+
+.root[name="motorcycle"]::before {
+    icon-font: url('./assets/motorcycle.svg');
+}
+
+.root[name="mouse-pointer"]::before {
+    icon-font: url('./assets/mouse-pointer.svg');
+}
+
+.root[name="music"]::before {
+    icon-font: url('./assets/music.svg');
+}
+
+.root[name="navicon"]::before {
+    icon-font: url('./assets/navicon.svg');
+}
+
+.root[name="neuter"]::before {
+    icon-font: url('./assets/neuter.svg');
+}
+
+.root[name="newspaper-o"]::before {
+    icon-font: url('./assets/newspaper-o.svg');
+}
+
+.root[name="object-group"]::before {
+    icon-font: url('./assets/object-group.svg');
+}
+
+.root[name="object-ungroup"]::before {
+    icon-font: url('./assets/object-ungroup.svg');
+}
+
+.root[name="odnoklassniki-square"]::before {
+    icon-font: url('./assets/odnoklassniki-square.svg');
+}
+
+.root[name="odnoklassniki"]::before {
+    icon-font: url('./assets/odnoklassniki.svg');
+}
+
+.root[name="opencart"]::before {
+    icon-font: url('./assets/opencart.svg');
+}
+
+.root[name="openid"]::before {
+    icon-font: url('./assets/openid.svg');
+}
+
+.root[name="opera"]::before {
+    icon-font: url('./assets/opera.svg');
+}
+
+.root[name="optin-monster"]::before {
+    icon-font: url('./assets/optin-monster.svg');
+}
+
+.root[name="outdent"]::before {
+    icon-font: url('./assets/outdent.svg');
+}
+
+.root[name="pagelines"]::before {
+    icon-font: url('./assets/pagelines.svg');
+}
+
+.root[name="paint-brush"]::before {
+    icon-font: url('./assets/paint-brush.svg');
+}
+
+.root[name="paper-plane-o"]::before {
+    icon-font: url('./assets/paper-plane-o.svg');
+}
+
+.root[name="paper-plane"]::before {
+    icon-font: url('./assets/paper-plane.svg');
+}
+
+.root[name="paperclip"]::before {
+    icon-font: url('./assets/paperclip.svg');
+}
+
+.root[name="paragraph"]::before {
+    icon-font: url('./assets/paragraph.svg');
+}
+
+.root[name="paste"]::before {
+    icon-font: url('./assets/paste.svg');
+}
+
+.root[name="pause"]::before {
+    icon-font: url('./assets/pause.svg');
+}
+
+.root[name="paw"]::before {
+    icon-font: url('./assets/paw.svg');
+}
+
+.root[name="paypal"]::before {
+    icon-font: url('./assets/paypal.svg');
+}
+
+.root[name="pencil-square-o"]::before {
+    icon-font: url('./assets/pencil-square-o.svg');
+}
+
+.root[name="pencil-square"]::before {
+    icon-font: url('./assets/pencil-square.svg');
+}
+
+.root[name="pencil"]::before {
+    icon-font: url('./assets/pencil.svg');
+}
+
+.root[name="phone-square"]::before {
+    icon-font: url('./assets/phone-square.svg');
+}
+
+.root[name="phone"]::before {
+    icon-font: url('./assets/phone.svg');
+}
+
+.root[name="photo"]::before {
+    icon-font: url('./assets/photo.svg');
+}
+
+.root[name="picture-o"]::before {
+    icon-font: url('./assets/picture-o.svg');
+}
+
+.root[name="pie-chart"]::before {
+    icon-font: url('./assets/pie-chart.svg');
+}
+
+.root[name="pied-piper-alt"]::before {
+    icon-font: url('./assets/pied-piper-alt.svg');
+}
+
+.root[name="pied-piper"]::before {
+    icon-font: url('./assets/pied-piper.svg');
+}
+
+.root[name="pinterest-p"]::before {
+    icon-font: url('./assets/pinterest-p.svg');
+}
+
+.root[name="pinterest-square"]::before {
+    icon-font: url('./assets/pinterest-square.svg');
+}
+
+.root[name="pinterest"]::before {
+    icon-font: url('./assets/pinterest.svg');
+}
+
+.root[name="plane"]::before {
+    icon-font: url('./assets/plane.svg');
+}
+
+.root[name="play-circle-o"]::before {
+    icon-font: url('./assets/play-circle-o.svg');
+}
+
+.root[name="play-circle"]::before {
+    icon-font: url('./assets/play-circle.svg');
+}
+
+.root[name="play"]::before {
+    icon-font: url('./assets/play.svg');
+}
+
+.root[name="plug"]::before {
+    icon-font: url('./assets/plug.svg');
+}
+
+.root[name="plus-circle"]::before {
+    icon-font: url('./assets/plus-circle.svg');
+}
+
+.root[name="plus-square-o"]::before {
+    icon-font: url('./assets/plus-square-o.svg');
+}
+
+.root[name="plus-square"]::before {
+    icon-font: url('./assets/plus-square.svg');
+}
+
+.root[name="plus"]::before {
+    icon-font: url('./assets/plus.svg');
+}
+
+.root[name="power-off"]::before {
+    icon-font: url('./assets/power-off.svg');
+}
+
+.root[name="print"]::before {
+    icon-font: url('./assets/print.svg');
+}
+
+.root[name="puzzle-piece"]::before {
+    icon-font: url('./assets/puzzle-piece.svg');
+}
+
+.root[name="qq"]::before {
+    icon-font: url('./assets/qq.svg');
+}
+
+.root[name="qrcode"]::before {
+    icon-font: url('./assets/qrcode.svg');
+}
+
+.root[name="question-circle"]::before {
+    icon-font: url('./assets/question-circle.svg');
+}
+
+.root[name="question"]::before {
+    icon-font: url('./assets/question.svg');
+}
+
+.root[name="quote-left"]::before {
+    icon-font: url('./assets/quote-left.svg');
+}
+
+.root[name="quote-right"]::before {
+    icon-font: url('./assets/quote-right.svg');
+}
+
+.root[name="ra"]::before {
+    icon-font: url('./assets/ra.svg');
+}
+
+.root[name="random"]::before {
+    icon-font: url('./assets/random.svg');
+}
+
+.root[name="rebel"]::before {
+    icon-font: url('./assets/rebel.svg');
+}
+
+.root[name="recycle"]::before {
+    icon-font: url('./assets/recycle.svg');
+}
+
+.root[name="reddit-square"]::before {
+    icon-font: url('./assets/reddit-square.svg');
+}
+
+.root[name="reddit"]::before {
+    icon-font: url('./assets/reddit.svg');
+}
+
+.root[name="refresh"]::before {
+    icon-font: url('./assets/refresh.svg');
+}
+
+.root[name="registered"]::before {
+    icon-font: url('./assets/registered.svg');
+}
+
+.root[name="renren"]::before {
+    icon-font: url('./assets/renren.svg');
+}
+
+.root[name="reorder"]::before {
+    icon-font: url('./assets/reorder.svg');
+}
+
+.root[name="repeat"]::before {
+    icon-font: url('./assets/repeat.svg');
+}
+
+.root[name="reply-all"]::before {
+    icon-font: url('./assets/reply-all.svg');
+}
+
+.root[name="reply"]::before {
+    icon-font: url('./assets/reply.svg');
+}
+
+.root[name="retweet"]::before {
+    icon-font: url('./assets/retweet.svg');
+}
+
+.root[name="rmb"]::before {
+    icon-font: url('./assets/rmb.svg');
+}
+
+.root[name="road"]::before {
+    icon-font: url('./assets/road.svg');
+}
+
+.root[name="rocket"]::before {
+    icon-font: url('./assets/rocket.svg');
+}
+
+.root[name="rotate-left"]::before {
+    icon-font: url('./assets/rotate-left.svg');
+}
+
+.root[name="rotate-right"]::before {
+    icon-font: url('./assets/rotate-right.svg');
+}
+
+.root[name="rouble"]::before {
+    icon-font: url('./assets/rouble.svg');
+}
+
+.root[name="rss-square"]::before {
+    icon-font: url('./assets/rss-square.svg');
+}
+
+.root[name="rss"]::before {
+    icon-font: url('./assets/rss.svg');
+}
+
+.root[name="rub"]::before {
+    icon-font: url('./assets/rub.svg');
+}
+
+.root[name="ruble"]::before {
+    icon-font: url('./assets/ruble.svg');
+}
+
+.root[name="rupee"]::before {
+    icon-font: url('./assets/rupee.svg');
+}
+
+.root[name="safari"]::before {
+    icon-font: url('./assets/safari.svg');
+}
+
+.root[name="save"]::before {
+    icon-font: url('./assets/save.svg');
+}
+
+.root[name="scissors"]::before {
+    icon-font: url('./assets/scissors.svg');
+}
+
+.root[name="search-minus"]::before {
+    icon-font: url('./assets/search-minus.svg');
+}
+
+.root[name="search-plus"]::before {
+    icon-font: url('./assets/search-plus.svg');
+}
+
+.root[name="search"]::before {
+    icon-font: url('./assets/search.svg');
+}
+
+.root[name="sellsy"]::before {
+    icon-font: url('./assets/sellsy.svg');
+}
+
+.root[name="server"]::before {
+    icon-font: url('./assets/server.svg');
+}
+
+.root[name="share-alt-square"]::before {
+    icon-font: url('./assets/share-alt-square.svg');
+}
+
+.root[name="share-alt"]::before {
+    icon-font: url('./assets/share-alt.svg');
+}
+
+.root[name="share-square-o"]::before {
+    icon-font: url('./assets/share-square-o.svg');
+}
+
+.root[name="share-square"]::before {
+    icon-font: url('./assets/share-square.svg');
+}
+
+.root[name="share"]::before {
+    icon-font: url('./assets/share.svg');
+}
+
+.root[name="shekel"]::before {
+    icon-font: url('./assets/shekel.svg');
+}
+
+.root[name="sheqel"]::before {
+    icon-font: url('./assets/sheqel.svg');
+}
+
+.root[name="shield"]::before {
+    icon-font: url('./assets/shield.svg');
+}
+
+.root[name="ship"]::before {
+    icon-font: url('./assets/ship.svg');
+}
+
+.root[name="shirtsinbulk"]::before {
+    icon-font: url('./assets/shirtsinbulk.svg');
+}
+
+.root[name="shopping-cart"]::before {
+    icon-font: url('./assets/shopping-cart.svg');
+}
+
+.root[name="sign-in"]::before {
+    icon-font: url('./assets/sign-in.svg');
+}
+
+.root[name="sign-out"]::before {
+    icon-font: url('./assets/sign-out.svg');
+}
+
+.root[name="signal"]::before {
+    icon-font: url('./assets/signal.svg');
+}
+
+.root[name="simplybuilt"]::before {
+    icon-font: url('./assets/simplybuilt.svg');
+}
+
+.root[name="sitemap"]::before {
+    icon-font: url('./assets/sitemap.svg');
+}
+
+.root[name="skyatlas"]::before {
+    icon-font: url('./assets/skyatlas.svg');
+}
+
+.root[name="skype"]::before {
+    icon-font: url('./assets/skype.svg');
+}
+
+.root[name="slack"]::before {
+    icon-font: url('./assets/slack.svg');
+}
+
+.root[name="sliders"]::before {
+    icon-font: url('./assets/sliders.svg');
+}
+
+.root[name="slideshare"]::before {
+    icon-font: url('./assets/slideshare.svg');
+}
+
+.root[name="smile-o"]::before {
+    icon-font: url('./assets/smile-o.svg');
+}
+
+.root[name="sort-alpha-asc"]::before {
+    icon-font: url('./assets/sort-alpha-asc.svg');
+}
+
+.root[name="sort-alpha-desc"]::before {
+    icon-font: url('./assets/sort-alpha-desc.svg');
+}
+
+.root[name="sort-amount-asc"]::before {
+    icon-font: url('./assets/sort-amount-asc.svg');
+}
+
+.root[name="sort-amount-desc"]::before {
+    icon-font: url('./assets/sort-amount-desc.svg');
+}
+
+.root[name="sort-asc"]::before {
+    icon-font: url('./assets/sort-asc.svg');
+}
+
+.root[name="sort-desc"]::before {
+    icon-font: url('./assets/sort-desc.svg');
+}
+
+.root[name="sort-numeric-asc"]::before {
+    icon-font: url('./assets/sort-numeric-asc.svg');
+}
+
+.root[name="sort-numeric-desc"]::before {
+    icon-font: url('./assets/sort-numeric-desc.svg');
+}
+
+.root[name="sort"]::before {
+    icon-font: url('./assets/sort.svg');
+}
+
+.root[name="soundcloud"]::before {
+    icon-font: url('./assets/soundcloud.svg');
+}
+
+.root[name="space-shuttle"]::before {
+    icon-font: url('./assets/space-shuttle.svg');
+}
+
+.root[name="spinner"]::before {
+    icon-font: url('./assets/spinner.svg');
+}
+
+.root[name="spoon"]::before {
+    icon-font: url('./assets/spoon.svg');
+}
+
+.root[name="spotify"]::before {
+    icon-font: url('./assets/spotify.svg');
+}
+
+.root[name="square-o"]::before {
+    icon-font: url('./assets/square-o.svg');
+}
+
+.root[name="square"]::before {
+    icon-font: url('./assets/square.svg');
+}
+
+.root[name="stack-exchange"]::before {
+    icon-font: url('./assets/stack-exchange.svg');
+}
+
+.root[name="stack-overflow"]::before {
+    icon-font: url('./assets/stack-overflow.svg');
+}
+
+.root[name="star-half-o"]::before {
+    icon-font: url('./assets/star-half-o.svg');
+}
+
+.root[name="star-half"]::before {
+    icon-font: url('./assets/star-half.svg');
+}
+
+.root[name="star-o"]::before {
+    icon-font: url('./assets/star-o.svg');
+}
+
+.root[name="star"]::before {
+    icon-font: url('./assets/star.svg');
+}
+
+.root[name="steam-square"]::before {
+    icon-font: url('./assets/steam-square.svg');
+}
+
+.root[name="steam"]::before {
+    icon-font: url('./assets/steam.svg');
+}
+
+.root[name="step-backward"]::before {
+    icon-font: url('./assets/step-backward.svg');
+}
+
+.root[name="step-forward"]::before {
+    icon-font: url('./assets/step-forward.svg');
+}
+
+.root[name="stethoscope"]::before {
+    icon-font: url('./assets/stethoscope.svg');
+}
+
+.root[name="sticky-note-o"]::before {
+    icon-font: url('./assets/sticky-note-o.svg');
+}
+
+.root[name="sticky-note"]::before {
+    icon-font: url('./assets/sticky-note.svg');
+}
+
+.root[name="stop"]::before {
+    icon-font: url('./assets/stop.svg');
+}
+
+.root[name="street-view"]::before {
+    icon-font: url('./assets/street-view.svg');
+}
+
+.root[name="strikethrough"]::before {
+    icon-font: url('./assets/strikethrough.svg');
+}
+
+.root[name="stumbleupon-circle"]::before {
+    icon-font: url('./assets/stumbleupon-circle.svg');
+}
+
+.root[name="stumbleupon"]::before {
+    icon-font: url('./assets/stumbleupon.svg');
+}
+
+.root[name="subscript"]::before {
+    icon-font: url('./assets/subscript.svg');
+}
+
+.root[name="subway"]::before {
+    icon-font: url('./assets/subway.svg');
+}
+
+.root[name="suitcase"]::before {
+    icon-font: url('./assets/suitcase.svg');
+}
+
+.root[name="sun-o"]::before {
+    icon-font: url('./assets/sun-o.svg');
+}
+
+.root[name="superscript"]::before {
+    icon-font: url('./assets/superscript.svg');
+}
+
+.root[name="table"]::before {
+    icon-font: url('./assets/table.svg');
+}
+
+.root[name="tablet"]::before {
+    icon-font: url('./assets/tablet.svg');
+}
+
+.root[name="tachometer"]::before {
+    icon-font: url('./assets/tachometer.svg');
+}
+
+.root[name="tag"]::before {
+    icon-font: url('./assets/tag.svg');
+}
+
+.root[name="tags"]::before {
+    icon-font: url('./assets/tags.svg');
+}
+
+.root[name="tasks"]::before {
+    icon-font: url('./assets/tasks.svg');
+}
+
+.root[name="taxi"]::before {
+    icon-font: url('./assets/taxi.svg');
+}
+
+.root[name="television"]::before {
+    icon-font: url('./assets/television.svg');
+}
+
+.root[name="tencent-weibo"]::before {
+    icon-font: url('./assets/tencent-weibo.svg');
+}
+
+.root[name="terminal"]::before {
+    icon-font: url('./assets/terminal.svg');
+}
+
+.root[name="text-height"]::before {
+    icon-font: url('./assets/text-height.svg');
+}
+
+.root[name="text-width"]::before {
+    icon-font: url('./assets/text-width.svg');
+}
+
+.root[name="th-large"]::before {
+    icon-font: url('./assets/th-large.svg');
+}
+
+.root[name="th-list"]::before {
+    icon-font: url('./assets/th-list.svg');
+}
+
+.root[name="th"]::before {
+    icon-font: url('./assets/th.svg');
+}
+
+.root[name="thumb-tack"]::before {
+    icon-font: url('./assets/thumb-tack.svg');
+}
+
+.root[name="thumbs-down"]::before {
+    icon-font: url('./assets/thumbs-down.svg');
+}
+
+.root[name="thumbs-o-down"]::before {
+    icon-font: url('./assets/thumbs-o-down.svg');
+}
+
+.root[name="thumbs-o-up"]::before {
+    icon-font: url('./assets/thumbs-o-up.svg');
+}
+
+.root[name="thumbs-up"]::before {
+    icon-font: url('./assets/thumbs-up.svg');
+}
+
+.root[name="ticket"]::before {
+    icon-font: url('./assets/ticket.svg');
+}
+
+.root[name="times-circle-o"]::before {
+    icon-font: url('./assets/times-circle-o.svg');
+}
+
+.root[name="times-circle"]::before {
+    icon-font: url('./assets/times-circle.svg');
+}
+
+.root[name="times"]::before {
+    icon-font: url('./assets/times.svg');
+}
+
+.root[name="tint"]::before {
+    icon-font: url('./assets/tint.svg');
+}
+
+.root[name="toggle-off"]::before {
+    icon-font: url('./assets/toggle-off.svg');
+}
+
+.root[name="toggle-on"]::before {
+    icon-font: url('./assets/toggle-on.svg');
+}
+
+.root[name="trademark"]::before {
+    icon-font: url('./assets/trademark.svg');
+}
+
+.root[name="train"]::before {
+    icon-font: url('./assets/train.svg');
+}
+
+.root[name="transgender-alt"]::before {
+    icon-font: url('./assets/transgender-alt.svg');
+}
+
+.root[name="transgender"]::before {
+    icon-font: url('./assets/transgender.svg');
+}
+
+.root[name="trash-o"]::before {
+    icon-font: url('./assets/trash-o.svg');
+}
+
+.root[name="trash"]::before {
+    icon-font: url('./assets/trash.svg');
+}
+
+.root[name="tree"]::before {
+    icon-font: url('./assets/tree.svg');
+}
+
+.root[name="trello"]::before {
+    icon-font: url('./assets/trello.svg');
+}
+
+.root[name="tripadvisor"]::before {
+    icon-font: url('./assets/tripadvisor.svg');
+}
+
+.root[name="trophy"]::before {
+    icon-font: url('./assets/trophy.svg');
+}
+
+.root[name="truck"]::before {
+    icon-font: url('./assets/truck.svg');
+}
+
+.root[name="try"]::before {
+    icon-font: url('./assets/try.svg');
+}
+
+.root[name="tty"]::before {
+    icon-font: url('./assets/tty.svg');
+}
+
+.root[name="tumblr-square"]::before {
+    icon-font: url('./assets/tumblr-square.svg');
+}
+
+.root[name="tumblr"]::before {
+    icon-font: url('./assets/tumblr.svg');
+}
+
+.root[name="turkish-lira"]::before {
+    icon-font: url('./assets/turkish-lira.svg');
+}
+
+.root[name="twitch"]::before {
+    icon-font: url('./assets/twitch.svg');
+}
+
+.root[name="twitter-square"]::before {
+    icon-font: url('./assets/twitter-square.svg');
+}
+
+.root[name="twitter"]::before {
+    icon-font: url('./assets/twitter.svg');
+}
+
+.root[name="umbrella"]::before {
+    icon-font: url('./assets/umbrella.svg');
+}
+
+.root[name="underline"]::before {
+    icon-font: url('./assets/underline.svg');
+}
+
+.root[name="undo"]::before {
+    icon-font: url('./assets/undo.svg');
+}
+
+.root[name="university"]::before {
+    icon-font: url('./assets/university.svg');
+}
+
+.root[name="unlink"]::before {
+    icon-font: url('./assets/unlink.svg');
+}
+
+.root[name="unlock-alt"]::before {
+    icon-font: url('./assets/unlock-alt.svg');
+}
+
+.root[name="unlock"]::before {
+    icon-font: url('./assets/unlock.svg');
+}
+
+.root[name="upload"]::before {
+    icon-font: url('./assets/upload.svg');
+}
+
+.root[name="usd"]::before {
+    icon-font: url('./assets/usd.svg');
+}
+
+.root[name="user-md"]::before {
+    icon-font: url('./assets/user-md.svg');
+}
+
+.root[name="user-plus"]::before {
+    icon-font: url('./assets/user-plus.svg');
+}
+
+.root[name="user-secret"]::before {
+    icon-font: url('./assets/user-secret.svg');
+}
+
+.root[name="user-times"]::before {
+    icon-font: url('./assets/user-times.svg');
+}
+
+.root[name="user"]::before {
+    icon-font: url('./assets/user.svg');
+}
+
+.root[name="users"]::before {
+    icon-font: url('./assets/users.svg');
+}
+
+.root[name="venus-double"]::before {
+    icon-font: url('./assets/venus-double.svg');
+}
+
+.root[name="venus-mars"]::before {
+    icon-font: url('./assets/venus-mars.svg');
+}
+
+.root[name="venus"]::before {
+    icon-font: url('./assets/venus.svg');
+}
+
+.root[name="viacoin"]::before {
+    icon-font: url('./assets/viacoin.svg');
+}
+
+.root[name="video-camera"]::before {
+    icon-font: url('./assets/video-camera.svg');
+}
+
+.root[name="vimeo-square"]::before {
+    icon-font: url('./assets/vimeo-square.svg');
+}
+
+.root[name="vimeo"]::before {
+    icon-font: url('./assets/vimeo.svg');
+}
+
+.root[name="vine"]::before {
+    icon-font: url('./assets/vine.svg');
+}
+
+.root[name="vk"]::before {
+    icon-font: url('./assets/vk.svg');
+}
+
+.root[name="volume-down"]::before {
+    icon-font: url('./assets/volume-down.svg');
+}
+
+.root[name="volume-off"]::before {
+    icon-font: url('./assets/volume-off.svg');
+}
+
+.root[name="volume-up"]::before {
+    icon-font: url('./assets/volume-up.svg');
+}
+
+.root[name="warning"]::before {
+    icon-font: url('./assets/warning.svg');
+}
+
+.root[name="wechat"]::before {
+    icon-font: url('./assets/wechat.svg');
+}
+
+.root[name="weibo"]::before {
+    icon-font: url('./assets/weibo.svg');
+}
+
+.root[name="weixin"]::before {
+    icon-font: url('./assets/weixin.svg');
+}
+
+.root[name="whatsapp"]::before {
+    icon-font: url('./assets/whatsapp.svg');
+}
+
+.root[name="wheelchair"]::before {
+    icon-font: url('./assets/wheelchair.svg');
+}
+
+.root[name="wifi"]::before {
+    icon-font: url('./assets/wifi.svg');
+}
+
+.root[name="wikipedia-w"]::before {
+    icon-font: url('./assets/wikipedia-w.svg');
+}
+
+.root[name="windows"]::before {
+    icon-font: url('./assets/windows.svg');
+}
+
+.root[name="won"]::before {
+    icon-font: url('./assets/won.svg');
+}
+
+.root[name="wordpress"]::before {
+    icon-font: url('./assets/wordpress.svg');
+}
+
+.root[name="wrench"]::before {
+    icon-font: url('./assets/wrench.svg');
+}
+
+.root[name="xing-square"]::before {
+    icon-font: url('./assets/xing-square.svg');
+}
+
+.root[name="xing"]::before {
+    icon-font: url('./assets/xing.svg');
+}
+
+.root[name="y-combinator-square"]::before {
+    icon-font: url('./assets/y-combinator-square.svg');
+}
+
+.root[name="y-combinator"]::before {
+    icon-font: url('./assets/y-combinator.svg');
+}
+
+.root[name="yahoo"]::before {
+    icon-font: url('./assets/yahoo.svg');
+}
+
+.root[name="yc-square"]::before {
+    icon-font: url('./assets/yc-square.svg');
+}
+
+.root[name="yc"]::before {
+    icon-font: url('./assets/yc.svg');
+}
+
+.root[name="yelp"]::before {
+    icon-font: url('./assets/yelp.svg');
+}
+
+.root[name="yen"]::before {
+    icon-font: url('./assets/yen.svg');
+}
+
+.root[name="youtube-play"]::before {
+    icon-font: url('./assets/youtube-play.svg');
+}
+
+.root[name="youtube-square"]::before {
+    icon-font: url('./assets/youtube-square.svg');
+}
+
+.root[name="youtube"]::before {
+    icon-font: url('./assets/youtube.svg');
+}

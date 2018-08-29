@@ -1,0 +1,37 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
+const shell = require('shelljs');
+
+/**
+ * Parse Commands
+ */
+const program = require('commander');
+program
+    .usage('<iconset> <action>')
+    // .version(pkg.version)
+    // .option('-c, --config-path <path>', 'Vusion config path')
+    .parse(process.argv);
+
+let [iconset, action] = program.args;
+iconset = iconset.replace(/\.vue$/, '');
+
+shell.cd(path.resolve(__dirname, `../src/${iconset}.vue/assets/`));
+const icons = fs.readdirSync('.').filter((icon) => icon.endsWith('.svg')).map((icon) => icon.replace(/\.svg$/, ''));
+
+if (action === 'css') {
+    fs.writeFileSync('../module.css', icons.map((icon) => `.root[name="${icon}"]::before {
+    icon-font: url('./assets/${icon}.svg');
+}
+`).join('\n'));
+} else if (action === 'doc') {
+    fs.writeFileSync('../README.tmp.md', icons.map((icon) => `<u-icon-example title="${icon}"><${iconset} name="${icon}"></${iconset}></u-icon-example>`).join('\n'));
+} else if (action === 'replace') {
+    icons.forEach((icon) => shell.mv(icon + '.svg', icon.replace(/-48px$/g, '') + '.svg'));
+} else if (action === 'rm') {
+    icons.filter((icon) => /24px$/.test(icon)).forEach((icon) => shell.rm(icon + '.svg'));
+} else if (action === 'length') {
+    console.info(icons.length);
+}
+

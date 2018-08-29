@@ -1,0 +1,599 @@
+.root[name="add-a-photo"]::before {
+    icon-font: url('./assets/add-a-photo.svg');
+}
+
+.root[name="add-to-photos"]::before {
+    icon-font: url('./assets/add-to-photos.svg');
+}
+
+.root[name="adjust"]::before {
+    icon-font: url('./assets/adjust.svg');
+}
+
+.root[name="assistant-photo"]::before {
+    icon-font: url('./assets/assistant-photo.svg');
+}
+
+.root[name="assistant"]::before {
+    icon-font: url('./assets/assistant.svg');
+}
+
+.root[name="audiotrack"]::before {
+    icon-font: url('./assets/audiotrack.svg');
+}
+
+.root[name="blur-circular"]::before {
+    icon-font: url('./assets/blur-circular.svg');
+}
+
+.root[name="blur-linear"]::before {
+    icon-font: url('./assets/blur-linear.svg');
+}
+
+.root[name="blur-off"]::before {
+    icon-font: url('./assets/blur-off.svg');
+}
+
+.root[name="blur-on"]::before {
+    icon-font: url('./assets/blur-on.svg');
+}
+
+.root[name="brightness-1"]::before {
+    icon-font: url('./assets/brightness-1.svg');
+}
+
+.root[name="brightness-2"]::before {
+    icon-font: url('./assets/brightness-2.svg');
+}
+
+.root[name="brightness-3"]::before {
+    icon-font: url('./assets/brightness-3.svg');
+}
+
+.root[name="brightness-4"]::before {
+    icon-font: url('./assets/brightness-4.svg');
+}
+
+.root[name="brightness-5"]::before {
+    icon-font: url('./assets/brightness-5.svg');
+}
+
+.root[name="brightness-6"]::before {
+    icon-font: url('./assets/brightness-6.svg');
+}
+
+.root[name="brightness-7"]::before {
+    icon-font: url('./assets/brightness-7.svg');
+}
+
+.root[name="broken-image"]::before {
+    icon-font: url('./assets/broken-image.svg');
+}
+
+.root[name="brush"]::before {
+    icon-font: url('./assets/brush.svg');
+}
+
+.root[name="burst-mode"]::before {
+    icon-font: url('./assets/burst-mode.svg');
+}
+
+.root[name="camera-alt"]::before {
+    icon-font: url('./assets/camera-alt.svg');
+}
+
+.root[name="camera-front"]::before {
+    icon-font: url('./assets/camera-front.svg');
+}
+
+.root[name="camera-rear"]::before {
+    icon-font: url('./assets/camera-rear.svg');
+}
+
+.root[name="camera-roll"]::before {
+    icon-font: url('./assets/camera-roll.svg');
+}
+
+.root[name="camera"]::before {
+    icon-font: url('./assets/camera.svg');
+}
+
+.root[name="center-focus-strong"]::before {
+    icon-font: url('./assets/center-focus-strong.svg');
+}
+
+.root[name="center-focus-weak"]::before {
+    icon-font: url('./assets/center-focus-weak.svg');
+}
+
+.root[name="collections"]::before {
+    icon-font: url('./assets/collections.svg');
+}
+
+.root[name="color-lens"]::before {
+    icon-font: url('./assets/color-lens.svg');
+}
+
+.root[name="colorize"]::before {
+    icon-font: url('./assets/colorize.svg');
+}
+
+.root[name="compare"]::before {
+    icon-font: url('./assets/compare.svg');
+}
+
+.root[name="control-point-duplicate"]::before {
+    icon-font: url('./assets/control-point-duplicate.svg');
+}
+
+.root[name="control-point"]::before {
+    icon-font: url('./assets/control-point.svg');
+}
+
+.root[name="crop-16-9"]::before {
+    icon-font: url('./assets/crop-16-9.svg');
+}
+
+.root[name="crop-3-2"]::before {
+    icon-font: url('./assets/crop-3-2.svg');
+}
+
+.root[name="crop-5-4"]::before {
+    icon-font: url('./assets/crop-5-4.svg');
+}
+
+.root[name="crop-7-5"]::before {
+    icon-font: url('./assets/crop-7-5.svg');
+}
+
+.root[name="crop-din"]::before {
+    icon-font: url('./assets/crop-din.svg');
+}
+
+.root[name="crop-free"]::before {
+    icon-font: url('./assets/crop-free.svg');
+}
+
+.root[name="crop-landscape"]::before {
+    icon-font: url('./assets/crop-landscape.svg');
+}
+
+.root[name="crop-original"]::before {
+    icon-font: url('./assets/crop-original.svg');
+}
+
+.root[name="crop-portrait"]::before {
+    icon-font: url('./assets/crop-portrait.svg');
+}
+
+.root[name="crop-rotate"]::before {
+    icon-font: url('./assets/crop-rotate.svg');
+}
+
+.root[name="crop-square"]::before {
+    icon-font: url('./assets/crop-square.svg');
+}
+
+.root[name="crop"]::before {
+    icon-font: url('./assets/crop.svg');
+}
+
+.root[name="dehaze"]::before {
+    icon-font: url('./assets/dehaze.svg');
+}
+
+.root[name="details"]::before {
+    icon-font: url('./assets/details.svg');
+}
+
+.root[name="edit"]::before {
+    icon-font: url('./assets/edit.svg');
+}
+
+.root[name="exposure-neg-1"]::before {
+    icon-font: url('./assets/exposure-neg-1.svg');
+}
+
+.root[name="exposure-neg-2"]::before {
+    icon-font: url('./assets/exposure-neg-2.svg');
+}
+
+.root[name="exposure-plus-1"]::before {
+    icon-font: url('./assets/exposure-plus-1.svg');
+}
+
+.root[name="exposure-plus-2"]::before {
+    icon-font: url('./assets/exposure-plus-2.svg');
+}
+
+.root[name="exposure-zero"]::before {
+    icon-font: url('./assets/exposure-zero.svg');
+}
+
+.root[name="exposure"]::before {
+    icon-font: url('./assets/exposure.svg');
+}
+
+.root[name="filter-1"]::before {
+    icon-font: url('./assets/filter-1.svg');
+}
+
+.root[name="filter-2"]::before {
+    icon-font: url('./assets/filter-2.svg');
+}
+
+.root[name="filter-3"]::before {
+    icon-font: url('./assets/filter-3.svg');
+}
+
+.root[name="filter-4"]::before {
+    icon-font: url('./assets/filter-4.svg');
+}
+
+.root[name="filter-5"]::before {
+    icon-font: url('./assets/filter-5.svg');
+}
+
+.root[name="filter-6"]::before {
+    icon-font: url('./assets/filter-6.svg');
+}
+
+.root[name="filter-7"]::before {
+    icon-font: url('./assets/filter-7.svg');
+}
+
+.root[name="filter-8"]::before {
+    icon-font: url('./assets/filter-8.svg');
+}
+
+.root[name="filter-9-plus"]::before {
+    icon-font: url('./assets/filter-9-plus.svg');
+}
+
+.root[name="filter-9"]::before {
+    icon-font: url('./assets/filter-9.svg');
+}
+
+.root[name="filter-b-and-w"]::before {
+    icon-font: url('./assets/filter-b-and-w.svg');
+}
+
+.root[name="filter-center-focus"]::before {
+    icon-font: url('./assets/filter-center-focus.svg');
+}
+
+.root[name="filter-drama"]::before {
+    icon-font: url('./assets/filter-drama.svg');
+}
+
+.root[name="filter-frames"]::before {
+    icon-font: url('./assets/filter-frames.svg');
+}
+
+.root[name="filter-hdr"]::before {
+    icon-font: url('./assets/filter-hdr.svg');
+}
+
+.root[name="filter-none"]::before {
+    icon-font: url('./assets/filter-none.svg');
+}
+
+.root[name="filter-tilt-shift"]::before {
+    icon-font: url('./assets/filter-tilt-shift.svg');
+}
+
+.root[name="filter-vintage"]::before {
+    icon-font: url('./assets/filter-vintage.svg');
+}
+
+.root[name="filter"]::before {
+    icon-font: url('./assets/filter.svg');
+}
+
+.root[name="flare"]::before {
+    icon-font: url('./assets/flare.svg');
+}
+
+.root[name="flash-auto"]::before {
+    icon-font: url('./assets/flash-auto.svg');
+}
+
+.root[name="flash-off"]::before {
+    icon-font: url('./assets/flash-off.svg');
+}
+
+.root[name="flash-on"]::before {
+    icon-font: url('./assets/flash-on.svg');
+}
+
+.root[name="flip"]::before {
+    icon-font: url('./assets/flip.svg');
+}
+
+.root[name="gradient"]::before {
+    icon-font: url('./assets/gradient.svg');
+}
+
+.root[name="grain"]::before {
+    icon-font: url('./assets/grain.svg');
+}
+
+.root[name="grid-off"]::before {
+    icon-font: url('./assets/grid-off.svg');
+}
+
+.root[name="grid-on"]::before {
+    icon-font: url('./assets/grid-on.svg');
+}
+
+.root[name="hdr-off"]::before {
+    icon-font: url('./assets/hdr-off.svg');
+}
+
+.root[name="hdr-on"]::before {
+    icon-font: url('./assets/hdr-on.svg');
+}
+
+.root[name="hdr-strong"]::before {
+    icon-font: url('./assets/hdr-strong.svg');
+}
+
+.root[name="hdr-weak"]::before {
+    icon-font: url('./assets/hdr-weak.svg');
+}
+
+.root[name="healing"]::before {
+    icon-font: url('./assets/healing.svg');
+}
+
+.root[name="image-aspect-ratio"]::before {
+    icon-font: url('./assets/image-aspect-ratio.svg');
+}
+
+.root[name="image"]::before {
+    icon-font: url('./assets/image.svg');
+}
+
+.root[name="iso"]::before {
+    icon-font: url('./assets/iso.svg');
+}
+
+.root[name="landscape"]::before {
+    icon-font: url('./assets/landscape.svg');
+}
+
+.root[name="leak-add"]::before {
+    icon-font: url('./assets/leak-add.svg');
+}
+
+.root[name="leak-remove"]::before {
+    icon-font: url('./assets/leak-remove.svg');
+}
+
+.root[name="lens"]::before {
+    icon-font: url('./assets/lens.svg');
+}
+
+.root[name="linked-camera"]::before {
+    icon-font: url('./assets/linked-camera.svg');
+}
+
+.root[name="looks-3"]::before {
+    icon-font: url('./assets/looks-3.svg');
+}
+
+.root[name="looks-4"]::before {
+    icon-font: url('./assets/looks-4.svg');
+}
+
+.root[name="looks-5"]::before {
+    icon-font: url('./assets/looks-5.svg');
+}
+
+.root[name="looks-6"]::before {
+    icon-font: url('./assets/looks-6.svg');
+}
+
+.root[name="looks-one"]::before {
+    icon-font: url('./assets/looks-one.svg');
+}
+
+.root[name="looks-two"]::before {
+    icon-font: url('./assets/looks-two.svg');
+}
+
+.root[name="looks"]::before {
+    icon-font: url('./assets/looks.svg');
+}
+
+.root[name="loupe"]::before {
+    icon-font: url('./assets/loupe.svg');
+}
+
+.root[name="monochrome-photos"]::before {
+    icon-font: url('./assets/monochrome-photos.svg');
+}
+
+.root[name="movie-creation"]::before {
+    icon-font: url('./assets/movie-creation.svg');
+}
+
+.root[name="movie-filter"]::before {
+    icon-font: url('./assets/movie-filter.svg');
+}
+
+.root[name="music-note"]::before {
+    icon-font: url('./assets/music-note.svg');
+}
+
+.root[name="nature-people"]::before {
+    icon-font: url('./assets/nature-people.svg');
+}
+
+.root[name="nature"]::before {
+    icon-font: url('./assets/nature.svg');
+}
+
+.root[name="navigate-before"]::before {
+    icon-font: url('./assets/navigate-before.svg');
+}
+
+.root[name="navigate-next"]::before {
+    icon-font: url('./assets/navigate-next.svg');
+}
+
+.root[name="palette"]::before {
+    icon-font: url('./assets/palette.svg');
+}
+
+.root[name="panorama-fish-eye"]::before {
+    icon-font: url('./assets/panorama-fish-eye.svg');
+}
+
+.root[name="panorama-horizontal"]::before {
+    icon-font: url('./assets/panorama-horizontal.svg');
+}
+
+.root[name="panorama-vertical"]::before {
+    icon-font: url('./assets/panorama-vertical.svg');
+}
+
+.root[name="panorama-wide-angle"]::before {
+    icon-font: url('./assets/panorama-wide-angle.svg');
+}
+
+.root[name="panorama"]::before {
+    icon-font: url('./assets/panorama.svg');
+}
+
+.root[name="photo-album"]::before {
+    icon-font: url('./assets/photo-album.svg');
+}
+
+.root[name="photo-camera"]::before {
+    icon-font: url('./assets/photo-camera.svg');
+}
+
+.root[name="photo-filter"]::before {
+    icon-font: url('./assets/photo-filter.svg');
+}
+
+.root[name="photo-library"]::before {
+    icon-font: url('./assets/photo-library.svg');
+}
+
+.root[name="photo"]::before {
+    icon-font: url('./assets/photo.svg');
+}
+
+.root[name="picture-as-pdf"]::before {
+    icon-font: url('./assets/picture-as-pdf.svg');
+}
+
+.root[name="portrait"]::before {
+    icon-font: url('./assets/portrait.svg');
+}
+
+.root[name="remove-red-eye"]::before {
+    icon-font: url('./assets/remove-red-eye.svg');
+}
+
+.root[name="rotate-90-degrees-ccw"]::before {
+    icon-font: url('./assets/rotate-90-degrees-ccw.svg');
+}
+
+.root[name="rotate-left"]::before {
+    icon-font: url('./assets/rotate-left.svg');
+}
+
+.root[name="rotate-right"]::before {
+    icon-font: url('./assets/rotate-right.svg');
+}
+
+.root[name="slideshow"]::before {
+    icon-font: url('./assets/slideshow.svg');
+}
+
+.root[name="straighten"]::before {
+    icon-font: url('./assets/straighten.svg');
+}
+
+.root[name="style"]::before {
+    icon-font: url('./assets/style.svg');
+}
+
+.root[name="switch-camera"]::before {
+    icon-font: url('./assets/switch-camera.svg');
+}
+
+.root[name="switch-video"]::before {
+    icon-font: url('./assets/switch-video.svg');
+}
+
+.root[name="tag-faces"]::before {
+    icon-font: url('./assets/tag-faces.svg');
+}
+
+.root[name="texture"]::before {
+    icon-font: url('./assets/texture.svg');
+}
+
+.root[name="timelapse"]::before {
+    icon-font: url('./assets/timelapse.svg');
+}
+
+.root[name="timer-10"]::before {
+    icon-font: url('./assets/timer-10.svg');
+}
+
+.root[name="timer-3"]::before {
+    icon-font: url('./assets/timer-3.svg');
+}
+
+.root[name="timer-off"]::before {
+    icon-font: url('./assets/timer-off.svg');
+}
+
+.root[name="timer"]::before {
+    icon-font: url('./assets/timer.svg');
+}
+
+.root[name="tonality"]::before {
+    icon-font: url('./assets/tonality.svg');
+}
+
+.root[name="transform"]::before {
+    icon-font: url('./assets/transform.svg');
+}
+
+.root[name="tune"]::before {
+    icon-font: url('./assets/tune.svg');
+}
+
+.root[name="view-comfy"]::before {
+    icon-font: url('./assets/view-comfy.svg');
+}
+
+.root[name="view-compact"]::before {
+    icon-font: url('./assets/view-compact.svg');
+}
+
+.root[name="wb-auto"]::before {
+    icon-font: url('./assets/wb-auto.svg');
+}
+
+.root[name="wb-cloudy"]::before {
+    icon-font: url('./assets/wb-cloudy.svg');
+}
+
+.root[name="wb-incandescent"]::before {
+    icon-font: url('./assets/wb-incandescent.svg');
+}
+
+.root[name="wb-iridescent"]::before {
+    icon-font: url('./assets/wb-iridescent.svg');
+}
+
+.root[name="wb-sunny"]::before {
+    icon-font: url('./assets/wb-sunny.svg');
+}

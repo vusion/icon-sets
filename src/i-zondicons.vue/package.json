@@ -1,0 +1,25 @@
+{
+  "name": "i-zondicons",
+  "description": "Vusion Icon Set - Feather",
+  "version": "1.0.0",
+  "author": "Rainfore <rainforest92@126.com>",
+  "main": "./index.js",
+  "repository": "vusion/icon-sets",
+  "homepage": "http://vusion.github.io",
+  "bugs": {
+    "url": "http://github.com/vusion/icon-sets/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vusion",
+    "icon",
+    "iconset",
+    "zondicons"
+  ],
+  "tags": [
+    "vusion",
+    "icon",
+    "iconset",
+    "zondicons"
+  ]
+}

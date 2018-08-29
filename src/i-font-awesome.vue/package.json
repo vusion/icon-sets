@@ -1,0 +1,30 @@
+{
+  "name": "i-font-awesome.vue",
+  "description": "Vusion Icon Set - FontAwesome",
+  "version": "5.2.0",
+  "author": "Rainfore <rainforest92@126.com>",
+  "main": "./index.js",
+  "repository": "vusion/icon-sets",
+  "homepage": "http://vusion.github.io",
+  "bugs": {
+    "url": "http://github.com/vusion/icon-sets/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vusion",
+    "icon",
+    "iconset",
+    "font",
+    "awesome"
+  ],
+  "tags": [
+    "vusion",
+    "icon",
+    "iconset",
+    "font",
+    "awesome"
+  ],
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0"
+  }
+}

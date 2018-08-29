@@ -1,0 +1,30 @@
+{
+  "name": "i-line-awesome.vue",
+  "description": "Vusion Icon Set - LineAwesome",
+  "version": "1.0.2",
+  "author": "Rainfore <rainforest92@126.com>",
+  "main": "./index.js",
+  "repository": "vusion/icon-sets",
+  "homepage": "http://vusion.github.io",
+  "bugs": {
+    "url": "http://github.com/vusion/icon-sets/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vusion",
+    "icon",
+    "iconset",
+    "line",
+    "awesome"
+  ],
+  "tags": [
+    "vusion",
+    "icon",
+    "iconset",
+    "line",
+    "awesome"
+  ],
+  "devDependencies": {
+    "line-awesome": "^1.0.2"
+  }
+}

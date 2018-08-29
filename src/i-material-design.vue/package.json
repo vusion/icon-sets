@@ -1,0 +1,30 @@
+{
+  "name": "i-material-design.vue",
+  "description": "Vusion Icon Set - MaterialDesign",
+  "version": "3.0.1",
+  "author": "Material Design Authors",
+  "main": "./index.js",
+  "repository": "vusion/icon-sets",
+  "homepage": "http://vusion.github.io",
+  "bugs": {
+    "url": "http://github.com/vusion/icon-sets/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vusion",
+    "icon",
+    "iconset",
+    "material",
+    "design"
+  ],
+  "tags": [
+    "vusion",
+    "icon",
+    "iconset",
+    "material",
+    "design"
+  ],
+  "devDependencies": {
+    "material-design-icons": "^3.0.1"
+  }
+}
