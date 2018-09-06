@@ -27,7 +27,7 @@
 ``` js
 import IZondicons from 'i-zondicons.vue';
 
-Vue.component(IZondicons);
+Vue.component('i-zondicons', IZondicons);
 ```
 
 然后按照如下方式使用

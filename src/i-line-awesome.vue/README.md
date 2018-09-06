@@ -27,7 +27,7 @@
 ``` js
 import ILineAwesome from 'i-line-awesome.vue';
 
-Vue.component(ILineAwesome);
+Vue.component('i-line-awesome', ILineAwesome);
 ```
 
 然后按照如下方式使用

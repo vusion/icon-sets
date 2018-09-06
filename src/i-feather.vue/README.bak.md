@@ -27,7 +27,7 @@
 ``` js
 import IFeather from 'i-feather.vue';
 
-Vue.component(IFeather);
+Vue.component('i-feather', IFeather);
 ```
 
 然后按照如下方式使用

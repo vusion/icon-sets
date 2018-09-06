@@ -27,7 +27,7 @@
 ``` js
 import IMaterialDesign from 'i-material-design.vue';
 
-Vue.component(IMaterialDesign);
+Vue.component('i-material-design', IMaterialDesign);
 ```
 
 然后按照如下方式使用

@@ -27,7 +27,7 @@
 ``` js
 import IFontAwesome from 'i-font-awesome.vue';
 
-Vue.component(IFontAwesome);
+Vue.component('i-font-awesome', IFontAwesome);
 ```
 
 然后按照如下方式使用

@@ -27,7 +27,7 @@
 ``` js
 import ILinear from 'i-linear.vue';
 
-Vue.component(ILinear);
+Vue.component('i-linear', ILinear);
 ```
 
 然后按照如下方式使用
