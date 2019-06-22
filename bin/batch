@@ -17,7 +17,7 @@ program
 let [iconset, action] = program.args;
 iconset = iconset.replace(/\.vue$/, '');
 
-shell.cd(path.resolve(__dirname, `../src/${iconset}.vue/assets/`));
+shell.cd(path.resolve(__dirname, `../src/components/${iconset}.vue/assets/`));
 const icons = fs.readdirSync('.').filter((icon) => icon.endsWith('.svg')).map((icon) => icon.replace(/\.svg$/, ''));
 
 if (action === 'css') {
@@ -26,7 +26,7 @@ if (action === 'css') {
 }
 `).join('\n'));
 } else if (action === 'doc') {
-    fs.writeFileSync('../README.tmp.md', icons.map((icon) => `<u-icon-example title="${icon}"><${iconset} name="${icon}"></${iconset}></u-icon-example>`).join('\n'));
+    fs.writeFileSync('../README.tmp.md', icons.map((icon) => `<u-icon-example icon="${iconset}" name="${icon}"></u-icon-example>`).join('\n'));
 } else if (action === 'replace') {
     icons.forEach((icon) => shell.mv(icon + '.svg', icon.replace(/-48px$/g, '') + '.svg'));
 } else if (action === 'rm') {
@@ -34,4 +34,3 @@ if (action === 'css') {
 } else if (action === 'length') {
     console.info(icons.length);
 }
-
