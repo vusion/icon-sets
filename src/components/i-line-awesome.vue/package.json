@@ -1,14 +1,16 @@
 {
   "name": "i-line-awesome.vue",
   "description": "Vusion Icon Set - LineAwesome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Rainfore <rainforest92@126.com>",
   "main": "./index.js",
-  "repository": "vusion/icon-sets",
-  "homepage": "http://vusion.github.io",
-  "bugs": {
-    "url": "http://github.com/vusion/icon-sets/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vusion/icon-sets.git",
+    "directory": "src/components/i-line-awesome.vue"
   },
+  "homepage": "https://unpkg.com/i-line-awesome.vue@1.0.3/public/index.html",
+  "bugs": "http://github.com/vusion/icon-sets/issues",
   "license": "MIT",
   "keywords": [
     "vusion",
@@ -26,5 +28,23 @@
   ],
   "devDependencies": {
     "line-awesome": "^1.0.2"
+  },
+  "scripts": {
+    "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
+    "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
+    "screenshot": "vusion screenshot public/index.html --code-example --package",
+    "prepublishOnly": "npm run build:doc && npm run screenshot && git add ."
+  },
+  "vuePlugins": {
+    "resolveFrom": "../../../"
+  },
+  "vusion": {
+    "type": "component",
+    "team": "网易云计算前端",
+    "access": "public",
+    "category": "icon",
+    "screenshots": [
+      "https://unpkg.com/i-line-awesome.vue@1.0.3/screenshots/0.png"
+    ]
   }
 }
