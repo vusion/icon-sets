@@ -1,14 +1,16 @@
 {
   "name": "i-zondicons.vue",
   "description": "Vusion Icon Set - Zondicons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Rainfore <rainforest92@126.com>",
   "main": "./index.js",
-  "repository": "vusion/icon-sets",
-  "homepage": "http://vusion.github.io",
-  "bugs": {
-    "url": "http://github.com/vusion/icon-sets/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vusion/icon-sets.git",
+    "directory": "src/components/i-zondicons.vue"
   },
+  "homepage": "https://unpkg.com/i-zondicons.vue@1.0.2/public/index.html",
+  "bugs": "http://github.com/vusion/icon-sets/issues",
   "license": "MIT",
   "keywords": [
     "vusion",
@@ -16,10 +18,22 @@
     "iconset",
     "zondicons"
   ],
-  "tags": [
-    "vusion",
-    "icon",
-    "iconset",
-    "zondicons"
-  ]
+  "scripts": {
+    "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
+    "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
+    "screenshot": "vusion screenshot public/index.html --code-example --package",
+    "prepublishOnly": "npm run build:doc && npm run screenshot && git add ."
+  },
+  "vuePlugins": {
+    "resolveFrom": "../../../"
+  },
+  "vusion": {
+    "type": "component",
+    "team": "网易云计算前端",
+    "access": "public",
+    "category": "icon",
+    "screenshots": [
+      "https://unpkg.com/i-zondicons.vue@1.0.2/screenshots/0.png"
+    ]
+  }
 }
