@@ -1,14 +1,16 @@
 {
   "name": "i-material-design.vue",
   "description": "Vusion Icon Set - MaterialDesign",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "author": "Material Design Authors",
   "main": "./index.js",
-  "repository": "vusion/icon-sets",
-  "homepage": "http://vusion.github.io",
-  "bugs": {
-    "url": "http://github.com/vusion/icon-sets/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vusion/icon-sets.git",
+    "directory": "src/components/i-material-design.vue"
   },
+  "homepage": "https://unpkg.com/i-material-design.vue@3.0.2/public/index.html",
+  "bugs": "http://github.com/vusion/icon-sets/issues",
   "license": "MIT",
   "keywords": [
     "vusion",
@@ -17,14 +19,23 @@
     "material",
     "design"
   ],
-  "tags": [
-    "vusion",
-    "icon",
-    "iconset",
-    "material",
-    "design"
-  ],
-  "devDependencies": {
-    "material-design-icons": "^3.0.1"
+  "scripts": {
+    "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
+    "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
+    "screenshot": "vusion screenshot public/index.html --code-example --package",
+    "prepublishOnly": "npm run build:doc && npm run screenshot && git add ."
+  },
+  "vuePlugins": {
+    "resolveFrom": "../../../"
+  },
+  "vusion": {
+    "type": "component",
+    "title": "图标",
+    "team": "网易云计算前端",
+    "access": "public",
+    "category": "icon",
+    "screenshots": [
+      "https://unpkg.com/i-material-design.vue@3.0.2/screenshots/0.png"
+    ]
   }
 }
