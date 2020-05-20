@@ -1,10 +1,13 @@
 - name: i-material-design
-  title: Material Design 图标
-  description: 对原生的 Material Design 图标做了封装
+  title: 图标
+  description: 对原生的 Material Design 图标做了封装。
   attrs:
     - name: name
       type: string
       description: 使用的图标名
+    - name: theme
+      type: string
+      description: 使用的图标主题
   slots:
     - name: default
       description: 插入文本或 HTML。
