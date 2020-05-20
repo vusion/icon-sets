@@ -37,5 +37,12 @@
     "screenshots": [
       "https://unpkg.com/i-material-design.vue@3.0.2/screenshots/0.png"
     ]
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "@vue/cli-service": ">=3.10.0",
+    "vue-cli-plugin-vusion": "^0.9.15",
+    "vue": "^2.6.10",
+    "cloud-ui.vusion": "^0.6.0"
   }
 }
