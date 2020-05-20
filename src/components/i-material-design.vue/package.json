@@ -1,7 +1,7 @@
 {
   "name": "i-material-design.vue",
   "description": "Vusion Icon Set - MaterialDesign",
-  "version": "3.0.2",
+  "version": "5.0.0",
   "author": "Material Design Icons",
   "main": "./index.js",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/vusion/icon-sets.git",
     "directory": "src/components/i-material-design.vue"
   },
-  "homepage": "https://unpkg.com/i-material-design.vue@3.0.2/public/index.html",
+  "homepage": "https://static-vusion.163yun.com/packages/i-material-design.vue@5.0.0/index.html",
   "bugs": "http://github.com/vusion/icon-sets/issues",
   "license": "MIT",
   "keywords": [
@@ -22,8 +22,9 @@
   "scripts": {
     "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
     "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
-    "screenshot": "vusion screenshot public/index.html --code-example --package",
-    "prepublishOnly": "npm run build:doc && npm run screenshot && git add .",
+    "screenshot": "vusion screenshot public/index.html#examples --code-example  --smart-crop --package",
+    "deploy": "vusion deploy && vusion deploy screenshots",
+    "prepublishOnly": "npm run build:doc && npm run screenshot && vusion readme && vusion vetur",
     "release": "vusion publish"
   },
   "vuePlugins": {
@@ -36,7 +37,7 @@
     "access": "public",
     "category": "icon",
     "screenshots": [
-      "https://unpkg.com/i-material-design.vue@3.0.2/screenshots/0.png"
+      "https://unpkg.com/i-material-design.vue@5.0.0/screenshots/0.png"
     ]
   },
   "dependencies": {},
