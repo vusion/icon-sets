@@ -1,1074 +1,4301 @@
-## 图标集合
 
-<u-icon-example icon="i-material-design" name="360"></u-icon-example>
-<u-icon-example icon="i-material-design" name="3d_rotation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="4k"></u-icon-example>
-<u-icon-example icon="i-material-design" name="ac_unit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="access_alarm"></u-icon-example>
-<u-icon-example icon="i-material-design" name="access_alarms"></u-icon-example>
-<u-icon-example icon="i-material-design" name="access_time"></u-icon-example>
-<u-icon-example icon="i-material-design" name="accessibility"></u-icon-example>
-<u-icon-example icon="i-material-design" name="accessibility_new"></u-icon-example>
-<u-icon-example icon="i-material-design" name="accessible"></u-icon-example>
-<u-icon-example icon="i-material-design" name="accessible_forward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="account_balance"></u-icon-example>
-<u-icon-example icon="i-material-design" name="account_balance_wallet"></u-icon-example>
-<u-icon-example icon="i-material-design" name="account_box"></u-icon-example>
-<u-icon-example icon="i-material-design" name="account_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="account_tree"></u-icon-example>
-<u-icon-example icon="i-material-design" name="adb"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_a_photo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_alarm"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_alert"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_box"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_circle_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_comment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_ic_call"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_location"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_photo_alternate"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_shopping_cart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_to_home_screen"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_to_photos"></u-icon-example>
-<u-icon-example icon="i-material-design" name="add_to_queue"></u-icon-example>
-<u-icon-example icon="i-material-design" name="adjust"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_flat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_flat_angled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_individual_suite"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_legroom_extra"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_legroom_normal"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_legroom_reduced"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_recline_extra"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airline_seat_recline_normal"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airplanemode_active"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airplanemode_inactive"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airplay"></u-icon-example>
-<u-icon-example icon="i-material-design" name="airport_shuttle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="alarm"></u-icon-example>
-<u-icon-example icon="i-material-design" name="alarm_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="alarm_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="alarm_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="album"></u-icon-example>
-<u-icon-example icon="i-material-design" name="all_inbox"></u-icon-example>
-<u-icon-example icon="i-material-design" name="all_inclusive"></u-icon-example>
-<u-icon-example icon="i-material-design" name="all_out"></u-icon-example>
-<u-icon-example icon="i-material-design" name="alternate_email"></u-icon-example>
-<u-icon-example icon="i-material-design" name="amp_stories"></u-icon-example>
-<u-icon-example icon="i-material-design" name="android"></u-icon-example>
-<u-icon-example icon="i-material-design" name="announcement"></u-icon-example>
-<u-icon-example icon="i-material-design" name="apartment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="apps"></u-icon-example>
-<u-icon-example icon="i-material-design" name="archive"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_back"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_back_ios"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_downward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_drop_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_drop_down_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_drop_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_forward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_forward_ios"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_right_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="arrow_upward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="art_track"></u-icon-example>
-<u-icon-example icon="i-material-design" name="aspect_ratio"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assessment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment_ind"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment_late"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment_return"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment_returned"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assignment_turned_in"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assistant"></u-icon-example>
-<u-icon-example icon="i-material-design" name="assistant_photo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="atm"></u-icon-example>
-<u-icon-example icon="i-material-design" name="attach_file"></u-icon-example>
-<u-icon-example icon="i-material-design" name="attach_money"></u-icon-example>
-<u-icon-example icon="i-material-design" name="attachment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="audiotrack"></u-icon-example>
-<u-icon-example icon="i-material-design" name="autorenew"></u-icon-example>
-<u-icon-example icon="i-material-design" name="av_timer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="backspace"></u-icon-example>
-<u-icon-example icon="i-material-design" name="backup"></u-icon-example>
-<u-icon-example icon="i-material-design" name="ballot"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bar_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bathtub"></u-icon-example>
-<u-icon-example icon="i-material-design" name="battery_alert"></u-icon-example>
-<u-icon-example icon="i-material-design" name="battery_charging_full"></u-icon-example>
-<u-icon-example icon="i-material-design" name="battery_full"></u-icon-example>
-<u-icon-example icon="i-material-design" name="battery_std"></u-icon-example>
-<u-icon-example icon="i-material-design" name="battery_unknown"></u-icon-example>
-<u-icon-example icon="i-material-design" name="beach_access"></u-icon-example>
-<u-icon-example icon="i-material-design" name="beenhere"></u-icon-example>
-<u-icon-example icon="i-material-design" name="block"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bluetooth"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bluetooth_audio"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bluetooth_connected"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bluetooth_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bluetooth_searching"></u-icon-example>
-<u-icon-example icon="i-material-design" name="blur_circular"></u-icon-example>
-<u-icon-example icon="i-material-design" name="blur_linear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="blur_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="blur_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="book"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bookmark"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bookmark_border"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bookmarks"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_bottom"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_clear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_horizontal"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_inner"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_outer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_style"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_top"></u-icon-example>
-<u-icon-example icon="i-material-design" name="border_vertical"></u-icon-example>
-<u-icon-example icon="i-material-design" name="branding_watermark"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_1"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_2"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_3"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_4"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_6"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_7"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_auto"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_high"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_low"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brightness_medium"></u-icon-example>
-<u-icon-example icon="i-material-design" name="broken_image"></u-icon-example>
-<u-icon-example icon="i-material-design" name="brush"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bubble_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="bug_report"></u-icon-example>
-<u-icon-example icon="i-material-design" name="build"></u-icon-example>
-<u-icon-example icon="i-material-design" name="burst_mode"></u-icon-example>
-<u-icon-example icon="i-material-design" name="business"></u-icon-example>
-<u-icon-example icon="i-material-design" name="business_center"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cached"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cake"></u-icon-example>
-<u-icon-example icon="i-material-design" name="calendar_today"></u-icon-example>
-<u-icon-example icon="i-material-design" name="calendar_view_day"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_end"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_made"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_merge"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_missed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_missed_outgoing"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_received"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_split"></u-icon-example>
-<u-icon-example icon="i-material-design" name="call_to_action"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera_enhance"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera_front"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera_rear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="camera_roll"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cancel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cancel_presentation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cancel_schedule_send"></u-icon-example>
-<u-icon-example icon="i-material-design" name="card_giftcard"></u-icon-example>
-<u-icon-example icon="i-material-design" name="card_membership"></u-icon-example>
-<u-icon-example icon="i-material-design" name="card_travel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="casino"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cast"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cast_connected"></u-icon-example>
-<u-icon-example icon="i-material-design" name="category"></u-icon-example>
-<u-icon-example icon="i-material-design" name="center_focus_strong"></u-icon-example>
-<u-icon-example icon="i-material-design" name="center_focus_weak"></u-icon-example>
-<u-icon-example icon="i-material-design" name="change_history"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chat_bubble"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chat_bubble_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="check"></u-icon-example>
-<u-icon-example icon="i-material-design" name="check_box"></u-icon-example>
-<u-icon-example icon="i-material-design" name="check_box_outline_blank"></u-icon-example>
-<u-icon-example icon="i-material-design" name="check_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="check_circle_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chevron_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chevron_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="child_care"></u-icon-example>
-<u-icon-example icon="i-material-design" name="child_friendly"></u-icon-example>
-<u-icon-example icon="i-material-design" name="chrome_reader_mode"></u-icon-example>
-<u-icon-example icon="i-material-design" name="class"></u-icon-example>
-<u-icon-example icon="i-material-design" name="clear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="clear_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="close"></u-icon-example>
-<u-icon-example icon="i-material-design" name="closed_caption"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_done"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_download"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_queue"></u-icon-example>
-<u-icon-example icon="i-material-design" name="cloud_upload"></u-icon-example>
-<u-icon-example icon="i-material-design" name="code"></u-icon-example>
-<u-icon-example icon="i-material-design" name="collections"></u-icon-example>
-<u-icon-example icon="i-material-design" name="collections_bookmark"></u-icon-example>
-<u-icon-example icon="i-material-design" name="color_lens"></u-icon-example>
-<u-icon-example icon="i-material-design" name="colorize"></u-icon-example>
-<u-icon-example icon="i-material-design" name="comment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="commute"></u-icon-example>
-<u-icon-example icon="i-material-design" name="compare"></u-icon-example>
-<u-icon-example icon="i-material-design" name="compare_arrows"></u-icon-example>
-<u-icon-example icon="i-material-design" name="compass_calibration"></u-icon-example>
-<u-icon-example icon="i-material-design" name="computer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="confirmation_number"></u-icon-example>
-<u-icon-example icon="i-material-design" name="contact_mail"></u-icon-example>
-<u-icon-example icon="i-material-design" name="contact_phone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="contact_support"></u-icon-example>
-<u-icon-example icon="i-material-design" name="contactless"></u-icon-example>
-<u-icon-example icon="i-material-design" name="contacts"></u-icon-example>
-<u-icon-example icon="i-material-design" name="control_camera"></u-icon-example>
-<u-icon-example icon="i-material-design" name="control_point"></u-icon-example>
-<u-icon-example icon="i-material-design" name="control_point_duplicate"></u-icon-example>
-<u-icon-example icon="i-material-design" name="copyright"></u-icon-example>
-<u-icon-example icon="i-material-design" name="create"></u-icon-example>
-<u-icon-example icon="i-material-design" name="create_new_folder"></u-icon-example>
-<u-icon-example icon="i-material-design" name="credit_card"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_16_9"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_3_2"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_5_4"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_7_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_din"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_free"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_landscape"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_original"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_portrait"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_rotate"></u-icon-example>
-<u-icon-example icon="i-material-design" name="crop_square"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dashboard"></u-icon-example>
-<u-icon-example icon="i-material-design" name="data_usage"></u-icon-example>
-<u-icon-example icon="i-material-design" name="date_range"></u-icon-example>
-<u-icon-example icon="i-material-design" name="deck"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dehaze"></u-icon-example>
-<u-icon-example icon="i-material-design" name="delete"></u-icon-example>
-<u-icon-example icon="i-material-design" name="delete_forever"></u-icon-example>
-<u-icon-example icon="i-material-design" name="delete_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="delete_sweep"></u-icon-example>
-<u-icon-example icon="i-material-design" name="departure_board"></u-icon-example>
-<u-icon-example icon="i-material-design" name="description"></u-icon-example>
-<u-icon-example icon="i-material-design" name="desktop_access_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="desktop_mac"></u-icon-example>
-<u-icon-example icon="i-material-design" name="desktop_windows"></u-icon-example>
-<u-icon-example icon="i-material-design" name="details"></u-icon-example>
-<u-icon-example icon="i-material-design" name="developer_board"></u-icon-example>
-<u-icon-example icon="i-material-design" name="developer_mode"></u-icon-example>
-<u-icon-example icon="i-material-design" name="device_hub"></u-icon-example>
-<u-icon-example icon="i-material-design" name="device_unknown"></u-icon-example>
-<u-icon-example icon="i-material-design" name="devices"></u-icon-example>
-<u-icon-example icon="i-material-design" name="devices_other"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dialer_sip"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dialpad"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_bike"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_boat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_bus"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_car"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_railway"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_run"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_subway"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_transit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="directions_walk"></u-icon-example>
-<u-icon-example icon="i-material-design" name="disc_full"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dns"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="domain"></u-icon-example>
-<u-icon-example icon="i-material-design" name="domain_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="done"></u-icon-example>
-<u-icon-example icon="i-material-design" name="done_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="done_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="donut_large"></u-icon-example>
-<u-icon-example icon="i-material-design" name="donut_small"></u-icon-example>
-<u-icon-example icon="i-material-design" name="double_arrow"></u-icon-example>
-<u-icon-example icon="i-material-design" name="drafts"></u-icon-example>
-<u-icon-example icon="i-material-design" name="drag_handle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="drag_indicator"></u-icon-example>
-<u-icon-example icon="i-material-design" name="drive_eta"></u-icon-example>
-<u-icon-example icon="i-material-design" name="duo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dvr"></u-icon-example>
-<u-icon-example icon="i-material-design" name="dynamic_feed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="eco"></u-icon-example>
-<u-icon-example icon="i-material-design" name="edit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="edit_attributes"></u-icon-example>
-<u-icon-example icon="i-material-design" name="edit_location"></u-icon-example>
-<u-icon-example icon="i-material-design" name="eject"></u-icon-example>
-<u-icon-example icon="i-material-design" name="email"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_emotions"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_events"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_flags"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_food_beverage"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_nature"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_objects"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_people"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_symbols"></u-icon-example>
-<u-icon-example icon="i-material-design" name="emoji_transportation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="enhanced_encryption"></u-icon-example>
-<u-icon-example icon="i-material-design" name="equalizer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="error"></u-icon-example>
-<u-icon-example icon="i-material-design" name="error_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="euro"></u-icon-example>
-<u-icon-example icon="i-material-design" name="euro_symbol"></u-icon-example>
-<u-icon-example icon="i-material-design" name="ev_station"></u-icon-example>
-<u-icon-example icon="i-material-design" name="event"></u-icon-example>
-<u-icon-example icon="i-material-design" name="event_available"></u-icon-example>
-<u-icon-example icon="i-material-design" name="event_busy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="event_note"></u-icon-example>
-<u-icon-example icon="i-material-design" name="event_seat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exit_to_app"></u-icon-example>
-<u-icon-example icon="i-material-design" name="expand_less"></u-icon-example>
-<u-icon-example icon="i-material-design" name="expand_more"></u-icon-example>
-<u-icon-example icon="i-material-design" name="explicit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="explore"></u-icon-example>
-<u-icon-example icon="i-material-design" name="explore_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure_neg_1"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure_neg_2"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure_plus_1"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure_plus_2"></u-icon-example>
-<u-icon-example icon="i-material-design" name="exposure_zero"></u-icon-example>
-<u-icon-example icon="i-material-design" name="extension"></u-icon-example>
-<u-icon-example icon="i-material-design" name="face"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fast_forward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fast_rewind"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fastfood"></u-icon-example>
-<u-icon-example icon="i-material-design" name="favorite"></u-icon-example>
-<u-icon-example icon="i-material-design" name="favorite_border"></u-icon-example>
-<u-icon-example icon="i-material-design" name="featured_play_list"></u-icon-example>
-<u-icon-example icon="i-material-design" name="featured_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="feedback"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fiber_dvr"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fiber_manual_record"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fiber_new"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fiber_pin"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fiber_smart_record"></u-icon-example>
-<u-icon-example icon="i-material-design" name="file_copy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_1"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_2"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_3"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_4"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_6"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_7"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_8"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_9"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_9_plus"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_b_and_w"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_center_focus"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_drama"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_frames"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_hdr"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_list"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_none"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_tilt_shift"></u-icon-example>
-<u-icon-example icon="i-material-design" name="filter_vintage"></u-icon-example>
-<u-icon-example icon="i-material-design" name="find_in_page"></u-icon-example>
-<u-icon-example icon="i-material-design" name="find_replace"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fingerprint"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fireplace"></u-icon-example>
-<u-icon-example icon="i-material-design" name="first_page"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fitness_center"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flag"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flare"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flash_auto"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flash_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flash_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flight"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flight_land"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flight_takeoff"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flip"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flip_camera_android"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flip_camera_ios"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flip_to_back"></u-icon-example>
-<u-icon-example icon="i-material-design" name="flip_to_front"></u-icon-example>
-<u-icon-example icon="i-material-design" name="folder"></u-icon-example>
-<u-icon-example icon="i-material-design" name="folder_open"></u-icon-example>
-<u-icon-example icon="i-material-design" name="folder_shared"></u-icon-example>
-<u-icon-example icon="i-material-design" name="folder_special"></u-icon-example>
-<u-icon-example icon="i-material-design" name="font_download"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_align_center"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_align_justify"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_align_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_align_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_bold"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_clear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_color_reset"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_indent_decrease"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_indent_increase"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_italic"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_line_spacing"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_list_bulleted"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_list_numbered"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_list_numbered_rtl"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_paint"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_quote"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_shapes"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_size"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_strikethrough"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_textdirection_l_to_r"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_textdirection_r_to_l"></u-icon-example>
-<u-icon-example icon="i-material-design" name="format_underlined"></u-icon-example>
-<u-icon-example icon="i-material-design" name="forum"></u-icon-example>
-<u-icon-example icon="i-material-design" name="forward"></u-icon-example>
-<u-icon-example icon="i-material-design" name="forward_10"></u-icon-example>
-<u-icon-example icon="i-material-design" name="forward_30"></u-icon-example>
-<u-icon-example icon="i-material-design" name="forward_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="free_breakfast"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fullscreen"></u-icon-example>
-<u-icon-example icon="i-material-design" name="fullscreen_exit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="functions"></u-icon-example>
-<u-icon-example icon="i-material-design" name="g_translate"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gamepad"></u-icon-example>
-<u-icon-example icon="i-material-design" name="games"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gavel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gesture"></u-icon-example>
-<u-icon-example icon="i-material-design" name="get_app"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gif"></u-icon-example>
-<u-icon-example icon="i-material-design" name="golf_course"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gps_fixed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gps_not_fixed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gps_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="grade"></u-icon-example>
-<u-icon-example icon="i-material-design" name="gradient"></u-icon-example>
-<u-icon-example icon="i-material-design" name="grain"></u-icon-example>
-<u-icon-example icon="i-material-design" name="graphic_eq"></u-icon-example>
-<u-icon-example icon="i-material-design" name="grid_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="grid_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="group"></u-icon-example>
-<u-icon-example icon="i-material-design" name="group_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="group_work"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hd"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hdr_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hdr_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hdr_strong"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hdr_weak"></u-icon-example>
-<u-icon-example icon="i-material-design" name="headset"></u-icon-example>
-<u-icon-example icon="i-material-design" name="headset_mic"></u-icon-example>
-<u-icon-example icon="i-material-design" name="healing"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hearing"></u-icon-example>
-<u-icon-example icon="i-material-design" name="height"></u-icon-example>
-<u-icon-example icon="i-material-design" name="help"></u-icon-example>
-<u-icon-example icon="i-material-design" name="help_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="high_quality"></u-icon-example>
-<u-icon-example icon="i-material-design" name="highlight"></u-icon-example>
-<u-icon-example icon="i-material-design" name="highlight_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="history"></u-icon-example>
-<u-icon-example icon="i-material-design" name="home"></u-icon-example>
-<u-icon-example icon="i-material-design" name="home_work"></u-icon-example>
-<u-icon-example icon="i-material-design" name="horizontal_split"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hot_tub"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hotel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hourglass_empty"></u-icon-example>
-<u-icon-example icon="i-material-design" name="hourglass_full"></u-icon-example>
-<u-icon-example icon="i-material-design" name="house"></u-icon-example>
-<u-icon-example icon="i-material-design" name="how_to_reg"></u-icon-example>
-<u-icon-example icon="i-material-design" name="how_to_vote"></u-icon-example>
-<u-icon-example icon="i-material-design" name="http"></u-icon-example>
-<u-icon-example icon="i-material-design" name="https"></u-icon-example>
-<u-icon-example icon="i-material-design" name="image"></u-icon-example>
-<u-icon-example icon="i-material-design" name="image_aspect_ratio"></u-icon-example>
-<u-icon-example icon="i-material-design" name="image_search"></u-icon-example>
-<u-icon-example icon="i-material-design" name="import_contacts"></u-icon-example>
-<u-icon-example icon="i-material-design" name="import_export"></u-icon-example>
-<u-icon-example icon="i-material-design" name="important_devices"></u-icon-example>
-<u-icon-example icon="i-material-design" name="inbox"></u-icon-example>
-<u-icon-example icon="i-material-design" name="indeterminate_check_box"></u-icon-example>
-<u-icon-example icon="i-material-design" name="info"></u-icon-example>
-<u-icon-example icon="i-material-design" name="input"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_chart_outlined"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_comment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_drive_file"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_emoticon"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_invitation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_link"></u-icon-example>
-<u-icon-example icon="i-material-design" name="insert_photo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="invert_colors"></u-icon-example>
-<u-icon-example icon="i-material-design" name="invert_colors_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="iso"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_arrow_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_arrow_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_arrow_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_arrow_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_backspace"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_capslock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_hide"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_return"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_tab"></u-icon-example>
-<u-icon-example icon="i-material-design" name="keyboard_voice"></u-icon-example>
-<u-icon-example icon="i-material-design" name="king_bed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="kitchen"></u-icon-example>
-<u-icon-example icon="i-material-design" name="label"></u-icon-example>
-<u-icon-example icon="i-material-design" name="label_important"></u-icon-example>
-<u-icon-example icon="i-material-design" name="label_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="landscape"></u-icon-example>
-<u-icon-example icon="i-material-design" name="language"></u-icon-example>
-<u-icon-example icon="i-material-design" name="laptop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="laptop_chromebook"></u-icon-example>
-<u-icon-example icon="i-material-design" name="laptop_mac"></u-icon-example>
-<u-icon-example icon="i-material-design" name="laptop_windows"></u-icon-example>
-<u-icon-example icon="i-material-design" name="last_page"></u-icon-example>
-<u-icon-example icon="i-material-design" name="launch"></u-icon-example>
-<u-icon-example icon="i-material-design" name="layers"></u-icon-example>
-<u-icon-example icon="i-material-design" name="layers_clear"></u-icon-example>
-<u-icon-example icon="i-material-design" name="leak_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="leak_remove"></u-icon-example>
-<u-icon-example icon="i-material-design" name="lens"></u-icon-example>
-<u-icon-example icon="i-material-design" name="library_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="library_add_check"></u-icon-example>
-<u-icon-example icon="i-material-design" name="library_books"></u-icon-example>
-<u-icon-example icon="i-material-design" name="library_music"></u-icon-example>
-<u-icon-example icon="i-material-design" name="line_style"></u-icon-example>
-<u-icon-example icon="i-material-design" name="line_weight"></u-icon-example>
-<u-icon-example icon="i-material-design" name="linear_scale"></u-icon-example>
-<u-icon-example icon="i-material-design" name="link"></u-icon-example>
-<u-icon-example icon="i-material-design" name="link_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="linked_camera"></u-icon-example>
-<u-icon-example icon="i-material-design" name="list"></u-icon-example>
-<u-icon-example icon="i-material-design" name="list_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="live_help"></u-icon-example>
-<u-icon-example icon="i-material-design" name="live_tv"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_activity"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_airport"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_atm"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_bar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_cafe"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_car_wash"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_convenience_store"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_dining"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_drink"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_florist"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_gas_station"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_grocery_store"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_hospital"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_hotel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_laundry_service"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_library"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_mall"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_movies"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_offer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_parking"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_pharmacy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_phone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_pizza"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_play"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_post_office"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_printshop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_see"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_shipping"></u-icon-example>
-<u-icon-example icon="i-material-design" name="local_taxi"></u-icon-example>
-<u-icon-example icon="i-material-design" name="location_city"></u-icon-example>
-<u-icon-example icon="i-material-design" name="location_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="location_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="location_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="location_searching"></u-icon-example>
-<u-icon-example icon="i-material-design" name="lock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="lock_open"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_3"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_4"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_6"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_one"></u-icon-example>
-<u-icon-example icon="i-material-design" name="looks_two"></u-icon-example>
-<u-icon-example icon="i-material-design" name="loop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="loupe"></u-icon-example>
-<u-icon-example icon="i-material-design" name="low_priority"></u-icon-example>
-<u-icon-example icon="i-material-design" name="loyalty"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mail"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mail_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="map"></u-icon-example>
-<u-icon-example icon="i-material-design" name="markunread"></u-icon-example>
-<u-icon-example icon="i-material-design" name="markunread_mailbox"></u-icon-example>
-<u-icon-example icon="i-material-design" name="maximize"></u-icon-example>
-<u-icon-example icon="i-material-design" name="meeting_room"></u-icon-example>
-<u-icon-example icon="i-material-design" name="memory"></u-icon-example>
-<u-icon-example icon="i-material-design" name="menu"></u-icon-example>
-<u-icon-example icon="i-material-design" name="menu_book"></u-icon-example>
-<u-icon-example icon="i-material-design" name="menu_open"></u-icon-example>
-<u-icon-example icon="i-material-design" name="merge_type"></u-icon-example>
-<u-icon-example icon="i-material-design" name="message"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mic"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mic_none"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mic_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="minimize"></u-icon-example>
-<u-icon-example icon="i-material-design" name="missed_video_call"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mms"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mobile_friendly"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mobile_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mobile_screen_share"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mode_comment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="monetization_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="money"></u-icon-example>
-<u-icon-example icon="i-material-design" name="money_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="monochrome_photos"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mood"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mood_bad"></u-icon-example>
-<u-icon-example icon="i-material-design" name="more"></u-icon-example>
-<u-icon-example icon="i-material-design" name="more_horiz"></u-icon-example>
-<u-icon-example icon="i-material-design" name="more_vert"></u-icon-example>
-<u-icon-example icon="i-material-design" name="mouse"></u-icon-example>
-<u-icon-example icon="i-material-design" name="move_to_inbox"></u-icon-example>
-<u-icon-example icon="i-material-design" name="movie"></u-icon-example>
-<u-icon-example icon="i-material-design" name="movie_creation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="movie_filter"></u-icon-example>
-<u-icon-example icon="i-material-design" name="multiline_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="museum"></u-icon-example>
-<u-icon-example icon="i-material-design" name="music_note"></u-icon-example>
-<u-icon-example icon="i-material-design" name="music_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="music_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="my_location"></u-icon-example>
-<u-icon-example icon="i-material-design" name="nature"></u-icon-example>
-<u-icon-example icon="i-material-design" name="nature_people"></u-icon-example>
-<u-icon-example icon="i-material-design" name="navigate_before"></u-icon-example>
-<u-icon-example icon="i-material-design" name="navigate_next"></u-icon-example>
-<u-icon-example icon="i-material-design" name="navigation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="near_me"></u-icon-example>
-<u-icon-example icon="i-material-design" name="network_check"></u-icon-example>
-<u-icon-example icon="i-material-design" name="network_locked"></u-icon-example>
-<u-icon-example icon="i-material-design" name="new_releases"></u-icon-example>
-<u-icon-example icon="i-material-design" name="next_week"></u-icon-example>
-<u-icon-example icon="i-material-design" name="nfc"></u-icon-example>
-<u-icon-example icon="i-material-design" name="nights_stay"></u-icon-example>
-<u-icon-example icon="i-material-design" name="no_encryption"></u-icon-example>
-<u-icon-example icon="i-material-design" name="no_meeting_room"></u-icon-example>
-<u-icon-example icon="i-material-design" name="no_sim"></u-icon-example>
-<u-icon-example icon="i-material-design" name="not_interested"></u-icon-example>
-<u-icon-example icon="i-material-design" name="not_listed_location"></u-icon-example>
-<u-icon-example icon="i-material-design" name="note"></u-icon-example>
-<u-icon-example icon="i-material-design" name="note_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notes"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notification_important"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notifications"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notifications_active"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notifications_none"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notifications_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="notifications_paused"></u-icon-example>
-<u-icon-example icon="i-material-design" name="offline_bolt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="offline_pin"></u-icon-example>
-<u-icon-example icon="i-material-design" name="ondemand_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="opacity"></u-icon-example>
-<u-icon-example icon="i-material-design" name="open_in_browser"></u-icon-example>
-<u-icon-example icon="i-material-design" name="open_in_new"></u-icon-example>
-<u-icon-example icon="i-material-design" name="open_with"></u-icon-example>
-<u-icon-example icon="i-material-design" name="outdoor_grill"></u-icon-example>
-<u-icon-example icon="i-material-design" name="outlined_flag"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pages"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pageview"></u-icon-example>
-<u-icon-example icon="i-material-design" name="palette"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pan_tool"></u-icon-example>
-<u-icon-example icon="i-material-design" name="panorama"></u-icon-example>
-<u-icon-example icon="i-material-design" name="panorama_fish_eye"></u-icon-example>
-<u-icon-example icon="i-material-design" name="panorama_horizontal"></u-icon-example>
-<u-icon-example icon="i-material-design" name="panorama_vertical"></u-icon-example>
-<u-icon-example icon="i-material-design" name="panorama_wide_angle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="party_mode"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pause"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pause_circle_filled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pause_circle_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pause_presentation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="payment"></u-icon-example>
-<u-icon-example icon="i-material-design" name="people"></u-icon-example>
-<u-icon-example icon="i-material-design" name="people_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="people_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_camera_mic"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_contact_calendar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_data_setting"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_device_information"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_identity"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_media"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_phone_msg"></u-icon-example>
-<u-icon-example icon="i-material-design" name="perm_scan_wifi"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person_add_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person_pin"></u-icon-example>
-<u-icon-example icon="i-material-design" name="person_pin_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="personal_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pets"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_android"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_bluetooth_speaker"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_callback"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_enabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_forwarded"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_in_talk"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_iphone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_locked"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_missed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phone_paused"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink_erase"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink_lock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink_ring"></u-icon-example>
-<u-icon-example icon="i-material-design" name="phonelink_setup"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_album"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_camera"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_filter"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_library"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_size_select_actual"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_size_select_large"></u-icon-example>
-<u-icon-example icon="i-material-design" name="photo_size_select_small"></u-icon-example>
-<u-icon-example icon="i-material-design" name="picture_as_pdf"></u-icon-example>
-<u-icon-example icon="i-material-design" name="picture_in_picture"></u-icon-example>
-<u-icon-example icon="i-material-design" name="picture_in_picture_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pie_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pin_drop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="place"></u-icon-example>
-<u-icon-example icon="i-material-design" name="play_arrow"></u-icon-example>
-<u-icon-example icon="i-material-design" name="play_circle_filled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="play_circle_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="play_for_work"></u-icon-example>
-<u-icon-example icon="i-material-design" name="playlist_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="playlist_add_check"></u-icon-example>
-<u-icon-example icon="i-material-design" name="playlist_play"></u-icon-example>
-<u-icon-example icon="i-material-design" name="plus_one"></u-icon-example>
-<u-icon-example icon="i-material-design" name="policy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="poll"></u-icon-example>
-<u-icon-example icon="i-material-design" name="polymer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pool"></u-icon-example>
-<u-icon-example icon="i-material-design" name="portable_wifi_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="portrait"></u-icon-example>
-<u-icon-example icon="i-material-design" name="post_add"></u-icon-example>
-<u-icon-example icon="i-material-design" name="power"></u-icon-example>
-<u-icon-example icon="i-material-design" name="power_input"></u-icon-example>
-<u-icon-example icon="i-material-design" name="power_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="power_settings_new"></u-icon-example>
-<u-icon-example icon="i-material-design" name="pregnant_woman"></u-icon-example>
-<u-icon-example icon="i-material-design" name="present_to_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="print"></u-icon-example>
-<u-icon-example icon="i-material-design" name="print_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="priority_high"></u-icon-example>
-<u-icon-example icon="i-material-design" name="public"></u-icon-example>
-<u-icon-example icon="i-material-design" name="publish"></u-icon-example>
-<u-icon-example icon="i-material-design" name="query_builder"></u-icon-example>
-<u-icon-example icon="i-material-design" name="question_answer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="queue"></u-icon-example>
-<u-icon-example icon="i-material-design" name="queue_music"></u-icon-example>
-<u-icon-example icon="i-material-design" name="queue_play_next"></u-icon-example>
-<u-icon-example icon="i-material-design" name="radio"></u-icon-example>
-<u-icon-example icon="i-material-design" name="radio_button_checked"></u-icon-example>
-<u-icon-example icon="i-material-design" name="radio_button_unchecked"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rate_review"></u-icon-example>
-<u-icon-example icon="i-material-design" name="receipt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="recent_actors"></u-icon-example>
-<u-icon-example icon="i-material-design" name="record_voice_over"></u-icon-example>
-<u-icon-example icon="i-material-design" name="redeem"></u-icon-example>
-<u-icon-example icon="i-material-design" name="redo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="refresh"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove_circle_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove_from_queue"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove_red_eye"></u-icon-example>
-<u-icon-example icon="i-material-design" name="remove_shopping_cart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="reorder"></u-icon-example>
-<u-icon-example icon="i-material-design" name="repeat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="repeat_one"></u-icon-example>
-<u-icon-example icon="i-material-design" name="replay"></u-icon-example>
-<u-icon-example icon="i-material-design" name="replay_10"></u-icon-example>
-<u-icon-example icon="i-material-design" name="replay_30"></u-icon-example>
-<u-icon-example icon="i-material-design" name="replay_5"></u-icon-example>
-<u-icon-example icon="i-material-design" name="reply"></u-icon-example>
-<u-icon-example icon="i-material-design" name="reply_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="report"></u-icon-example>
-<u-icon-example icon="i-material-design" name="report_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="report_problem"></u-icon-example>
-<u-icon-example icon="i-material-design" name="restaurant"></u-icon-example>
-<u-icon-example icon="i-material-design" name="restaurant_menu"></u-icon-example>
-<u-icon-example icon="i-material-design" name="restore"></u-icon-example>
-<u-icon-example icon="i-material-design" name="restore_from_trash"></u-icon-example>
-<u-icon-example icon="i-material-design" name="restore_page"></u-icon-example>
-<u-icon-example icon="i-material-design" name="ring_volume"></u-icon-example>
-<u-icon-example icon="i-material-design" name="room"></u-icon-example>
-<u-icon-example icon="i-material-design" name="room_service"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rotate_90_degrees_ccw"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rotate_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rotate_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rounded_corner"></u-icon-example>
-<u-icon-example icon="i-material-design" name="router"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rowing"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rss_feed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="rv_hookup"></u-icon-example>
-<u-icon-example icon="i-material-design" name="satellite"></u-icon-example>
-<u-icon-example icon="i-material-design" name="save"></u-icon-example>
-<u-icon-example icon="i-material-design" name="save_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="scanner"></u-icon-example>
-<u-icon-example icon="i-material-design" name="scatter_plot"></u-icon-example>
-<u-icon-example icon="i-material-design" name="schedule"></u-icon-example>
-<u-icon-example icon="i-material-design" name="school"></u-icon-example>
-<u-icon-example icon="i-material-design" name="score"></u-icon-example>
-<u-icon-example icon="i-material-design" name="screen_lock_landscape"></u-icon-example>
-<u-icon-example icon="i-material-design" name="screen_lock_portrait"></u-icon-example>
-<u-icon-example icon="i-material-design" name="screen_lock_rotation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="screen_rotation"></u-icon-example>
-<u-icon-example icon="i-material-design" name="screen_share"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sd_card"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sd_storage"></u-icon-example>
-<u-icon-example icon="i-material-design" name="search"></u-icon-example>
-<u-icon-example icon="i-material-design" name="security"></u-icon-example>
-<u-icon-example icon="i-material-design" name="select_all"></u-icon-example>
-<u-icon-example icon="i-material-design" name="send"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sentiment_dissatisfied"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sentiment_satisfied"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sentiment_satisfied_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sentiment_very_dissatisfied"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sentiment_very_satisfied"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_applications"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_backup_restore"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_bluetooth"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_brightness"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_cell"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_ethernet"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_input_antenna"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_input_component"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_input_composite"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_input_hdmi"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_input_svideo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_overscan"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_phone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_power"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_remote"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_system_daydream"></u-icon-example>
-<u-icon-example icon="i-material-design" name="settings_voice"></u-icon-example>
-<u-icon-example icon="i-material-design" name="share"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shop_two"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shopping_basket"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shopping_cart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="short_text"></u-icon-example>
-<u-icon-example icon="i-material-design" name="show_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shuffle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="shutter_speed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_4_bar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_connected_no_internet_4_bar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_no_sim"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_null"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_cellular_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_wifi_4_bar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_wifi_4_bar_lock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="signal_wifi_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sim_card"></u-icon-example>
-<u-icon-example icon="i-material-design" name="single_bed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="skip_next"></u-icon-example>
-<u-icon-example icon="i-material-design" name="skip_previous"></u-icon-example>
-<u-icon-example icon="i-material-design" name="slideshow"></u-icon-example>
-<u-icon-example icon="i-material-design" name="slow_motion_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="smartphone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="smoke_free"></u-icon-example>
-<u-icon-example icon="i-material-design" name="smoking_rooms"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sms"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sms_failed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="snooze"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sort"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sort_by_alpha"></u-icon-example>
-<u-icon-example icon="i-material-design" name="spa"></u-icon-example>
-<u-icon-example icon="i-material-design" name="space_bar"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speaker"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speaker_group"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speaker_notes"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speaker_notes_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speaker_phone"></u-icon-example>
-<u-icon-example icon="i-material-design" name="speed"></u-icon-example>
-<u-icon-example icon="i-material-design" name="spellcheck"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_baseball"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_basketball"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_cricket"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_esports"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_football"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_golf"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_handball"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_hockey"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_kabaddi"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_mma"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_motorsports"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_rugby"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_soccer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_tennis"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sports_volleyball"></u-icon-example>
-<u-icon-example icon="i-material-design" name="square_foot"></u-icon-example>
-<u-icon-example icon="i-material-design" name="star"></u-icon-example>
-<u-icon-example icon="i-material-design" name="star_border"></u-icon-example>
-<u-icon-example icon="i-material-design" name="star_half"></u-icon-example>
-<u-icon-example icon="i-material-design" name="star_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stars"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stay_current_landscape"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stay_current_portrait"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stay_primary_landscape"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stay_primary_portrait"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stop"></u-icon-example>
-<u-icon-example icon="i-material-design" name="stop_screen_share"></u-icon-example>
-<u-icon-example icon="i-material-design" name="storage"></u-icon-example>
-<u-icon-example icon="i-material-design" name="store"></u-icon-example>
-<u-icon-example icon="i-material-design" name="store_mall_directory"></u-icon-example>
-<u-icon-example icon="i-material-design" name="storefront"></u-icon-example>
-<u-icon-example icon="i-material-design" name="straighten"></u-icon-example>
-<u-icon-example icon="i-material-design" name="streetview"></u-icon-example>
-<u-icon-example icon="i-material-design" name="strikethrough_s"></u-icon-example>
-<u-icon-example icon="i-material-design" name="style"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subdirectory_arrow_left"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subdirectory_arrow_right"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subject"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subscriptions"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subtitles"></u-icon-example>
-<u-icon-example icon="i-material-design" name="subway"></u-icon-example>
-<u-icon-example icon="i-material-design" name="supervised_user_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="supervisor_account"></u-icon-example>
-<u-icon-example icon="i-material-design" name="surround_sound"></u-icon-example>
-<u-icon-example icon="i-material-design" name="swap_calls"></u-icon-example>
-<u-icon-example icon="i-material-design" name="swap_horiz"></u-icon-example>
-<u-icon-example icon="i-material-design" name="swap_horizontal_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="swap_vert"></u-icon-example>
-<u-icon-example icon="i-material-design" name="swap_vertical_circle"></u-icon-example>
-<u-icon-example icon="i-material-design" name="switch_camera"></u-icon-example>
-<u-icon-example icon="i-material-design" name="switch_video"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sync"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sync_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sync_disabled"></u-icon-example>
-<u-icon-example icon="i-material-design" name="sync_problem"></u-icon-example>
-<u-icon-example icon="i-material-design" name="system_update"></u-icon-example>
-<u-icon-example icon="i-material-design" name="system_update_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tab"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tab_unselected"></u-icon-example>
-<u-icon-example icon="i-material-design" name="table_chart"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tablet"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tablet_android"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tablet_mac"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tag_faces"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tap_and_play"></u-icon-example>
-<u-icon-example icon="i-material-design" name="terrain"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_fields"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_format"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotate_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotate_vertical"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotation_angledown"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotation_angleup"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotation_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="text_rotation_none"></u-icon-example>
-<u-icon-example icon="i-material-design" name="textsms"></u-icon-example>
-<u-icon-example icon="i-material-design" name="texture"></u-icon-example>
-<u-icon-example icon="i-material-design" name="theaters"></u-icon-example>
-<u-icon-example icon="i-material-design" name="thumb_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="thumb_down_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="thumb_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="thumb_up_alt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="thumbs_up_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="time_to_leave"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timelapse"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timeline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timer"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timer_10"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timer_3"></u-icon-example>
-<u-icon-example icon="i-material-design" name="timer_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="title"></u-icon-example>
-<u-icon-example icon="i-material-design" name="toc"></u-icon-example>
-<u-icon-example icon="i-material-design" name="today"></u-icon-example>
-<u-icon-example icon="i-material-design" name="toggle_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="toggle_on"></u-icon-example>
-<u-icon-example icon="i-material-design" name="toll"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tonality"></u-icon-example>
-<u-icon-example icon="i-material-design" name="touch_app"></u-icon-example>
-<u-icon-example icon="i-material-design" name="toys"></u-icon-example>
-<u-icon-example icon="i-material-design" name="track_changes"></u-icon-example>
-<u-icon-example icon="i-material-design" name="traffic"></u-icon-example>
-<u-icon-example icon="i-material-design" name="train"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tram"></u-icon-example>
-<u-icon-example icon="i-material-design" name="transfer_within_a_station"></u-icon-example>
-<u-icon-example icon="i-material-design" name="transform"></u-icon-example>
-<u-icon-example icon="i-material-design" name="transit_enterexit"></u-icon-example>
-<u-icon-example icon="i-material-design" name="translate"></u-icon-example>
-<u-icon-example icon="i-material-design" name="trending_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="trending_flat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="trending_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="trip_origin"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tune"></u-icon-example>
-<u-icon-example icon="i-material-design" name="turned_in"></u-icon-example>
-<u-icon-example icon="i-material-design" name="turned_in_not"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tv"></u-icon-example>
-<u-icon-example icon="i-material-design" name="tv_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="two_wheeler"></u-icon-example>
-<u-icon-example icon="i-material-design" name="unarchive"></u-icon-example>
-<u-icon-example icon="i-material-design" name="undo"></u-icon-example>
-<u-icon-example icon="i-material-design" name="unfold_less"></u-icon-example>
-<u-icon-example icon="i-material-design" name="unfold_more"></u-icon-example>
-<u-icon-example icon="i-material-design" name="unsubscribe"></u-icon-example>
-<u-icon-example icon="i-material-design" name="update"></u-icon-example>
-<u-icon-example icon="i-material-design" name="usb"></u-icon-example>
-<u-icon-example icon="i-material-design" name="verified_user"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vertical_align_bottom"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vertical_align_center"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vertical_align_top"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vertical_split"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vibration"></u-icon-example>
-<u-icon-example icon="i-material-design" name="video_call"></u-icon-example>
-<u-icon-example icon="i-material-design" name="video_label"></u-icon-example>
-<u-icon-example icon="i-material-design" name="video_library"></u-icon-example>
-<u-icon-example icon="i-material-design" name="videocam"></u-icon-example>
-<u-icon-example icon="i-material-design" name="videocam_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="videogame_asset"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_agenda"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_array"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_carousel"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_column"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_comfy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_compact"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_day"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_headline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_list"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_module"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_quilt"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_stream"></u-icon-example>
-<u-icon-example icon="i-material-design" name="view_week"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vignette"></u-icon-example>
-<u-icon-example icon="i-material-design" name="visibility"></u-icon-example>
-<u-icon-example icon="i-material-design" name="visibility_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="voice_chat"></u-icon-example>
-<u-icon-example icon="i-material-design" name="voice_over_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="voicemail"></u-icon-example>
-<u-icon-example icon="i-material-design" name="volume_down"></u-icon-example>
-<u-icon-example icon="i-material-design" name="volume_mute"></u-icon-example>
-<u-icon-example icon="i-material-design" name="volume_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="volume_up"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vpn_key"></u-icon-example>
-<u-icon-example icon="i-material-design" name="vpn_lock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wallpaper"></u-icon-example>
-<u-icon-example icon="i-material-design" name="warning"></u-icon-example>
-<u-icon-example icon="i-material-design" name="watch"></u-icon-example>
-<u-icon-example icon="i-material-design" name="watch_later"></u-icon-example>
-<u-icon-example icon="i-material-design" name="waves"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wb_auto"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wb_cloudy"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wb_incandescent"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wb_iridescent"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wb_sunny"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wc"></u-icon-example>
-<u-icon-example icon="i-material-design" name="web"></u-icon-example>
-<u-icon-example icon="i-material-design" name="web_asset"></u-icon-example>
-<u-icon-example icon="i-material-design" name="weekend"></u-icon-example>
-<u-icon-example icon="i-material-design" name="whatshot"></u-icon-example>
-<u-icon-example icon="i-material-design" name="where_to_vote"></u-icon-example>
-<u-icon-example icon="i-material-design" name="widgets"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wifi"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wifi_lock"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wifi_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wifi_tethering"></u-icon-example>
-<u-icon-example icon="i-material-design" name="work"></u-icon-example>
-<u-icon-example icon="i-material-design" name="work_off"></u-icon-example>
-<u-icon-example icon="i-material-design" name="work_outline"></u-icon-example>
-<u-icon-example icon="i-material-design" name="wrap_text"></u-icon-example>
-<u-icon-example icon="i-material-design" name="youtube_searched_for"></u-icon-example>
-<u-icon-example icon="i-material-design" name="zoom_in"></u-icon-example>
-<u-icon-example icon="i-material-design" name="zoom_out"></u-icon-example>
-<u-icon-example icon="i-material-design" name="zoom_out_map"></u-icon-example>
+<p></p>
+
+<u-subtabs>
+    <u-subtab title="filled">
+        <u-icon-example icon="i-material-design" theme="filled" name="360"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="3d_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ac_unit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="access_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="access_alarms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="access_time"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="accessibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="accessibility_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="accessible"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="accessible_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="account_balance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="account_balance_wallet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="account_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="account_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="adb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_a_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_ic_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_to_home_screen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_to_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_flat_angled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_individual_suite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_legroom_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_legroom_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_legroom_reduced"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_recline_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_recline_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airplanemode_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airplanemode_inactive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airplay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="airport_shuttle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alarm_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alarm_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alarm_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="all_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="all_inclusive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alternate_email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="announcement"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="archive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_downward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_drop_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_drop_down_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_drop_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_forward_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_right_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_upward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assessment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment_ind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment_late"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment_returned"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assignment_turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assistant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="assistant_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="attach_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="attach_money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="attachment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="autorenew"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ballot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bathtub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="battery_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="battery_charging_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="battery_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="battery_std"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="battery_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="block"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bluetooth_audio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bluetooth_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bluetooth_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bluetooth_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="blur_circular"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="blur_linear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="blur_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="blur_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bookmark_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bookmarks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_inner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_outer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="border_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="branding_watermark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_low"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brightness_medium"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="brush"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bubble_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bug_report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="burst_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="business"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="business_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cached"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="calendar_today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="calendar_view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_end"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_made"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_merge"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_missed_outgoing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_received"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="call_to_action"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera_enhance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera_rear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cancel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cancel_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cancel_schedule_send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="card_giftcard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="card_membership"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="card_travel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="casino"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="category"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="center_focus_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="center_focus_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chat_bubble"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chat_bubble_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="check_box_outline_blank"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="check_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chevron_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chevron_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="child_care"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="child_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="chrome_reader_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="clear_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="closed_caption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cloud_upload"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="code"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="collections"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="collections_bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="color_lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="colorize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="commute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="compare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="compare_arrows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="compass_calibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="computer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="contact_mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="contact_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="contact_support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="contactless"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="control_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="control_point"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="control_point_duplicate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="create"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="create_new_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="credit_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_16_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_3_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_5_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_7_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_din"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_original"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_rotate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="crop_square"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dashboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="data_usage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="date_range"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="deck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dehaze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="delete"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="delete_forever"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="delete_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="delete_sweep"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="departure_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="desktop_access_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="desktop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="desktop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="details"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="developer_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="developer_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="device_hub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="device_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="devices_other"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dialer_sip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dialpad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_boat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_bus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_railway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_run"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_transit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_walk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="disc_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="domain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="done_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="done_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="donut_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="donut_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="double_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="drafts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="drag_handle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="drag_indicator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="duo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="eco"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="edit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="edit_attributes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_emotions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_events"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_flags"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_food_beverage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_objects"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_symbols"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="enhanced_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="equalizer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="error"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="euro"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="euro_symbol"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ev_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="event"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="event_available"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="event_busy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="event_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="event_seat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exit_to_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="expand_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="expand_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="explicit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="explore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="explore_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure_neg_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure_neg_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure_plus_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure_plus_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="exposure_zero"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="extension"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fast_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fast_rewind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fastfood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="favorite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="favorite_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="featured_play_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="featured_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="feedback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fiber_dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fiber_manual_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fiber_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fiber_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fiber_smart_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="file_copy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_8"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_b_and_w"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_center_focus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_drama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_frames"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_hdr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_tilt_shift"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_vintage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="find_in_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="find_replace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fingerprint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fireplace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="first_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fitness_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flash_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flash_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flash_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flight_land"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flight_takeoff"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flip_camera_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flip_camera_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flip_to_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flip_to_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="folder_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="folder_shared"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="folder_special"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="font_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_align_justify"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_align_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_align_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_bold"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_color_reset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_indent_decrease"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_indent_increase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_italic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_line_spacing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_list_bulleted"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_list_numbered"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_list_numbered_rtl"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_paint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_quote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_shapes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_size"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_strikethrough"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_textdirection_l_to_r"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_textdirection_r_to_l"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="format_underlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forward_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forward_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="free_breakfast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fullscreen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fullscreen_exit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="functions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="g_translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gamepad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="games"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gavel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gesture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="get_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gif"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="golf_course"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gps_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gps_not_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gps_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="grade"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="grain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="graphic_eq"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="grid_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="grid_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="group_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hd"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hdr_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hdr_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hdr_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hdr_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="headset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="headset_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="healing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="height"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="help_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="high_quality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="highlight_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="horizontal_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hot_tub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hourglass_empty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="house"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="how_to_reg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="how_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="http"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="image_search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="import_contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="import_export"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="important_devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="indeterminate_check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="info"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_chart_outlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_drive_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_emoticon"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_invitation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="invert_colors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="invert_colors_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="iso"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_arrow_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_arrow_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_capslock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_hide"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="keyboard_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="king_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="kitchen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="label_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="label_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="language"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="laptop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="laptop_chromebook"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="laptop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="laptop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="last_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="launch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="layers"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="layers_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="leak_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="library_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="library_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="library_books"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="library_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="line_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="line_weight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="linear_scale"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="link_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="linked_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="list_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="live_help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="live_tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_activity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_airport"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_cafe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_car_wash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_convenience_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_dining"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_drink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_florist"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_gas_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_grocery_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_hospital"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_laundry_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_mall"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_movies"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_offer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_parking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_pharmacy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_pizza"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_post_office"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_printshop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_see"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_shipping"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="local_taxi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="location_city"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="location_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="location_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="location_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="location_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="looks_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="loop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="loupe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="low_priority"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="loyalty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mail_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="markunread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="markunread_mailbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="memory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="menu_book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="menu_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="merge_type"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="message"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mic_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="missed_video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mobile_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mobile_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mobile_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="monetization_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="money_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="monochrome_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="more_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mouse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="move_to_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="movie"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="movie_creation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="movie_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="museum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="music_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="music_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="music_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="nature_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="navigate_before"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="navigate_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="navigation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="near_me"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="network_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="network_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="next_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="nfc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="not_interested"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="note_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notification_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notifications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notifications_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notifications_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notifications_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="notifications_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="offline_bolt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="offline_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="opacity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="open_in_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="open_with"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="outlined_flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pages"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pageview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="palette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pan_tool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="panorama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="panorama_fish_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="panorama_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="panorama_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="panorama_wide_angle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="party_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pause"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pause_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pause_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pause_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="people_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="people_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_camera_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_contact_calendar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_data_setting"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_device_information"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_identity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_media"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_phone_msg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="perm_scan_wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_add_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_bluetooth_speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_callback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_enabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_forwarded"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_in_talk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_iphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phone_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink_erase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink_ring"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="phonelink_setup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_size_select_actual"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_size_select_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="photo_size_select_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="picture_as_pdf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="picture_in_picture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="picture_in_picture_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pie_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pin_drop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="play_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="play_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="play_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="play_for_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="playlist_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="playlist_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="policy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="poll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="polymer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="portable_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="post_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="power_input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="power_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="power_settings_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pregnant_woman"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="print"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="print_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="query_builder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="question_answer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="queue_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="radio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="radio_button_checked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="radio_button_unchecked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="recent_actors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="record_voice_over"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="redeem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="redo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="refresh"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove_from_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove_red_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="remove_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="reorder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="repeat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="repeat_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="replay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="replay_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="replay_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="replay_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="reply"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="reply_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="report_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="restaurant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="restaurant_menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="restore_from_trash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="restore_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ring_volume"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="room_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rotate_90_degrees_ccw"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rotate_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rotate_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rounded_corner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="router"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rowing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rv_hookup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="satellite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="save"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="save_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="scanner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="scatter_plot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="schedule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="score"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="screen_lock_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="screen_lock_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="screen_lock_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="screen_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sd_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sd_storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="security"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sentiment_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sentiment_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sentiment_satisfied_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sentiment_very_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sentiment_very_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_applications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_backup_restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_brightness"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_ethernet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_input_antenna"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_input_component"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_input_composite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_input_hdmi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_input_svideo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_overscan"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_remote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_system_daydream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="settings_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shopping_basket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="short_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="show_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shuffle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shutter_speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_connected_no_internet_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_null"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_cellular_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_wifi_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_wifi_4_bar_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="signal_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sim_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="single_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="skip_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="skip_previous"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="slideshow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="smartphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="smoke_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="smoking_rooms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sort"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="spa"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="space_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speaker_group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speaker_notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speaker_notes_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speaker_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="spellcheck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_baseball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_basketball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_cricket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_esports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_football"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_golf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_handball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_hockey"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_kabaddi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_mma"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_motorsports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_rugby"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_soccer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_tennis"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sports_volleyball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="star"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="star_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="star_half"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stars"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stay_current_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stay_current_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stay_primary_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stay_primary_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stop_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="store_mall_directory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="storefront"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="straighten"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="streetview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subdirectory_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subdirectory_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subscriptions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="supervised_user_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="surround_sound"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="swap_calls"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="swap_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="swap_horizontal_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="swap_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="swap_vertical_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="switch_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sync"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sync_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sync_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sync_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="system_update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="system_update_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tab_unselected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tablet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tablet_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tablet_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tag_faces"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tap_and_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="terrain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_fields"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_format"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotate_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotate_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_angledown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_angleup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="textsms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="texture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="theaters"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="thumb_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="thumb_down_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="thumb_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="thumb_up_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="thumbs_up_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="time_to_leave"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timelapse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timeline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timer_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timer_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="timer_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="title"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="toc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="toggle_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="toggle_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="toll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="toys"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="track_changes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="traffic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="train"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tram"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="transfer_within_a_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="transform"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="transit_enterexit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="trending_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="trending_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="trending_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tune"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="turned_in_not"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tv_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="unarchive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="undo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="unfold_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="unfold_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="unsubscribe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="verified_user"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vertical_align_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vertical_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vertical_align_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vertical_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="video_label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="videocam"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="videocam_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="videogame_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_agenda"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_array"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_carousel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_column"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_comfy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_compact"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_headline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_module"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_stream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vignette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="visibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="visibility_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="voice_chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="voice_over_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="voicemail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="volume_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="volume_mute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="volume_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="volume_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vpn_key"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="vpn_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wallpaper"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="watch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="watch_later"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="waves"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wb_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wb_cloudy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wb_incandescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wb_iridescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wb_sunny"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="web"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="web_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="weekend"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="where_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="widgets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi_tethering"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="work_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="work_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="youtube_searched_for"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="zoom_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="zoom_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="zoom_out_map"></u-icon-example>
+    </u-subtab>
+    <u-subtab title="outlined">
+        <u-icon-example icon="i-material-design" theme="outlined" name="360"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="3d_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ac_unit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="access_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="access_alarms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="access_time"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="accessibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="accessibility_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="accessible"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="accessible_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="account_balance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="account_balance_wallet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="account_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="account_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="adb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_a_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_ic_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_to_home_screen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_to_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_flat_angled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_individual_suite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_legroom_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_legroom_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_legroom_reduced"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_recline_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_recline_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airplanemode_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airplanemode_inactive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airplay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="airport_shuttle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alarm_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alarm_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alarm_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="all_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="all_inclusive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alternate_email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="announcement"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="archive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_downward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_drop_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_drop_down_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_drop_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_forward_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_right_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_upward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assessment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment_ind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment_late"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment_returned"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assignment_turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assistant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="assistant_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="attach_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="attach_money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="attachment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="autorenew"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ballot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bathtub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="battery_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="battery_charging_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="battery_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="battery_std"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="battery_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="block"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth_audio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="blur_circular"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="blur_linear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="blur_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="blur_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bookmark_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bookmarks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_inner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_outer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="border_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="branding_watermark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_low"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brightness_medium"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="brush"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bubble_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bug_report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="burst_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="business"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="business_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cached"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="calendar_today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="calendar_view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_end"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_made"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_merge"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_missed_outgoing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_received"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="call_to_action"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera_enhance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera_rear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cancel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cancel_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cancel_schedule_send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="card_giftcard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="card_membership"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="card_travel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="casino"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="category"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="center_focus_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="center_focus_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chat_bubble"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chat_bubble_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="check_box_outline_blank"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="check_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chevron_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chevron_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="child_care"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="child_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="chrome_reader_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="clear_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="closed_caption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cloud_upload"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="code"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="collections"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="collections_bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="color_lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="colorize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="commute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="compare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="compare_arrows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="compass_calibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="computer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="contact_mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="contact_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="contact_support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="contactless"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="control_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="control_point"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="control_point_duplicate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="create"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="create_new_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="credit_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_16_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_3_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_5_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_7_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_din"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_original"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_rotate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="crop_square"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dashboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="data_usage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="date_range"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="deck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dehaze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="delete"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="delete_forever"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="delete_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="delete_sweep"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="departure_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="desktop_access_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="desktop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="desktop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="details"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="developer_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="developer_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="device_hub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="device_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="devices_other"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dialer_sip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dialpad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_boat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_bus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_railway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_run"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_transit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_walk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="disc_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="domain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="done_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="done_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="donut_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="donut_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="double_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="drafts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="drag_handle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="drag_indicator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="duo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="eco"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="edit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="edit_attributes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_emotions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_events"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_flags"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_food_beverage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_objects"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_symbols"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="enhanced_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="equalizer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="error"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="euro"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="euro_symbol"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ev_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="event"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="event_available"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="event_busy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="event_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="event_seat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exit_to_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="expand_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="expand_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="explicit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="explore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="explore_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure_neg_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure_neg_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure_plus_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure_plus_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="exposure_zero"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="extension"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fast_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fast_rewind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fastfood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="favorite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="favorite_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="featured_play_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="featured_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="feedback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fiber_dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fiber_manual_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fiber_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fiber_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fiber_smart_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="file_copy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_8"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_b_and_w"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_center_focus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_drama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_frames"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_hdr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_tilt_shift"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_vintage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="find_in_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="find_replace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fingerprint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fireplace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="first_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fitness_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flash_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flash_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flash_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flight_land"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flight_takeoff"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flip_camera_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flip_camera_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flip_to_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flip_to_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="folder_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="folder_shared"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="folder_special"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="font_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_align_justify"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_align_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_align_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_bold"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_color_reset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_indent_decrease"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_indent_increase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_italic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_line_spacing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_list_bulleted"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_list_numbered"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_list_numbered_rtl"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_paint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_quote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_shapes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_size"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_strikethrough"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_textdirection_l_to_r"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_textdirection_r_to_l"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="format_underlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forward_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forward_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="free_breakfast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fullscreen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fullscreen_exit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="functions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="g_translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gamepad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="games"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gavel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gesture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="get_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gif"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="golf_course"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gps_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gps_not_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gps_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="grade"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="grain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="graphic_eq"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="grid_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="grid_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="group_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hd"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hdr_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hdr_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hdr_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hdr_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="headset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="headset_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="healing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="height"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="help_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="high_quality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="highlight_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="horizontal_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hot_tub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_empty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="house"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="how_to_reg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="how_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="http"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="image_search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="import_contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="import_export"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="important_devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="indeterminate_check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="info"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_chart_outlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_drive_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_emoticon"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_invitation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="invert_colors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="invert_colors_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="iso"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_arrow_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_arrow_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_capslock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_hide"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="keyboard_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="king_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="kitchen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="label_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="label_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="language"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="laptop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="laptop_chromebook"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="laptop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="laptop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="last_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="launch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="layers"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="layers_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="leak_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="library_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="library_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="library_books"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="library_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="line_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="line_weight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="linear_scale"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="link_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="linked_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="list_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="live_help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="live_tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_activity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_airport"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_cafe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_car_wash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_convenience_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_dining"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_drink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_florist"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_gas_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_grocery_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_hospital"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_laundry_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_mall"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_movies"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_offer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_parking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_pharmacy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_pizza"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_post_office"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_printshop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_see"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_shipping"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="local_taxi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="location_city"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="location_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="location_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="location_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="location_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="looks_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="loop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="loupe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="low_priority"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="loyalty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mail_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="markunread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="markunread_mailbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="memory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="menu_book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="menu_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="merge_type"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="message"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mic_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="missed_video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mobile_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mobile_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mobile_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="monetization_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="money_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="monochrome_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="more_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mouse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="move_to_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="movie"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="movie_creation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="movie_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="museum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="music_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="music_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="music_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="nature_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="navigate_before"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="navigate_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="navigation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="near_me"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="network_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="network_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="next_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="nfc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="not_interested"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="note_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notification_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notifications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notifications_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notifications_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notifications_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="notifications_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="offline_bolt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="offline_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="opacity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="open_in_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="open_with"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="outlined_flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pages"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pageview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="palette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pan_tool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="panorama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="panorama_fish_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="panorama_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="panorama_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="panorama_wide_angle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="party_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pause"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pause_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pause_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pause_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="people_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="people_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_camera_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_contact_calendar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_data_setting"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_device_information"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_identity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_media"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_phone_msg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="perm_scan_wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_add_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_bluetooth_speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_callback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_enabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_forwarded"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_in_talk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_iphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phone_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink_erase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink_ring"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="phonelink_setup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_size_select_actual"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_size_select_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="photo_size_select_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="picture_as_pdf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="picture_in_picture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="picture_in_picture_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pie_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pin_drop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="play_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="play_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="play_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="play_for_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="playlist_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="playlist_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="policy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="poll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="polymer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="portable_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="post_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="power_input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="power_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="power_settings_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pregnant_woman"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="print"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="print_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="query_builder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="question_answer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="queue_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="radio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="radio_button_checked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="radio_button_unchecked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="recent_actors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="record_voice_over"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="redeem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="redo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="refresh"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove_from_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove_red_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="remove_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="reorder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="repeat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="repeat_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="replay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="replay_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="replay_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="replay_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="reply"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="reply_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="report_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="restaurant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="restaurant_menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="restore_from_trash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="restore_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ring_volume"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="room_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rotate_90_degrees_ccw"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rotate_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rotate_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rounded_corner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="router"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rowing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rv_hookup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="satellite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="save"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="save_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="scanner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="scatter_plot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="schedule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="score"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="screen_lock_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="screen_lock_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="screen_lock_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="screen_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sd_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sd_storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="security"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_satisfied_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_very_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_very_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_applications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_backup_restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_brightness"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_ethernet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_input_antenna"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_input_component"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_input_composite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_input_hdmi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_input_svideo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_overscan"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_remote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_system_daydream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="settings_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shopping_basket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="short_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="show_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shuffle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shutter_speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_connected_no_internet_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_null"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_cellular_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_wifi_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_wifi_4_bar_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="signal_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sim_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="single_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="skip_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="skip_previous"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="slideshow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="smartphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="smoke_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="smoking_rooms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sort"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="spa"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="space_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speaker_group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speaker_notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speaker_notes_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speaker_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="spellcheck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_baseball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_basketball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_cricket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_esports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_football"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_golf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_handball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_hockey"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_kabaddi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_mma"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_motorsports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_rugby"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_soccer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_tennis"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sports_volleyball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="star"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="star_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="star_half"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stars"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stay_current_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stay_current_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stay_primary_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stay_primary_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stop_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="store_mall_directory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="storefront"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="straighten"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="streetview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subdirectory_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subdirectory_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subscriptions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="supervised_user_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="surround_sound"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="swap_calls"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="swap_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="swap_horizontal_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="swap_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="swap_vertical_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="switch_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sync"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sync_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sync_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sync_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="system_update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="system_update_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tab_unselected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tablet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tablet_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tablet_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tag_faces"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tap_and_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="terrain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_fields"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_format"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotate_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotate_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_angledown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_angleup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="textsms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="texture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="theaters"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="thumb_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="thumb_down_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="thumb_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="thumb_up_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="thumbs_up_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="time_to_leave"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timelapse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timeline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timer_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timer_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="timer_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="title"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="toc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="toggle_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="toggle_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="toll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="toys"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="track_changes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="traffic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="train"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tram"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="transfer_within_a_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="transform"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="transit_enterexit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="trending_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="trending_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="trending_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tune"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="turned_in_not"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tv_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="unarchive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="undo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="unfold_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="unfold_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="unsubscribe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="verified_user"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vertical_align_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vertical_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vertical_align_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vertical_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="video_label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="videocam"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="videocam_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="videogame_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_agenda"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_array"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_carousel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_column"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_comfy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_compact"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_headline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_module"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_stream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vignette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="visibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="visibility_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="voice_chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="voice_over_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="voicemail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="volume_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="volume_mute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="volume_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="volume_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vpn_key"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="vpn_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wallpaper"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="watch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="watch_later"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="waves"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wb_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wb_cloudy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wb_incandescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wb_iridescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wb_sunny"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="web"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="web_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="weekend"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="where_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="widgets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi_tethering"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="work_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="work_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="youtube_searched_for"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="zoom_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="zoom_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="zoom_out_map"></u-icon-example>
+    </u-subtab>
+    <u-subtab title="rounded">
+        <u-icon-example icon="i-material-design" theme="rounded" name="360"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="3d_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ac_unit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="access_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="access_alarms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="access_time"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="accessibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="accessibility_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="accessible"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="accessible_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="account_balance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="account_balance_wallet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="account_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="account_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="adb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_a_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_ic_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_to_home_screen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_to_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_flat_angled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_individual_suite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_legroom_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_legroom_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_legroom_reduced"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_recline_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_recline_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airplanemode_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airplanemode_inactive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airplay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="airport_shuttle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alarm_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alarm_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alarm_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="all_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="all_inclusive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alternate_email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="announcement"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="archive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_downward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_drop_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_drop_down_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_drop_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_forward_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_right_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_upward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assessment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment_ind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment_late"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment_returned"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assignment_turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assistant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="assistant_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="attach_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="attach_money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="attachment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="autorenew"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ballot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bathtub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="battery_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="battery_charging_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="battery_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="battery_std"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="battery_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="block"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth_audio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="blur_circular"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="blur_linear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="blur_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="blur_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bookmark_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bookmarks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_inner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_outer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="border_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="branding_watermark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_low"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brightness_medium"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="brush"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bubble_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bug_report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="burst_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="business"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="business_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cached"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="calendar_today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="calendar_view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_end"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_made"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_merge"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_missed_outgoing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_received"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="call_to_action"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera_enhance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera_rear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cancel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cancel_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cancel_schedule_send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="card_giftcard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="card_membership"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="card_travel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="casino"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="category"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="center_focus_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="center_focus_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chat_bubble"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chat_bubble_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="check_box_outline_blank"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="check_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chevron_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chevron_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="child_care"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="child_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="chrome_reader_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="clear_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="closed_caption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cloud_upload"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="code"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="collections"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="collections_bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="color_lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="colorize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="commute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="compare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="compare_arrows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="compass_calibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="computer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="contact_mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="contact_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="contact_support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="contactless"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="control_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="control_point"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="control_point_duplicate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="create"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="create_new_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="credit_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_16_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_3_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_5_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_7_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_din"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_original"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_rotate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="crop_square"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dashboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="data_usage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="date_range"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="deck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dehaze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="delete"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="delete_forever"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="delete_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="delete_sweep"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="departure_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="desktop_access_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="desktop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="desktop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="details"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="developer_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="developer_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="device_hub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="device_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="devices_other"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dialer_sip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dialpad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_boat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_bus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_railway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_run"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_transit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_walk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="disc_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="domain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="done_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="done_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="donut_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="donut_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="double_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="drafts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="drag_handle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="drag_indicator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="duo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="eco"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="edit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="edit_attributes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_emotions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_events"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_flags"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_food_beverage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_objects"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_symbols"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="enhanced_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="equalizer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="error"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="euro"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="euro_symbol"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ev_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="event"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="event_available"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="event_busy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="event_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="event_seat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exit_to_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="expand_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="expand_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="explicit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="explore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="explore_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure_neg_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure_neg_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure_plus_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure_plus_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="exposure_zero"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="extension"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fast_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fast_rewind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fastfood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="favorite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="favorite_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="featured_play_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="featured_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="feedback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fiber_dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fiber_manual_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fiber_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fiber_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fiber_smart_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="file_copy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_8"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_b_and_w"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_center_focus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_drama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_frames"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_hdr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_tilt_shift"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_vintage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="find_in_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="find_replace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fingerprint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fireplace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="first_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fitness_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flash_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flash_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flash_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flight_land"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flight_takeoff"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flip_camera_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flip_camera_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flip_to_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flip_to_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="folder_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="folder_shared"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="folder_special"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="font_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_align_justify"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_align_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_align_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_bold"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_color_reset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_indent_decrease"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_indent_increase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_italic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_line_spacing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_list_bulleted"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_list_numbered"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_list_numbered_rtl"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_paint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_quote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_shapes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_size"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_strikethrough"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_textdirection_l_to_r"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_textdirection_r_to_l"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="format_underlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forward_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forward_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="free_breakfast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fullscreen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fullscreen_exit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="functions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="g_translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gamepad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="games"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gavel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gesture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="get_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gif"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="golf_course"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gps_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gps_not_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gps_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="grade"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="grain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="graphic_eq"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="grid_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="grid_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="group_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hd"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hdr_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hdr_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hdr_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hdr_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="headset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="headset_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="healing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="height"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="help_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="high_quality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="highlight_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="horizontal_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hot_tub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_empty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="house"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="how_to_reg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="how_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="http"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="image_search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="import_contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="import_export"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="important_devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="indeterminate_check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="info"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_chart_outlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_drive_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_emoticon"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_invitation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="invert_colors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="invert_colors_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="iso"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_arrow_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_arrow_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_capslock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_hide"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="keyboard_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="king_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="kitchen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="label_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="label_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="language"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="laptop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="laptop_chromebook"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="laptop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="laptop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="last_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="launch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="layers"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="layers_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="leak_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="library_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="library_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="library_books"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="library_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="line_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="line_weight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="linear_scale"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="link_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="linked_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="list_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="live_help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="live_tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_activity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_airport"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_cafe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_car_wash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_convenience_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_dining"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_drink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_florist"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_gas_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_grocery_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_hospital"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_laundry_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_mall"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_movies"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_offer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_parking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_pharmacy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_pizza"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_post_office"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_printshop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_see"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_shipping"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="local_taxi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="location_city"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="location_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="location_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="location_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="location_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="looks_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="loop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="loupe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="low_priority"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="loyalty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mail_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="markunread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="markunread_mailbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="memory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="menu_book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="menu_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="merge_type"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="message"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mic_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="missed_video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mobile_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mobile_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mobile_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="monetization_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="money_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="monochrome_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="more_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mouse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="move_to_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="movie"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="movie_creation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="movie_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="museum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="music_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="music_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="music_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="nature_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="navigate_before"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="navigate_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="navigation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="near_me"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="network_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="network_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="next_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="nfc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="not_interested"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="note_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notification_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notifications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notifications_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notifications_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notifications_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="notifications_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="offline_bolt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="offline_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="opacity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="open_in_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="open_with"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="outlined_flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pages"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pageview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="palette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pan_tool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="panorama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="panorama_fish_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="panorama_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="panorama_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="panorama_wide_angle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="party_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pause"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pause_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pause_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pause_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="people_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="people_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_camera_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_contact_calendar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_data_setting"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_device_information"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_identity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_media"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_phone_msg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="perm_scan_wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_add_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_bluetooth_speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_callback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_enabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_forwarded"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_in_talk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_iphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phone_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink_erase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink_ring"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="phonelink_setup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_size_select_actual"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_size_select_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="photo_size_select_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="picture_as_pdf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="picture_in_picture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="picture_in_picture_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pie_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pin_drop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="play_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="play_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="play_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="play_for_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="playlist_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="playlist_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="policy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="poll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="polymer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="portable_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="post_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="power_input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="power_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="power_settings_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pregnant_woman"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="print"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="print_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="query_builder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="question_answer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="queue_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="radio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="radio_button_checked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="radio_button_unchecked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="recent_actors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="record_voice_over"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="redeem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="redo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="refresh"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove_from_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove_red_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="remove_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="reorder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="repeat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="repeat_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="replay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="replay_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="replay_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="replay_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="reply"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="reply_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="report_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="restaurant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="restaurant_menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="restore_from_trash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="restore_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ring_volume"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="room_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rotate_90_degrees_ccw"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rotate_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rotate_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rounded_corner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="router"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rowing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rv_hookup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="satellite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="save"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="save_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="scanner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="scatter_plot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="schedule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="score"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="screen_lock_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="screen_lock_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="screen_lock_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="screen_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sd_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sd_storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="security"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_satisfied_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_very_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_very_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_applications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_backup_restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_brightness"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_ethernet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_input_antenna"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_input_component"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_input_composite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_input_hdmi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_input_svideo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_overscan"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_remote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_system_daydream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="settings_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shopping_basket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="short_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="show_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shuffle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shutter_speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_connected_no_internet_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_null"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_cellular_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_wifi_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_wifi_4_bar_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="signal_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sim_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="single_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="skip_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="skip_previous"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="slideshow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="smartphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="smoke_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="smoking_rooms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sort"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="spa"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="space_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speaker_group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speaker_notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speaker_notes_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speaker_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="spellcheck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_baseball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_basketball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_cricket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_esports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_football"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_golf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_handball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_hockey"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_kabaddi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_mma"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_motorsports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_rugby"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_soccer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_tennis"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sports_volleyball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="star"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="star_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="star_half"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stars"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stay_current_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stay_current_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stay_primary_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stay_primary_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stop_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="store_mall_directory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="storefront"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="straighten"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="streetview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subdirectory_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subdirectory_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subscriptions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="supervised_user_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="surround_sound"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="swap_calls"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="swap_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="swap_horizontal_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="swap_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="swap_vertical_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="switch_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sync"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sync_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sync_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sync_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="system_update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="system_update_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tab_unselected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tablet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tablet_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tablet_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tag_faces"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tap_and_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="terrain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_fields"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_format"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotate_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotate_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_angledown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_angleup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="textsms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="texture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="theaters"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="thumb_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="thumb_down_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="thumb_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="thumb_up_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="thumbs_up_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="time_to_leave"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timelapse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timeline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timer_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timer_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="timer_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="title"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="toc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="toggle_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="toggle_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="toll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="toys"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="track_changes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="traffic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="train"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tram"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="transfer_within_a_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="transform"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="transit_enterexit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="trending_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="trending_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="trending_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tune"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="turned_in_not"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tv_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="unarchive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="undo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="unfold_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="unfold_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="unsubscribe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="verified_user"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vertical_align_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vertical_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vertical_align_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vertical_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="video_label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="videocam"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="videocam_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="videogame_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_agenda"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_array"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_carousel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_column"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_comfy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_compact"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_headline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_module"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_stream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vignette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="visibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="visibility_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="voice_chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="voice_over_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="voicemail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="volume_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="volume_mute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="volume_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="volume_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vpn_key"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="vpn_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wallpaper"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="watch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="watch_later"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="waves"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wb_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wb_cloudy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wb_incandescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wb_iridescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wb_sunny"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="web"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="web_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="weekend"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="where_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="widgets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi_tethering"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="work_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="work_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="youtube_searched_for"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="zoom_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="zoom_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="zoom_out_map"></u-icon-example>
+    </u-subtab>
+    <u-subtab title="sharp">
+        <u-icon-example icon="i-material-design" theme="sharp" name="360"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="3d_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ac_unit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="access_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="access_alarms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="access_time"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="accessibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="accessibility_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="accessible"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="accessible_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="account_balance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="account_balance_wallet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="account_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="account_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="adb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_a_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_ic_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_to_home_screen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_to_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_flat_angled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_individual_suite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_legroom_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_legroom_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_legroom_reduced"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_recline_extra"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_recline_normal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airplanemode_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airplanemode_inactive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airplay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="airport_shuttle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alarm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alarm_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alarm_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alarm_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="all_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="all_inclusive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alternate_email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="announcement"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="archive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_downward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_drop_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_drop_down_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_drop_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_forward_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_right_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_upward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assessment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment_ind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment_late"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment_returned"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assignment_turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assistant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="assistant_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="attach_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="attach_money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="attachment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="autorenew"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ballot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bathtub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="battery_alert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="battery_charging_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="battery_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="battery_std"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="battery_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="block"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth_audio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="blur_circular"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="blur_linear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="blur_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="blur_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bookmark_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bookmarks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_inner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_outer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="border_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="branding_watermark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_low"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brightness_medium"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="brush"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bubble_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bug_report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="burst_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="business"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="business_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cached"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="calendar_today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="calendar_view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_end"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_made"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_merge"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_missed_outgoing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_received"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="call_to_action"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera_enhance"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera_rear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cancel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cancel_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cancel_schedule_send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="card_giftcard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="card_membership"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="card_travel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="casino"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="category"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="center_focus_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="center_focus_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chat_bubble"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chat_bubble_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="check_box_outline_blank"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="check_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chevron_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chevron_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="child_care"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="child_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="chrome_reader_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="clear_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="closed_caption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cloud_upload"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="code"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="collections"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="collections_bookmark"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="color_lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="colorize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="commute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="compare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="compare_arrows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="compass_calibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="computer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="contact_mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="contact_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="contact_support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="contactless"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="control_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="control_point"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="control_point_duplicate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="create"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="create_new_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="credit_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_16_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_3_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_5_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_7_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_din"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_original"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_rotate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="crop_square"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dashboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="data_usage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="date_range"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="deck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dehaze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="delete"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="delete_forever"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="delete_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="delete_sweep"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="departure_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="desktop_access_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="desktop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="desktop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="details"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="developer_board"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="developer_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="device_hub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="device_unknown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="devices_other"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dialer_sip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dialpad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_boat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_bus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_railway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_run"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_transit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_walk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="disc_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="domain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="done"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="done_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="done_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="donut_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="donut_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="double_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="drafts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="drag_handle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="drag_indicator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="duo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="eco"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="edit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="edit_attributes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="email"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_emotions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_events"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_flags"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_food_beverage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_objects"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_symbols"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="enhanced_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="equalizer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="error"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="euro"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="euro_symbol"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ev_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="event"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="event_available"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="event_busy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="event_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="event_seat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exit_to_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="expand_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="expand_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="explicit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="explore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="explore_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure_neg_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure_neg_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure_plus_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure_plus_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="exposure_zero"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="extension"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fast_forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fast_rewind"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fastfood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="favorite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="favorite_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="featured_play_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="featured_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="feedback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fiber_dvr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fiber_manual_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fiber_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fiber_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fiber_smart_record"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="file_copy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_2"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_7"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_8"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_9"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_b_and_w"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_center_focus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_drama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_frames"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_hdr"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_tilt_shift"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_vintage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="find_in_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="find_replace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fingerprint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fireplace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="first_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fitness_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flare"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flash_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flash_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flash_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flight_land"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flight_takeoff"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flip_camera_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flip_camera_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flip_to_back"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flip_to_front"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="folder_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="folder_shared"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="folder_special"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="font_download"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_align_justify"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_align_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_align_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_bold"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_color_reset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_indent_decrease"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_indent_increase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_italic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_line_spacing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_list_bulleted"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_list_numbered"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_list_numbered_rtl"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_paint"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_quote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_shapes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_size"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_strikethrough"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_textdirection_l_to_r"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_textdirection_r_to_l"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="format_underlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forward"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forward_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forward_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="free_breakfast"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fullscreen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fullscreen_exit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="functions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="g_translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gamepad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="games"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gavel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gesture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="get_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gif"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="golf_course"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gps_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gps_not_fixed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gps_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="grade"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="grain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="graphic_eq"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="grid_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="grid_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="group_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hd"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hdr_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hdr_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hdr_strong"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hdr_weak"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="headset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="headset_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="healing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="height"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="help_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="high_quality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="highlight_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="horizontal_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hot_tub"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_empty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="house"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="how_to_reg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="how_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="http"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="image_search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="import_contacts"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="import_export"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="important_devices"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="indeterminate_check_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="info"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_chart_outlined"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_drive_file"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_emoticon"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_invitation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="invert_colors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="invert_colors_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="iso"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_arrow_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_arrow_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_backspace"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_capslock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_hide"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_return"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="keyboard_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="king_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="kitchen"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="label_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="label_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="language"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="laptop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="laptop_chromebook"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="laptop_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="laptop_windows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="last_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="launch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="layers"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="layers_clear"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="leak_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="lens"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="library_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="library_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="library_books"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="library_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="line_style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="line_weight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="linear_scale"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="link"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="link_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="linked_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="list_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="live_help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="live_tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_activity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_airport"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_cafe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_car_wash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_convenience_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_dining"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_drink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_florist"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_gas_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_grocery_store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_hospital"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_laundry_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_mall"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_movies"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_offer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_parking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_pharmacy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_pizza"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_post_office"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_printshop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_see"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_shipping"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="local_taxi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="location_city"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="location_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="location_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="location_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="location_searching"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_4"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_6"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="looks_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="loop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="loupe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="low_priority"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="loyalty"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mail_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="markunread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="markunread_mailbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="memory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="menu_book"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="menu_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="merge_type"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="message"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mic_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="missed_video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mobile_friendly"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mobile_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mobile_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="monetization_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="money"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="money_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="monochrome_photos"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mood"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="more_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mouse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="move_to_inbox"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="movie"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="movie_creation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="movie_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="museum"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="music_note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="music_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="music_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="nature"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="nature_people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="navigate_before"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="navigate_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="navigation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="near_me"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="network_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="network_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="next_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="nfc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="not_interested"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="note"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="note_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notification_important"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notifications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notifications_active"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notifications_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notifications_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="notifications_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="offline_bolt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="offline_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="opacity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="open_in_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="open_with"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="outlined_flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pages"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pageview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="palette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pan_tool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="panorama"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="panorama_fish_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="panorama_horizontal"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="panorama_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="panorama_wide_angle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="party_mode"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pause"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pause_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pause_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pause_presentation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="people"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="people_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="people_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_camera_mic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_contact_calendar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_data_setting"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_device_information"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_identity"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_media"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_phone_msg"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="perm_scan_wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_add_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_bluetooth_speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_callback"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_enabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_forwarded"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_in_talk"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_iphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_locked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_missed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phone_paused"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink_erase"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink_ring"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="phonelink_setup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_album"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_filter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_size_select_actual"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_size_select_large"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="photo_size_select_small"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="picture_as_pdf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="picture_in_picture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="picture_in_picture_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pie_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pin_drop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="play_arrow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="play_circle_filled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="play_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="play_for_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="playlist_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="playlist_add_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="policy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="poll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="polymer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pool"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="portable_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="post_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="power_input"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="power_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="power_settings_new"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pregnant_woman"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="print"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="print_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="query_builder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="question_answer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="queue_music"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="radio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="radio_button_checked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="radio_button_unchecked"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="recent_actors"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="record_voice_over"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="redeem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="redo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="refresh"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove_from_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove_red_eye"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="remove_shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="reorder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="repeat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="repeat_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="replay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="replay_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="replay_30"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="replay_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="reply"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="reply_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="report"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="report_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="restaurant"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="restaurant_menu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="restore_from_trash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="restore_page"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ring_volume"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="room_service"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rotate_90_degrees_ccw"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rotate_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rotate_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rounded_corner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="router"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rowing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rv_hookup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="satellite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="save"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="save_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="scanner"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="scatter_plot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="schedule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="score"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="screen_lock_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="screen_lock_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="screen_lock_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="screen_rotation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sd_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sd_storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="security"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_satisfied_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_very_dissatisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_very_satisfied"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_applications"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_backup_restore"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_bluetooth"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_brightness"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_ethernet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_input_antenna"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_input_component"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_input_composite"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_input_hdmi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_input_svideo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_overscan"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_power"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_remote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_system_daydream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="settings_voice"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shopping_basket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shopping_cart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="short_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="show_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shuffle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shutter_speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_connected_no_internet_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_null"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_cellular_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_wifi_4_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_wifi_4_bar_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="signal_wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sim_card"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="single_bed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="skip_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="skip_previous"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="slideshow"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="smartphone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="smoke_free"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="smoking_rooms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sort"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="spa"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="space_bar"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speaker"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speaker_group"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speaker_notes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speaker_notes_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speaker_phone"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="speed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="spellcheck"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_baseball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_basketball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_cricket"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_esports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_football"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_golf"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_handball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_hockey"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_kabaddi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_mma"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_motorsports"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_rugby"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_soccer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_tennis"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sports_volleyball"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="star"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="star_border"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="star_half"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stars"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stay_current_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stay_current_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stay_primary_landscape"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stay_primary_portrait"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stop_screen_share"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="storage"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="store"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="store_mall_directory"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="storefront"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="straighten"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="streetview"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="style"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subdirectory_arrow_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subdirectory_arrow_right"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subscriptions"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="supervised_user_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="surround_sound"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="swap_calls"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="swap_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="swap_horizontal_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="swap_vert"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="swap_vertical_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="switch_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sync"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sync_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sync_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sync_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="system_update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="system_update_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tab"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tab_unselected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tablet"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tablet_android"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tablet_mac"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tag_faces"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tap_and_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="terrain"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_fields"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_format"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotate_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotate_vertical"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_angledown"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_angleup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="textsms"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="texture"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="theaters"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="thumb_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="thumb_down_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="thumb_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="thumb_up_alt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="thumbs_up_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="time_to_leave"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timelapse"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timeline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timer_10"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timer_3"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="timer_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="title"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="toc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="today"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="toggle_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="toggle_on"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="toll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="toys"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="track_changes"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="traffic"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="train"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tram"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="transfer_within_a_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="transform"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="transit_enterexit"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="translate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="trending_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="trending_flat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="trending_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tune"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="turned_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="turned_in_not"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tv"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tv_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="unarchive"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="undo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="unfold_less"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="unfold_more"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="unsubscribe"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="verified_user"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vertical_align_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vertical_align_center"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vertical_align_top"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vertical_split"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vibration"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="video_call"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="video_label"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="videocam"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="videocam_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="videogame_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_agenda"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_array"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_carousel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_column"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_comfy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_compact"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_day"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_headline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_list"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_module"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_stream"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_week"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vignette"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="visibility"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="visibility_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="voice_chat"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="voice_over_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="voicemail"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="volume_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="volume_mute"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="volume_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="volume_up"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vpn_key"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="vpn_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wallpaper"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="watch"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="watch_later"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="waves"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wb_auto"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wb_cloudy"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wb_incandescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wb_iridescent"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wb_sunny"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="web"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="web_asset"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="weekend"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="where_to_vote"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="widgets"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi_lock"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi_tethering"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="work_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="work_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="youtube_searched_for"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="zoom_in"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="zoom_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="zoom_out_map"></u-icon-example>
+    </u-subtab>
+</u-subtabs>

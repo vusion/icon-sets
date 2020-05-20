@@ -3,23 +3,27 @@ const path = require('path');
 
 // https://fonts.google.com/metadata/icons
 const metadata = require('./metadata.json');
+const themes = require('./themes.json');
 
-console.log('Icons count:', metadata.icons.length);
-const FAMILIES = {
-    filled: '',
-    outlined: 'outlined',
-    rounded: 'round',
-    'two-tone': 'twotone',
-    sharp: 'sharp',
-};
+console.info('Icons count:', metadata.icons.length);
 
-fs.writeFileSync(path.resolve(__dirname, '../module.css'), Object.keys(FAMILIES)
-    .map((theme) => metadata.icons
+fs.writeFileSync(path.resolve(__dirname, '../module.css'), Object.keys(themes)
+    .map((theme) => theme === 'two-tone' ? '' : metadata.icons
         .map((icon) => `.root[name="${icon.name}"]${theme === 'filled' ? '' : `[theme="${theme}"]`}::before {
     icon-font: url('./assets/${theme}/${icon.name}.svg');
 }
 `).join('\n')).join('\n'));
 
-fs.writeFileSync(path.resolve(__dirname, '../docs/examples.md'), `## 图标集合
+fs.writeFileSync(path.resolve(__dirname, '../docs/examples.md'), `
+<p></p>
 
-` + metadata.icons.map((icon) => `<u-icon-example icon="i-material-design" name="${icon.name}"></u-icon-example>`).join('\n'));
+<u-subtabs>
+` + Object.keys(themes)
+    .map((theme) => theme === 'two-tone' ? '' : `    <u-subtab title="${theme}">
+` + metadata.icons.map((icon) => `        <u-icon-example icon="i-material-design" theme="${theme}" name="${icon.name}"></u-icon-example>
+`).join('')
+ + `    </u-subtab>
+`).join('')
+ + `</u-subtabs>
+`);
+

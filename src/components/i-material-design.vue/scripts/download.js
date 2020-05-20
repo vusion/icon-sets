@@ -3,29 +3,23 @@ const download = require('download');
 
 // https://fonts.google.com/metadata/icons
 const metadata = require('./metadata.json');
+const themes = require('./themes.json');
 
-console.log('Icons count:', metadata.icons.length);
-const FAMILIES = {
-    filled: '',
-    outlined: 'outlined',
-    rounded: 'round',
-    'two-tone': 'twotone',
-    sharp: 'sharp',
-};
+console.info('Icons count:', metadata.icons.length);
 
 (async () => {
-    for (const family of Object.keys(FAMILIES)) {
+    for (const theme of Object.keys(themes)) {
         for (const icon of metadata.icons) {
             // https://fonts.gstatic.com/s/i/materialicons/3d_rotation/v9/24px.svg?download=true
-            // "/s/i/{family}/{icon}/v{version}/{asset}
+            // "/s/i/{theme}/{icon}/v{version}/{asset}
             try {
                 // eslint-disable-next-line no-await-in-loop
-                const result = await download(`https://fonts.gstatic.com/s/i/materialicons${FAMILIES[family]}/${icon.name}/v${icon.version}/24px.svg`, path.resolve(__dirname, `../assets/${family}`), {
+                const result = await download(`https://fonts.gstatic.com/s/i/materialicons${themes[theme]}/${icon.name}/v${icon.version}/24px.svg`, path.resolve(__dirname, `../assets/${theme}`), {
                     filename: icon.name + '.svg',
                 });
-                console.info('[done]', family + '/' + icon.name);
+                console.info('[done]', theme + '/' + icon.name);
             } catch (e) {
-                console.error('[error]', family + '/' + icon.name, e);
+                console.error('[error]', theme + '/' + icon.name, e);
             }
         }
     }
