@@ -1,6 +1,6 @@
 - name: i-material-design
   title: 图标
-  description: 对原生的 Material Design 图标做了封装。
+  description: 所有图标设计源自 [Material Design Icons](https://material.io/resources/icons/)。为了减少在 CSS 里使用`icon-font`属性进行尺寸和位置调整，本组件中的所有图标资源在原始图标的基础上进行了适当变更。
   attrs:
     - name: name
       type: string

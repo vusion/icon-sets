@@ -2,7 +2,7 @@
   "name": "i-material-design.vue",
   "description": "Vusion Icon Set - MaterialDesign",
   "version": "3.0.2",
-  "author": "Material Design Authors",
+  "author": "Material Design Icons",
   "main": "./index.js",
   "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
     "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
     "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
     "screenshot": "vusion screenshot public/index.html --code-example --package",
-    "prepublishOnly": "npm run build:doc && npm run screenshot && git add ."
+    "prepublishOnly": "npm run build:doc && npm run screenshot && git add .",
+    "release": "vusion publish"
   },
   "vuePlugins": {
     "resolveFrom": "../../../"
@@ -38,6 +39,7 @@
       "https://unpkg.com/i-material-design.vue@3.0.2/screenshots/0.png"
     ]
   },
+  "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {
     "@vue/cli-service": ">=3.10.0",

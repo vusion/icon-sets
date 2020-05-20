@@ -28,8 +28,9 @@
 
 
 ``` html
-<u-linear-layout>
+<u-linear-layout gap="small">
     <u-button color="primary"><i-material-design name="cloud_download"></i-material-design> 下载</u-button>
+    <u-button color="primary"><i-material-design name="cloud_upload"></i-material-design> 上传</u-button>
     <u-button color="primary"><i-material-design name="add"></i-material-design> 创建</u-button>
     <u-button color="primary"><i-material-design name="add_circle"></i-material-design> 创建</u-button>
     <u-button color="primary"><i-material-design name="remove"></i-material-design> 删除</u-button>
@@ -41,6 +42,8 @@
     <u-button color="primary"><i-material-design name="redo"></i-material-design> 恢复</u-button>
     <u-button color="primary"><i-material-design name="star"></i-material-design> 收藏</u-button>
     <u-button color="primary"><i-material-design name="thumb_up_alt"></i-material-design> 点赞</u-button>
+    <u-link><i-material-design name="new_releases"></i-material-design> 新发布</u-link>
+    <u-link><i-material-design name="notifications"></i-material-design> 通知</u-link>
     <u-link><i-material-design name="delete"></i-material-design> 删除</u-link>
     <u-link><i-material-design name="remove"></i-material-design> 删除</u-link>
     <u-link><i-material-design name="add"></i-material-design> 添加</u-link>
@@ -50,5 +53,10 @@
     <u-link><i-material-design name="redo"></i-material-design> 恢复</u-link>
     <u-link><i-material-design name="star"></i-material-design> 收藏</u-link>
     <u-link><i-material-design name="thumb_up_alt"></i-material-design> 点赞</u-link>
+    <u-link><i-material-design name="share"></i-material-design> 分享</u-link>
+    <u-link><i-material-design name="help"></i-material-design> 帮助</u-link>
+    <u-link><i-material-design name="info"></i-material-design> 信息</u-link>
+    <u-link><i-material-design name="looks_6"></i-material-design> Looks</u-link>
+    <u-link><i-material-design name="play_circle_filled"></i-material-design> 预览</u-link>
 </u-linear-layout>
 ```
