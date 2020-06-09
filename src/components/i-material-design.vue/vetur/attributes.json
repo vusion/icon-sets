@@ -1,0 +1,10 @@
+{
+  "i-material-design/name": {
+    "type": "string",
+    "description": "使用的图标名"
+  },
+  "i-material-design/theme": {
+    "type": "string",
+    "description": "使用的图标主题"
+  }
+}

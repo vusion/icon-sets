@@ -1,7 +1,7 @@
 {
   "name": "i-material-design.vue",
   "description": "Vusion Icon Set - MaterialDesign",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "author": "Material Design Icons",
   "main": "./index.js",
   "repository": {
@@ -9,7 +9,7 @@
     "url": "https://github.com/vusion/icon-sets.git",
     "directory": "src/components/i-material-design.vue"
   },
-  "homepage": "https://static-vusion.163yun.com/packages/i-material-design.vue@5.0.0/index.html",
+  "homepage": "https://static-vusion.163yun.com/packages/i-material-design.vue@5.1.0/index.html",
   "bugs": "http://github.com/vusion/icon-sets/issues",
   "license": "MIT",
   "keywords": [
@@ -38,7 +38,7 @@
     "access": "public",
     "category": "icon",
     "screenshots": [
-      "https://unpkg.com/i-material-design.vue@5.0.0/screenshots/0.png"
+      "https://static-vusion.163yun.com/packages/i-material-design.vue@5.1.0/screenshots/0.png"
     ]
   },
   "dependencies": {},
