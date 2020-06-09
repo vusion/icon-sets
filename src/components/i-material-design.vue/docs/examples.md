@@ -1,11 +1,12 @@
 
 <p></p>
 
-<u-subtabs>
-    <u-subtab title="filled">
+<u-tabs appear="round" size="small">
+    <u-tab title="filled">
         <u-icon-example icon="i-material-design" theme="filled" name="360"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="3d_rotation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="5g"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="ac_unit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="access_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="access_alarms"></u-icon-example>
@@ -19,23 +20,30 @@
         <u-icon-example icon="i-material-design" theme="filled" name="account_box"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="account_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="ad_units"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="adb"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_a_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_comment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_ic_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_location_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="add_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_to_home_screen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_to_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="addchart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="admin_panel_settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="agriculture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_flat_angled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="airline_seat_individual_suite"></u-icon-example>
@@ -56,15 +64,24 @@
         <u-icon-example icon="i-material-design" theme="filled" name="all_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="all_inclusive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="alt_route"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="alternate_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="analytics"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="anchor"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="announcement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="api"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="app_blocking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="app_settings_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="architecture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="archive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_back"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_circle_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="arrow_circle_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_downward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_drop_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_drop_down_circle"></u-icon-example>
@@ -76,6 +93,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_right_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="arrow_upward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="article"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="aspect_ratio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="assessment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="assignment"></u-icon-example>
@@ -87,16 +105,22 @@
         <u-icon-example icon="i-material-design" theme="filled" name="assistant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="assistant_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="attach_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="attach_file"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="attach_money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="attachment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="auto_delete"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="autorenew"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="baby_changing_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="backpack"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="backspace"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="backup_table"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="ballot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="batch_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bathtub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="battery_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="battery_charging_full"></u-icon-example>
@@ -104,7 +128,10 @@
         <u-icon-example icon="i-material-design" theme="filled" name="battery_std"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="battery_unknown"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bedtime"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="bike_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="biotech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="block"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bluetooth"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bluetooth_audio"></u-icon-example>
@@ -143,15 +170,18 @@
         <u-icon-example icon="i-material-design" theme="filled" name="brightness_low"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="brightness_medium"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="browser_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="brush"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bubble_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="bug_report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="build_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="burst_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="business_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cached"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="calculate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="calendar_today"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="calendar_view_day"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="call"></u-icon-example>
@@ -169,6 +199,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="camera_front"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="camera_rear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="campaign"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cancel"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cancel_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cancel_schedule_send"></u-icon-example>
@@ -178,10 +209,12 @@
         <u-icon-example icon="i-material-design" theme="filled" name="casino"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cast_for_education"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="category"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="center_focus_strong"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="center_focus_weak"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="charging_station"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chat_bubble"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chat_bubble_outline"></u-icon-example>
@@ -190,15 +223,18 @@
         <u-icon-example icon="i-material-design" theme="filled" name="check_box_outline_blank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="check_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="checkroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chevron_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chevron_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="child_care"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="child_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="chrome_reader_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="cleaning_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="clear_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="close_fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="closed_caption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cloud"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="cloud_circle"></u-icon-example>
@@ -213,12 +249,14 @@
         <u-icon-example icon="i-material-design" theme="filled" name="color_lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="colorize"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="comment_bank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="commute"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="compare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="compare_arrows"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="compass_calibration"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="computer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="construction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="contact_mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="contact_phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="contact_support"></u-icon-example>
@@ -228,6 +266,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="control_point"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="control_point_duplicate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="corporate_fare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="create"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="create_new_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="credit_card"></u-icon-example>
@@ -254,6 +293,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="delete_sweep"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="departure_board"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="design_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="desktop_access_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="desktop_mac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="desktop_windows"></u-icon-example>
@@ -271,6 +311,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="directions_boat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="directions_bus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="directions_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="directions_railway"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="directions_run"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="directions_subway"></u-icon-example>
@@ -278,9 +319,12 @@
         <u-icon-example icon="i-material-design" theme="filled" name="directions_walk"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="disc_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="do_not_step"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="do_not_touch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="dock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="domain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="domain_verification"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="done"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="done_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="done_outline"></u-icon-example>
@@ -291,14 +335,23 @@
         <u-icon-example icon="i-material-design" theme="filled" name="drag_handle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="drag_indicator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dry"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="duo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="dvr"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="dynamic_form"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="eco"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="edit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="edit_attributes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="edit_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="electric_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="electric_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="electric_moped"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="electric_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="electrical_services"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="elevator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="emoji_emotions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="emoji_events"></u-icon-example>
@@ -309,10 +362,13 @@
         <u-icon-example icon="i-material-design" theme="filled" name="emoji_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="emoji_symbols"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="engineering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="enhanced_encryption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="equalizer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="error"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="escalator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="escalator_warning"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="euro"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="euro_symbol"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="ev_station"></u-icon-example>
@@ -335,6 +391,8 @@
         <u-icon-example icon="i-material-design" theme="filled" name="exposure_zero"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="extension"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="fact_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="family_restroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fast_forward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fast_rewind"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fastfood"></u-icon-example>
@@ -360,6 +418,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="filter_8"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="filter_9"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="filter_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="filter_b_and_w"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="filter_center_focus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="filter_drama"></u-icon-example>
@@ -376,6 +435,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="first_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fitness_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="flaky"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="flare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="flash_auto"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="flash_off"></u-icon-example>
@@ -420,6 +480,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="forward_10"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="forward_30"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="forward_to_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="free_breakfast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="fullscreen_exit"></u-icon-example>
@@ -437,6 +498,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="gps_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="grade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="grading"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="grain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="graphic_eq"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="grid_off"></u-icon-example>
@@ -444,6 +506,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="group"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="group_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="handyman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hd"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hdr_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hdr_on"></u-icon-example>
@@ -453,27 +516,39 @@
         <u-icon-example icon="i-material-design" theme="filled" name="headset_mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="healing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hearing_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="height"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="help_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="help_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="high_quality"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="highlight_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="highlight_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="history_edu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="history_toggle_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="home_repair_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="horizontal_rule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="horizontal_split"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hot_tub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hourglass_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hourglass_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hourglass_empty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hourglass_top"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="house"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="how_to_reg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="how_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="http"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="hvac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="image"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="image_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="image_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="import_contacts"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="import_export"></u-icon-example>
@@ -490,6 +565,8 @@
         <u-icon-example icon="i-material-design" theme="filled" name="insert_invitation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="insert_link"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="insights"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="integration_instructions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="invert_colors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="invert_colors_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="iso"></u-icon-example>
@@ -521,6 +598,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="layers_clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="leak_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="legend_toggle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="library_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="library_add_check"></u-icon-example>
@@ -572,6 +650,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="location_searching"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="login"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="looks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="looks_3"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="looks_4"></u-icon-example>
@@ -586,9 +665,16 @@
         <u-icon-example icon="i-material-design" theme="filled" name="mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mail_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="maps_ugc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mark_chat_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mark_chat_unread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mark_email_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mark_email_unread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="markunread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="markunread_mailbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="mediation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="medical_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="meeting_room"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="memory"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="menu"></u-icon-example>
@@ -599,21 +685,26 @@
         <u-icon-example icon="i-material-design" theme="filled" name="mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mic_none"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="military_tech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="miscellaneous_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="missed_video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mobile_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mobile_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mobile_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="model_training"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="monetization_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="money_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="monochrome_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mood"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="moped"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="more_time"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="more_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="mouse"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="move_to_inbox"></u-icon-example>
@@ -621,11 +712,13 @@
         <u-icon-example icon="i-material-design" theme="filled" name="movie_creation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="movie_filter"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="multiple_stop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="museum"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="music_note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="music_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="music_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="nat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="nature"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="nature_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="navigate_before"></u-icon-example>
@@ -635,14 +728,23 @@
         <u-icon-example icon="i-material-design" theme="filled" name="network_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="network_locked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="next_plan"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="next_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="nfc"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_drinks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_flash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_food"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_photography"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="no_stroller"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="not_accessible"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="not_interested"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="not_started"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="note_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="notes"></u-icon-example>
@@ -655,11 +757,14 @@
         <u-icon-example icon="i-material-design" theme="filled" name="offline_bolt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="offline_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="online_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="opacity"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="open_in_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="open_in_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="open_with"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="outlet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="outlined_flag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pages"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pageview"></u-icon-example>
@@ -676,6 +781,10 @@
         <u-icon-example icon="i-material-design" theme="filled" name="pause_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pause_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="payments"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pedal_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pending"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pending_actions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="people_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="people_outline"></u-icon-example>
@@ -689,11 +798,17 @@
         <u-icon-example icon="i-material-design" theme="filled" name="perm_scan_wifi"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_add_alt_1"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person_add_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_remove_alt_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="person_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pest_control"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="pest_control_rodent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="phone_android"></u-icon-example>
@@ -727,6 +842,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="pie_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pin_drop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="plagiarism"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="play_arrow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="play_circle_filled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="play_circle_outline"></u-icon-example>
@@ -734,7 +850,9 @@
         <u-icon-example icon="i-material-design" theme="filled" name="playlist_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="playlist_add_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="plumbing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="point_of_sale"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="policy"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="poll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="polymer"></u-icon-example>
@@ -748,21 +866,30 @@
         <u-icon-example icon="i-material-design" theme="filled" name="power_settings_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="pregnant_woman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="preview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="print"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="print_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="privacy_tip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="psychology"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="public_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="push_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="qr_code"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="query_builder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="question_answer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="queue"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="queue_music"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="quickreply"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="radio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="radio_button_checked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="radio_button_unchecked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="read_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="receipt_long"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="recent_actors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="record_voice_over"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="redeem"></u-icon-example>
@@ -786,6 +913,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="report_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="request_quote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="restaurant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="restaurant_menu"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="restore"></u-icon-example>
@@ -793,6 +921,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="restore_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="ring_volume"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="room_preferences"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="room_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rotate_90_degrees_ccw"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rotate_left"></u-icon-example>
@@ -801,6 +930,9 @@
         <u-icon-example icon="i-material-design" theme="filled" name="router"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rowing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="rule_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="run_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="rv_hookup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="satellite"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="save"></u-icon-example>
@@ -809,6 +941,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="scatter_plot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="schedule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="science"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="score"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="screen_lock_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="screen_lock_portrait"></u-icon-example>
@@ -818,9 +951,13 @@
         <u-icon-example icon="i-material-design" theme="filled" name="sd_card"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sd_storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="search_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="security"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="self_improvement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sensor_door"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="sensor_window"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sentiment_dissatisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sentiment_satisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sentiment_satisfied_alt"></u-icon-example>
@@ -847,6 +984,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="shop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="shopping_bag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="shopping_basket"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="short_text"></u-icon-example>
@@ -868,14 +1006,18 @@
         <u-icon-example icon="i-material-design" theme="filled" name="skip_previous"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="slideshow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="smart_button"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="smartphone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="smoke_free"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="smoking_rooms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="snippet_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="soap"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sort"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="source"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="spa"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="space_bar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="speaker"></u-icon-example>
@@ -902,16 +1044,19 @@
         <u-icon-example icon="i-material-design" theme="filled" name="sports_tennis"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sports_volleyball"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stairs"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="star"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="star_border"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="star_half"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="star_rate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stars"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stay_current_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stay_current_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stay_primary_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stay_primary_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stop_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="stop_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="store"></u-icon-example>
@@ -920,15 +1065,21 @@
         <u-icon-example icon="i-material-design" theme="filled" name="straighten"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="streetview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="stroller"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="style"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subdirectory_arrow_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subdirectory_arrow_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subscriptions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="subtitles_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="superscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="supervised_user_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="support_agent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="surround_sound"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="swap_calls"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="swap_horiz"></u-icon-example>
@@ -936,6 +1087,8 @@
         <u-icon-example icon="i-material-design" theme="filled" name="swap_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="swap_vertical_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="switch_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="switch_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="switch_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sync"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="sync_alt"></u-icon-example>
@@ -946,6 +1099,8 @@
         <u-icon-example icon="i-material-design" theme="filled" name="tab"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tab_unselected"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="table_rows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="table_view"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tablet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tablet_android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tablet_mac"></u-icon-example>
@@ -960,6 +1115,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_angleup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="text_snippet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="textsms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="texture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="theaters"></u-icon-example>
@@ -982,7 +1138,9 @@
         <u-icon-example icon="i-material-design" theme="filled" name="toggle_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="toll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="topic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tour"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="toys"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="track_changes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="traffic"></u-icon-example>
@@ -996,19 +1154,23 @@
         <u-icon-example icon="i-material-design" theme="filled" name="trending_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="trending_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="tty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tune"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="turned_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="turned_in_not"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tv"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="tv_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="umbrella"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="unarchive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="undo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="unfold_less"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="unfold_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="unsubscribe"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="upgrade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="verified"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="verified_user"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="vertical_align_bottom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="vertical_align_center"></u-icon-example>
@@ -1018,6 +1180,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="video_label"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="video_settings"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="videocam"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="videocam_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="videogame_asset"></u-icon-example>
@@ -1032,6 +1195,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="view_list"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="view_module"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="view_sidebar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="view_stream"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="view_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="vignette"></u-icon-example>
@@ -1048,6 +1212,7 @@
         <u-icon-example icon="i-material-design" theme="filled" name="vpn_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wallpaper"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wash"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="watch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="watch_later"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="waves"></u-icon-example>
@@ -1061,25 +1226,31 @@
         <u-icon-example icon="i-material-design" theme="filled" name="web_asset"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="weekend"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wheelchair_pickup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="where_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="widgets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi_calling"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wifi_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wifi_protected_setup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wifi_tethering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="work"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="work_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="work_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wrong_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="filled" name="wysiwyg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="youtube_searched_for"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="zoom_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="zoom_out"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="filled" name="zoom_out_map"></u-icon-example>
-    </u-subtab>
-    <u-subtab title="outlined">
+    </u-tab>
+    <u-tab title="outlined">
         <u-icon-example icon="i-material-design" theme="outlined" name="360"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="3d_rotation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="5g"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="ac_unit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="access_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="access_alarms"></u-icon-example>
@@ -1093,23 +1264,30 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="account_box"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="account_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="ad_units"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="adb"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_a_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_comment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_ic_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_location_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="add_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_to_home_screen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_to_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="addchart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="admin_panel_settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="agriculture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_flat_angled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="airline_seat_individual_suite"></u-icon-example>
@@ -1130,15 +1308,24 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="all_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="all_inclusive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="alt_route"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="alternate_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="analytics"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="anchor"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="announcement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="api"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="app_blocking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="app_settings_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="architecture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="archive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_back"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_circle_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="arrow_circle_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_downward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_drop_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_drop_down_circle"></u-icon-example>
@@ -1150,6 +1337,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_right_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="arrow_upward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="article"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="aspect_ratio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="assessment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="assignment"></u-icon-example>
@@ -1161,16 +1349,22 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="assistant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="assistant_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="attach_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="attach_file"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="attach_money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="attachment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="auto_delete"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="autorenew"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="baby_changing_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="backpack"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="backspace"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="backup_table"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="ballot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="batch_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bathtub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="battery_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="battery_charging_full"></u-icon-example>
@@ -1178,7 +1372,10 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="battery_std"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="battery_unknown"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bedtime"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="bike_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="biotech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="block"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bluetooth_audio"></u-icon-example>
@@ -1217,15 +1414,18 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="brightness_low"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="brightness_medium"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="browser_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="brush"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bubble_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="bug_report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="build_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="burst_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="business_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cached"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="calculate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="calendar_today"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="calendar_view_day"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="call"></u-icon-example>
@@ -1243,6 +1443,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="camera_front"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="camera_rear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="campaign"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cancel"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cancel_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cancel_schedule_send"></u-icon-example>
@@ -1252,10 +1453,12 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="casino"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cast_for_education"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="category"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="center_focus_strong"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="center_focus_weak"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="charging_station"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chat_bubble"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chat_bubble_outline"></u-icon-example>
@@ -1264,15 +1467,18 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="check_box_outline_blank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="check_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="checkroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chevron_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chevron_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="child_care"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="child_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="chrome_reader_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="cleaning_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="clear_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="close_fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="closed_caption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cloud"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="cloud_circle"></u-icon-example>
@@ -1287,12 +1493,14 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="color_lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="colorize"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="comment_bank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="commute"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="compare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="compare_arrows"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="compass_calibration"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="computer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="construction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="contact_mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="contact_phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="contact_support"></u-icon-example>
@@ -1302,6 +1510,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="control_point"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="control_point_duplicate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="corporate_fare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="create"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="create_new_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="credit_card"></u-icon-example>
@@ -1328,6 +1537,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="delete_sweep"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="departure_board"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="design_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="desktop_access_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="desktop_mac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="desktop_windows"></u-icon-example>
@@ -1345,6 +1555,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_boat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_bus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="directions_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_railway"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_run"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_subway"></u-icon-example>
@@ -1352,9 +1563,12 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="directions_walk"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="disc_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="do_not_step"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="do_not_touch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="dock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="domain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="domain_verification"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="done"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="done_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="done_outline"></u-icon-example>
@@ -1365,14 +1579,23 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="drag_handle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="drag_indicator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dry"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="duo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="dvr"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="dynamic_form"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="eco"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="edit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="edit_attributes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="edit_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="electric_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="electric_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="electric_moped"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="electric_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="electrical_services"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="elevator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="emoji_emotions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="emoji_events"></u-icon-example>
@@ -1383,10 +1606,13 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="emoji_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="emoji_symbols"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="engineering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="enhanced_encryption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="equalizer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="error"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="escalator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="escalator_warning"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="euro"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="euro_symbol"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="ev_station"></u-icon-example>
@@ -1409,6 +1635,8 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="exposure_zero"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="extension"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="fact_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="family_restroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fast_forward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fast_rewind"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fastfood"></u-icon-example>
@@ -1434,6 +1662,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_8"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_9"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="filter_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_b_and_w"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_center_focus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="filter_drama"></u-icon-example>
@@ -1450,6 +1679,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="first_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fitness_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="flaky"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="flare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="flash_auto"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="flash_off"></u-icon-example>
@@ -1494,6 +1724,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="forward_10"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="forward_30"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="forward_to_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="free_breakfast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="fullscreen_exit"></u-icon-example>
@@ -1511,6 +1742,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="gps_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="grade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="grading"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="grain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="graphic_eq"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="grid_off"></u-icon-example>
@@ -1518,6 +1750,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="group"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="group_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="handyman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hd"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hdr_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hdr_on"></u-icon-example>
@@ -1527,27 +1760,39 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="headset_mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="healing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hearing_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="height"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="help_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="help_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="high_quality"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="highlight_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="highlight_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="history_edu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="history_toggle_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="home_repair_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="horizontal_rule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="horizontal_split"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hot_tub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_empty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hourglass_top"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="house"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="how_to_reg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="how_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="http"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="hvac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="image"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="image_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="image_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="import_contacts"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="import_export"></u-icon-example>
@@ -1564,6 +1809,8 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="insert_invitation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="insert_link"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="insights"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="integration_instructions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="invert_colors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="invert_colors_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="iso"></u-icon-example>
@@ -1595,6 +1842,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="layers_clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="leak_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="legend_toggle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="library_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="library_add_check"></u-icon-example>
@@ -1646,6 +1894,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="location_searching"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="login"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="looks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="looks_3"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="looks_4"></u-icon-example>
@@ -1660,9 +1909,16 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mail_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="maps_ugc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mark_chat_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mark_chat_unread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mark_email_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mark_email_unread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="markunread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="markunread_mailbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="mediation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="medical_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="meeting_room"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="memory"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="menu"></u-icon-example>
@@ -1673,21 +1929,26 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mic_none"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="military_tech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="miscellaneous_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="missed_video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mobile_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mobile_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mobile_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="model_training"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="monetization_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="money_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="monochrome_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mood"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="moped"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="more_time"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="more_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="mouse"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="move_to_inbox"></u-icon-example>
@@ -1695,11 +1956,13 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="movie_creation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="movie_filter"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="multiple_stop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="museum"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="music_note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="music_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="music_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="nat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="nature"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="nature_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="navigate_before"></u-icon-example>
@@ -1709,14 +1972,23 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="network_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="network_locked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="next_plan"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="next_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="nfc"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_drinks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_flash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_food"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_photography"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="no_stroller"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="not_accessible"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="not_interested"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="not_started"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="note_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="notes"></u-icon-example>
@@ -1729,11 +2001,14 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="offline_bolt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="offline_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="online_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="opacity"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="open_in_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="open_in_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="open_with"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="outlet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="outlined_flag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pages"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pageview"></u-icon-example>
@@ -1750,6 +2025,10 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="pause_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pause_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="payments"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pedal_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pending"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pending_actions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="people_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="people_outline"></u-icon-example>
@@ -1763,11 +2042,17 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="perm_scan_wifi"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_add_alt_1"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person_add_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_remove_alt_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="person_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pest_control"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="pest_control_rodent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="phone_android"></u-icon-example>
@@ -1801,6 +2086,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="pie_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pin_drop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="plagiarism"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="play_arrow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="play_circle_filled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="play_circle_outline"></u-icon-example>
@@ -1808,7 +2094,9 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="playlist_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="playlist_add_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="plumbing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="point_of_sale"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="policy"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="poll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="polymer"></u-icon-example>
@@ -1822,21 +2110,30 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="power_settings_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="pregnant_woman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="preview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="print"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="print_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="privacy_tip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="psychology"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="public_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="push_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="qr_code"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="query_builder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="question_answer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="queue"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="queue_music"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="quickreply"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="radio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="radio_button_checked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="radio_button_unchecked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="read_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="receipt_long"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="recent_actors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="record_voice_over"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="redeem"></u-icon-example>
@@ -1860,6 +2157,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="report_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="request_quote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="restaurant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="restaurant_menu"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="restore"></u-icon-example>
@@ -1867,6 +2165,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="restore_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="ring_volume"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="room_preferences"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="room_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rotate_90_degrees_ccw"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rotate_left"></u-icon-example>
@@ -1875,6 +2174,9 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="router"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rowing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="rule_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="run_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="rv_hookup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="satellite"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="save"></u-icon-example>
@@ -1883,6 +2185,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="scatter_plot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="schedule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="science"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="score"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="screen_lock_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="screen_lock_portrait"></u-icon-example>
@@ -1892,9 +2195,13 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="sd_card"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sd_storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="search_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="security"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="self_improvement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sensor_door"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="sensor_window"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_dissatisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_satisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sentiment_satisfied_alt"></u-icon-example>
@@ -1921,6 +2228,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="shop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="shopping_bag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="shopping_basket"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="short_text"></u-icon-example>
@@ -1942,14 +2250,18 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="skip_previous"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="slideshow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="smart_button"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="smartphone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="smoke_free"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="smoking_rooms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="snippet_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="soap"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sort"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="source"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="spa"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="space_bar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="speaker"></u-icon-example>
@@ -1976,16 +2288,19 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="sports_tennis"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sports_volleyball"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stairs"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="star"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="star_border"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="star_half"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="star_rate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stars"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stay_current_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stay_current_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stay_primary_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stay_primary_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stop_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="stop_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="store"></u-icon-example>
@@ -1994,15 +2309,21 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="straighten"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="streetview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="stroller"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="style"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subdirectory_arrow_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subdirectory_arrow_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subscriptions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="subtitles_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="superscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="supervised_user_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="support_agent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="surround_sound"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="swap_calls"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="swap_horiz"></u-icon-example>
@@ -2010,6 +2331,8 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="swap_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="swap_vertical_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="switch_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="switch_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="switch_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sync"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="sync_alt"></u-icon-example>
@@ -2020,6 +2343,8 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="tab"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tab_unselected"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="table_rows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="table_view"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tablet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tablet_android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tablet_mac"></u-icon-example>
@@ -2034,6 +2359,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_angleup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="text_snippet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="textsms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="texture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="theaters"></u-icon-example>
@@ -2056,7 +2382,9 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="toggle_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="toll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="topic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tour"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="toys"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="track_changes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="traffic"></u-icon-example>
@@ -2070,19 +2398,23 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="trending_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="trending_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="tty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tune"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="turned_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="turned_in_not"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tv"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="tv_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="umbrella"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="unarchive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="undo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="unfold_less"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="unfold_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="unsubscribe"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="upgrade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="verified"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="verified_user"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="vertical_align_bottom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="vertical_align_center"></u-icon-example>
@@ -2092,6 +2424,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="video_label"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="video_settings"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="videocam"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="videocam_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="videogame_asset"></u-icon-example>
@@ -2106,6 +2439,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="view_list"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="view_module"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="view_sidebar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="view_stream"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="view_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="vignette"></u-icon-example>
@@ -2122,6 +2456,7 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="vpn_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wallpaper"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wash"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="watch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="watch_later"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="waves"></u-icon-example>
@@ -2135,25 +2470,31 @@
         <u-icon-example icon="i-material-design" theme="outlined" name="web_asset"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="weekend"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wheelchair_pickup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="where_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="widgets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi_calling"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wifi_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wifi_protected_setup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wifi_tethering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="work"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="work_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="work_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wrong_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="outlined" name="wysiwyg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="youtube_searched_for"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="zoom_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="zoom_out"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="outlined" name="zoom_out_map"></u-icon-example>
-    </u-subtab>
-    <u-subtab title="rounded">
+    </u-tab>
+    <u-tab title="rounded">
         <u-icon-example icon="i-material-design" theme="rounded" name="360"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="3d_rotation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="5g"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="ac_unit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="access_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="access_alarms"></u-icon-example>
@@ -2167,23 +2508,30 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="account_box"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="account_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="ad_units"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="adb"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_a_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_comment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_ic_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_location_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="add_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_to_home_screen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_to_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="addchart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="admin_panel_settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="agriculture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_flat_angled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="airline_seat_individual_suite"></u-icon-example>
@@ -2204,15 +2552,24 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="all_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="all_inclusive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="alt_route"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="alternate_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="analytics"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="anchor"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="announcement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="api"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="app_blocking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="app_settings_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="architecture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="archive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_back"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_circle_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="arrow_circle_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_downward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_drop_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_drop_down_circle"></u-icon-example>
@@ -2224,6 +2581,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_right_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="arrow_upward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="article"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="aspect_ratio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="assessment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="assignment"></u-icon-example>
@@ -2235,16 +2593,22 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="assistant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="assistant_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="attach_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="attach_file"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="attach_money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="attachment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="auto_delete"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="autorenew"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="baby_changing_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="backpack"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="backspace"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="backup_table"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="ballot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="batch_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bathtub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="battery_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="battery_charging_full"></u-icon-example>
@@ -2252,7 +2616,10 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="battery_std"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="battery_unknown"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bedtime"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="bike_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="biotech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="block"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bluetooth_audio"></u-icon-example>
@@ -2291,15 +2658,18 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="brightness_low"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="brightness_medium"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="browser_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="brush"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bubble_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="bug_report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="build_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="burst_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="business_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cached"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="calculate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="calendar_today"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="calendar_view_day"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="call"></u-icon-example>
@@ -2317,6 +2687,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="camera_front"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="camera_rear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="campaign"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cancel"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cancel_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cancel_schedule_send"></u-icon-example>
@@ -2326,10 +2697,12 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="casino"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cast_for_education"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="category"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="center_focus_strong"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="center_focus_weak"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="charging_station"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chat_bubble"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chat_bubble_outline"></u-icon-example>
@@ -2338,15 +2711,18 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="check_box_outline_blank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="check_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="checkroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chevron_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chevron_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="child_care"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="child_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="chrome_reader_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="cleaning_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="clear_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="close_fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="closed_caption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cloud"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="cloud_circle"></u-icon-example>
@@ -2361,12 +2737,14 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="color_lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="colorize"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="comment_bank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="commute"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="compare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="compare_arrows"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="compass_calibration"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="computer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="construction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="contact_mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="contact_phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="contact_support"></u-icon-example>
@@ -2376,6 +2754,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="control_point"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="control_point_duplicate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="corporate_fare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="create"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="create_new_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="credit_card"></u-icon-example>
@@ -2402,6 +2781,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="delete_sweep"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="departure_board"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="design_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="desktop_access_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="desktop_mac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="desktop_windows"></u-icon-example>
@@ -2419,6 +2799,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_boat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_bus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="directions_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_railway"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_run"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_subway"></u-icon-example>
@@ -2426,9 +2807,12 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="directions_walk"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="disc_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="do_not_step"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="do_not_touch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="dock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="domain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="domain_verification"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="done"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="done_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="done_outline"></u-icon-example>
@@ -2439,14 +2823,23 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="drag_handle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="drag_indicator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dry"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="duo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="dvr"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="dynamic_form"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="eco"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="edit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="edit_attributes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="edit_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="electric_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="electric_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="electric_moped"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="electric_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="electrical_services"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="elevator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="emoji_emotions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="emoji_events"></u-icon-example>
@@ -2457,10 +2850,13 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="emoji_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="emoji_symbols"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="engineering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="enhanced_encryption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="equalizer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="error"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="escalator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="escalator_warning"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="euro"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="euro_symbol"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="ev_station"></u-icon-example>
@@ -2483,6 +2879,8 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="exposure_zero"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="extension"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="fact_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="family_restroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fast_forward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fast_rewind"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fastfood"></u-icon-example>
@@ -2508,6 +2906,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_8"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_9"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="filter_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_b_and_w"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_center_focus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="filter_drama"></u-icon-example>
@@ -2524,6 +2923,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="first_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fitness_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="flaky"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="flare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="flash_auto"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="flash_off"></u-icon-example>
@@ -2568,6 +2968,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="forward_10"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="forward_30"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="forward_to_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="free_breakfast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="fullscreen_exit"></u-icon-example>
@@ -2585,6 +2986,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="gps_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="grade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="grading"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="grain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="graphic_eq"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="grid_off"></u-icon-example>
@@ -2592,6 +2994,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="group"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="group_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="handyman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hd"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hdr_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hdr_on"></u-icon-example>
@@ -2601,27 +3004,39 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="headset_mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="healing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hearing_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="height"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="help_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="help_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="high_quality"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="highlight_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="highlight_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="history_edu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="history_toggle_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="home_repair_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="horizontal_rule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="horizontal_split"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hot_tub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_empty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hourglass_top"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="house"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="how_to_reg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="how_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="http"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="hvac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="image"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="image_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="image_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="import_contacts"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="import_export"></u-icon-example>
@@ -2638,6 +3053,8 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="insert_invitation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="insert_link"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="insights"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="integration_instructions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="invert_colors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="invert_colors_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="iso"></u-icon-example>
@@ -2669,6 +3086,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="layers_clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="leak_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="legend_toggle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="library_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="library_add_check"></u-icon-example>
@@ -2720,6 +3138,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="location_searching"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="login"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="looks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="looks_3"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="looks_4"></u-icon-example>
@@ -2734,9 +3153,16 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mail_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="maps_ugc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mark_chat_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mark_chat_unread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mark_email_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mark_email_unread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="markunread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="markunread_mailbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="mediation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="medical_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="meeting_room"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="memory"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="menu"></u-icon-example>
@@ -2747,21 +3173,26 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mic_none"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="military_tech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="miscellaneous_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="missed_video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mobile_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mobile_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mobile_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="model_training"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="monetization_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="money_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="monochrome_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mood"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="moped"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="more_time"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="more_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="mouse"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="move_to_inbox"></u-icon-example>
@@ -2769,11 +3200,13 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="movie_creation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="movie_filter"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="multiple_stop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="museum"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="music_note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="music_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="music_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="nat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="nature"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="nature_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="navigate_before"></u-icon-example>
@@ -2783,14 +3216,23 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="network_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="network_locked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="next_plan"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="next_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="nfc"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_drinks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_flash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_food"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_photography"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="no_stroller"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="not_accessible"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="not_interested"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="not_started"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="note_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="notes"></u-icon-example>
@@ -2803,11 +3245,14 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="offline_bolt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="offline_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="online_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="opacity"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="open_in_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="open_in_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="open_with"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="outlet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="outlined_flag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pages"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pageview"></u-icon-example>
@@ -2824,6 +3269,10 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="pause_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pause_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="payments"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pedal_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pending"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pending_actions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="people_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="people_outline"></u-icon-example>
@@ -2837,11 +3286,17 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="perm_scan_wifi"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_add_alt_1"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person_add_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_remove_alt_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="person_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pest_control"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="pest_control_rodent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="phone_android"></u-icon-example>
@@ -2875,6 +3330,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="pie_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pin_drop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="plagiarism"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="play_arrow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="play_circle_filled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="play_circle_outline"></u-icon-example>
@@ -2882,7 +3338,9 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="playlist_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="playlist_add_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="plumbing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="point_of_sale"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="policy"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="poll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="polymer"></u-icon-example>
@@ -2896,21 +3354,30 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="power_settings_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="pregnant_woman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="preview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="print"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="print_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="privacy_tip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="psychology"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="public_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="push_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="qr_code"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="query_builder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="question_answer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="queue"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="queue_music"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="quickreply"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="radio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="radio_button_checked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="radio_button_unchecked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="read_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="receipt_long"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="recent_actors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="record_voice_over"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="redeem"></u-icon-example>
@@ -2934,6 +3401,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="report_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="request_quote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="restaurant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="restaurant_menu"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="restore"></u-icon-example>
@@ -2941,6 +3409,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="restore_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="ring_volume"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="room_preferences"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="room_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rotate_90_degrees_ccw"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rotate_left"></u-icon-example>
@@ -2949,6 +3418,9 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="router"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rowing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="rule_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="run_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="rv_hookup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="satellite"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="save"></u-icon-example>
@@ -2957,6 +3429,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="scatter_plot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="schedule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="science"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="score"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="screen_lock_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="screen_lock_portrait"></u-icon-example>
@@ -2966,9 +3439,13 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="sd_card"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sd_storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="search_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="security"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="self_improvement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sensor_door"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="sensor_window"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_dissatisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_satisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sentiment_satisfied_alt"></u-icon-example>
@@ -2995,6 +3472,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="shop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="shopping_bag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="shopping_basket"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="short_text"></u-icon-example>
@@ -3016,14 +3494,18 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="skip_previous"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="slideshow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="smart_button"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="smartphone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="smoke_free"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="smoking_rooms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="snippet_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="soap"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sort"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="source"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="spa"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="space_bar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="speaker"></u-icon-example>
@@ -3050,16 +3532,19 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="sports_tennis"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sports_volleyball"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stairs"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="star"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="star_border"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="star_half"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="star_rate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stars"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stay_current_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stay_current_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stay_primary_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stay_primary_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stop_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="stop_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="store"></u-icon-example>
@@ -3068,15 +3553,21 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="straighten"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="streetview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="stroller"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="style"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subdirectory_arrow_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subdirectory_arrow_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subscriptions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="subtitles_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="superscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="supervised_user_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="support_agent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="surround_sound"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="swap_calls"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="swap_horiz"></u-icon-example>
@@ -3084,6 +3575,8 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="swap_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="swap_vertical_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="switch_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="switch_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="switch_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sync"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="sync_alt"></u-icon-example>
@@ -3094,6 +3587,8 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="tab"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tab_unselected"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="table_rows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="table_view"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tablet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tablet_android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tablet_mac"></u-icon-example>
@@ -3108,6 +3603,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_angleup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="text_snippet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="textsms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="texture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="theaters"></u-icon-example>
@@ -3130,7 +3626,9 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="toggle_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="toll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="topic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tour"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="toys"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="track_changes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="traffic"></u-icon-example>
@@ -3144,19 +3642,23 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="trending_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="trending_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="tty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tune"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="turned_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="turned_in_not"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tv"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="tv_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="umbrella"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="unarchive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="undo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="unfold_less"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="unfold_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="unsubscribe"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="upgrade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="verified"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="verified_user"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="vertical_align_bottom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="vertical_align_center"></u-icon-example>
@@ -3166,6 +3668,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="video_label"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="video_settings"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="videocam"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="videocam_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="videogame_asset"></u-icon-example>
@@ -3180,6 +3683,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="view_list"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="view_module"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="view_sidebar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="view_stream"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="view_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="vignette"></u-icon-example>
@@ -3196,6 +3700,7 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="vpn_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wallpaper"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wash"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="watch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="watch_later"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="waves"></u-icon-example>
@@ -3209,25 +3714,31 @@
         <u-icon-example icon="i-material-design" theme="rounded" name="web_asset"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="weekend"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wheelchair_pickup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="where_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="widgets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi_calling"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wifi_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wifi_protected_setup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wifi_tethering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="work"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="work_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="work_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wrong_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="rounded" name="wysiwyg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="youtube_searched_for"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="zoom_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="zoom_out"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="rounded" name="zoom_out_map"></u-icon-example>
-    </u-subtab>
-    <u-subtab title="sharp">
+    </u-tab>
+    <u-tab title="sharp">
         <u-icon-example icon="i-material-design" theme="sharp" name="360"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="3d_rotation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="4k"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="5g"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="ac_unit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="access_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="access_alarms"></u-icon-example>
@@ -3241,23 +3752,30 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="account_box"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="account_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="account_tree"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="ad_units"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="adb"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_a_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_alarm"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_box"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_comment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_ic_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_location_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_photo_alternate"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="add_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_to_home_screen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_to_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="add_to_queue"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="addchart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="adjust"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="admin_panel_settings"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="agriculture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_flat_angled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="airline_seat_individual_suite"></u-icon-example>
@@ -3278,15 +3796,24 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="all_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="all_inclusive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="all_out"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="alt_route"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="alternate_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="amp_stories"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="analytics"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="anchor"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="announcement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="apartment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="api"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="app_blocking"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="app_settings_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="apps"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="architecture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="archive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_back"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_back_ios"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_circle_down"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="arrow_circle_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_downward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_drop_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_drop_down_circle"></u-icon-example>
@@ -3298,6 +3825,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_right_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="arrow_upward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="art_track"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="article"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="aspect_ratio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="assessment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="assignment"></u-icon-example>
@@ -3309,16 +3837,22 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="assistant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="assistant_photo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="atm"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="attach_email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="attach_file"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="attach_money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="attachment"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="audiotrack"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="auto_delete"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="autorenew"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="av_timer"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="baby_changing_station"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="backpack"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="backspace"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="backup"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="backup_table"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="ballot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bar_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="batch_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bathtub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="battery_alert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="battery_charging_full"></u-icon-example>
@@ -3326,7 +3860,10 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="battery_std"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="battery_unknown"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="beach_access"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bedtime"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="beenhere"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="bike_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="biotech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="block"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bluetooth_audio"></u-icon-example>
@@ -3365,15 +3902,18 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="brightness_low"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="brightness_medium"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="broken_image"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="browser_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="brush"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bubble_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="bug_report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="build"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="build_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="burst_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="business"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="business_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cached"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cake"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="calculate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="calendar_today"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="calendar_view_day"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="call"></u-icon-example>
@@ -3391,6 +3931,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="camera_front"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="camera_rear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="camera_roll"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="campaign"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cancel"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cancel_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cancel_schedule_send"></u-icon-example>
@@ -3400,10 +3941,12 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="casino"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cast_connected"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cast_for_education"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="category"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="center_focus_strong"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="center_focus_weak"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="change_history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="charging_station"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chat_bubble"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chat_bubble_outline"></u-icon-example>
@@ -3412,15 +3955,18 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="check_box_outline_blank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="check_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="check_circle_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="checkroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chevron_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chevron_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="child_care"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="child_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="chrome_reader_mode"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="class"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="cleaning_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="clear_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="close"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="close_fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="closed_caption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cloud"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="cloud_circle"></u-icon-example>
@@ -3435,12 +3981,14 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="color_lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="colorize"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="comment_bank"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="commute"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="compare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="compare_arrows"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="compass_calibration"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="computer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="confirmation_number"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="construction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="contact_mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="contact_phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="contact_support"></u-icon-example>
@@ -3450,6 +3998,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="control_point"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="control_point_duplicate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="copyright"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="corporate_fare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="create"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="create_new_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="credit_card"></u-icon-example>
@@ -3476,6 +4025,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="delete_sweep"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="departure_board"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="description"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="design_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="desktop_access_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="desktop_mac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="desktop_windows"></u-icon-example>
@@ -3493,6 +4043,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_boat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_bus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="directions_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_railway"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_run"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_subway"></u-icon-example>
@@ -3500,9 +4051,12 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="directions_walk"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="disc_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="dns"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="do_not_step"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="do_not_touch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="dock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="domain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="domain_disabled"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="domain_verification"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="done"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="done_all"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="done_outline"></u-icon-example>
@@ -3513,14 +4067,23 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="drag_handle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="drag_indicator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="drive_eta"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dry"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="duo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="dvr"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="dynamic_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="dynamic_form"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="eco"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="edit"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="edit_attributes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="edit_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="edit_road"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="eject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="electric_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="electric_car"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="electric_moped"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="electric_scooter"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="electrical_services"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="elevator"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="email"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="emoji_emotions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="emoji_events"></u-icon-example>
@@ -3531,10 +4094,13 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="emoji_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="emoji_symbols"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="emoji_transportation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="engineering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="enhanced_encryption"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="equalizer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="error"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="error_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="escalator"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="escalator_warning"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="euro"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="euro_symbol"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="ev_station"></u-icon-example>
@@ -3557,6 +4123,8 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="exposure_zero"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="extension"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="face"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="fact_check"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="family_restroom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fast_forward"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fast_rewind"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fastfood"></u-icon-example>
@@ -3582,6 +4150,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_8"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_9"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_9_plus"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="filter_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_b_and_w"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_center_focus"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="filter_drama"></u-icon-example>
@@ -3598,6 +4167,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="first_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fitness_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="flag"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="flaky"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="flare"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="flash_auto"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="flash_off"></u-icon-example>
@@ -3642,6 +4212,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="forward_10"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="forward_30"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="forward_5"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="forward_to_inbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="free_breakfast"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fullscreen"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="fullscreen_exit"></u-icon-example>
@@ -3659,6 +4230,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="gps_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="grade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="gradient"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="grading"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="grain"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="graphic_eq"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="grid_off"></u-icon-example>
@@ -3666,6 +4238,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="group"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="group_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="group_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="handyman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hd"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hdr_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hdr_on"></u-icon-example>
@@ -3675,27 +4248,39 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="headset_mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="healing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hearing"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hearing_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="height"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="help"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="help_center"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="help_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="high_quality"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="highlight"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="highlight_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="highlight_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="history"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="history_edu"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="history_toggle_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="home"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="home_repair_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="home_work"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="horizontal_rule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="horizontal_split"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hot_tub"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hotel"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_bottom"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_empty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_full"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hourglass_top"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="house"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="how_to_reg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="how_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="http"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="https"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="hvac"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="image"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="image_aspect_ratio"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="image_not_supported"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="image_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="import_contacts"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="import_export"></u-icon-example>
@@ -3712,6 +4297,8 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="insert_invitation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="insert_link"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="insert_photo"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="insights"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="integration_instructions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="invert_colors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="invert_colors_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="iso"></u-icon-example>
@@ -3743,6 +4330,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="layers_clear"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="leak_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="leak_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="legend_toggle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="lens"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="library_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="library_add_check"></u-icon-example>
@@ -3794,6 +4382,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="location_searching"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="lock_open"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="login"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="looks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="looks_3"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="looks_4"></u-icon-example>
@@ -3808,9 +4397,16 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="mail"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mail_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="map"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="maps_ugc"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mark_chat_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mark_chat_unread"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mark_email_read"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mark_email_unread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="markunread"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="markunread_mailbox"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="maximize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="mediation"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="medical_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="meeting_room"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="memory"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="menu"></u-icon-example>
@@ -3821,21 +4417,26 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="mic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mic_none"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mic_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="military_tech"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="minimize"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="miscellaneous_services"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="missed_video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mobile_friendly"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mobile_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mobile_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mode_comment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="model_training"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="monetization_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="money"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="money_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="monochrome_photos"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mood"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mood_bad"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="moped"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="more_horiz"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="more_time"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="more_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="mouse"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="move_to_inbox"></u-icon-example>
@@ -3843,11 +4444,13 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="movie_creation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="movie_filter"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="multiline_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="multiple_stop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="museum"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="music_note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="music_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="music_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="my_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="nat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="nature"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="nature_people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="navigate_before"></u-icon-example>
@@ -3857,14 +4460,23 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="network_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="network_locked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="new_releases"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="next_plan"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="next_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="nfc"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="nights_stay"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_cell"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_drinks"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="no_encryption"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_flash"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_food"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="no_meeting_room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_photography"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="no_sim"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="no_stroller"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="not_accessible"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="not_interested"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="not_listed_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="not_started"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="note"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="note_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="notes"></u-icon-example>
@@ -3877,11 +4489,14 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="offline_bolt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="offline_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="ondemand_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="online_prediction"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="opacity"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="open_in_browser"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="open_in_full"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="open_in_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="open_with"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="outdoor_grill"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="outlet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="outlined_flag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pages"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pageview"></u-icon-example>
@@ -3898,6 +4513,10 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="pause_circle_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pause_presentation"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="payment"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="payments"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pedal_bike"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pending"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pending_actions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="people"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="people_alt"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="people_outline"></u-icon-example>
@@ -3911,11 +4530,17 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="perm_scan_wifi"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person_add"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_add_alt_1"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person_add_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person_pin"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="person_pin_circle"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_remove"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_remove_alt_1"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="person_search"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="personal_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pest_control"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="pest_control_rodent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="phone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="phone_android"></u-icon-example>
@@ -3949,6 +4574,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="pie_chart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pin_drop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="place"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="plagiarism"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="play_arrow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="play_circle_filled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="play_circle_outline"></u-icon-example>
@@ -3956,7 +4582,9 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="playlist_add"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="playlist_add_check"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="playlist_play"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="plumbing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="plus_one"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="point_of_sale"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="policy"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="poll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="polymer"></u-icon-example>
@@ -3970,21 +4598,30 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="power_settings_new"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="pregnant_woman"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="present_to_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="preview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="print"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="print_disabled"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="priority_high"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="privacy_tip"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="psychology"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="public"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="public_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="publish"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="push_pin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="qr_code"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="query_builder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="question_answer"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="queue"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="queue_music"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="queue_play_next"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="quickreply"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="radio"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="radio_button_checked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="radio_button_unchecked"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rate_review"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="read_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="receipt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="receipt_long"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="recent_actors"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="record_voice_over"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="redeem"></u-icon-example>
@@ -4008,6 +4645,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="report"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="report_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="report_problem"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="request_quote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="restaurant"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="restaurant_menu"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="restore"></u-icon-example>
@@ -4015,6 +4653,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="restore_page"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="ring_volume"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="room"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="room_preferences"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="room_service"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rotate_90_degrees_ccw"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rotate_left"></u-icon-example>
@@ -4023,6 +4662,9 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="router"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rowing"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rss_feed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rule"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="rule_folder"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="run_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="rv_hookup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="satellite"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="save"></u-icon-example>
@@ -4031,6 +4673,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="scatter_plot"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="schedule"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="school"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="science"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="score"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="screen_lock_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="screen_lock_portrait"></u-icon-example>
@@ -4040,9 +4683,13 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="sd_card"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sd_storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="search"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="search_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="security"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="select_all"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="self_improvement"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="send"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sensor_door"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="sensor_window"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_dissatisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_satisfied"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sentiment_satisfied_alt"></u-icon-example>
@@ -4069,6 +4716,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="shop"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="shop_two"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="shopping_bag"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="shopping_basket"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="shopping_cart"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="short_text"></u-icon-example>
@@ -4090,14 +4738,18 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="skip_previous"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="slideshow"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="slow_motion_video"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="smart_button"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="smartphone"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="smoke_free"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="smoking_rooms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sms_failed"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="snippet_folder"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="snooze"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="soap"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sort"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sort_by_alpha"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="source"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="spa"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="space_bar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="speaker"></u-icon-example>
@@ -4124,16 +4776,19 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="sports_tennis"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sports_volleyball"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="square_foot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stairs"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="star"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="star_border"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="star_half"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="star_outline"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="star_rate"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stars"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stay_current_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stay_current_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stay_primary_landscape"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stay_primary_portrait"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stop"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stop_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="stop_screen_share"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="storage"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="store"></u-icon-example>
@@ -4142,15 +4797,21 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="straighten"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="streetview"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="strikethrough_s"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="stroller"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="style"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subdirectory_arrow_left"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subdirectory_arrow_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subject"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subscriptions"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subtitles"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="subtitles_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="subway"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="superscript"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="supervised_user_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="supervisor_account"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="support"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="support_agent"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="surround_sound"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="swap_calls"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="swap_horiz"></u-icon-example>
@@ -4158,6 +4819,8 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="swap_vert"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="swap_vertical_circle"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="switch_camera"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="switch_left"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="switch_right"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="switch_video"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sync"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="sync_alt"></u-icon-example>
@@ -4168,6 +4831,8 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="tab"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tab_unselected"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="table_chart"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="table_rows"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="table_view"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tablet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tablet_android"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tablet_mac"></u-icon-example>
@@ -4182,6 +4847,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_angleup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_down"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="text_rotation_none"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="text_snippet"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="textsms"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="texture"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="theaters"></u-icon-example>
@@ -4204,7 +4870,9 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="toggle_on"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="toll"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tonality"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="topic"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="touch_app"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tour"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="toys"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="track_changes"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="traffic"></u-icon-example>
@@ -4218,19 +4886,23 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="trending_flat"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="trending_up"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="trip_origin"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="tty"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tune"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="turned_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="turned_in_not"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tv"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="tv_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="two_wheeler"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="umbrella"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="unarchive"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="undo"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="unfold_less"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="unfold_more"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="unsubscribe"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="update"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="upgrade"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="usb"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="verified"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="verified_user"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="vertical_align_bottom"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="vertical_align_center"></u-icon-example>
@@ -4240,6 +4912,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="video_call"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="video_label"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="video_library"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="video_settings"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="videocam"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="videocam_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="videogame_asset"></u-icon-example>
@@ -4254,6 +4927,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="view_list"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="view_module"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="view_quilt"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="view_sidebar"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="view_stream"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="view_week"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="vignette"></u-icon-example>
@@ -4270,6 +4944,7 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="vpn_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wallpaper"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="warning"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wash"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="watch"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="watch_later"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="waves"></u-icon-example>
@@ -4283,19 +4958,24 @@
         <u-icon-example icon="i-material-design" theme="sharp" name="web_asset"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="weekend"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="whatshot"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wheelchair_pickup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="where_to_vote"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="widgets"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wifi"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi_calling"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wifi_lock"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wifi_off"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wifi_protected_setup"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wifi_tethering"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="work"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="work_off"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="work_outline"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="wrap_text"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wrong_location"></u-icon-example>
+        <u-icon-example icon="i-material-design" theme="sharp" name="wysiwyg"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="youtube_searched_for"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="zoom_in"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="zoom_out"></u-icon-example>
         <u-icon-example icon="i-material-design" theme="sharp" name="zoom_out_map"></u-icon-example>
-    </u-subtab>
-</u-subtabs>
+    </u-tab>
+</u-tabs>

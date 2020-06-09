@@ -1,13 +1,17 @@
+const fs = require('fs');
 const path = require('path');
+const axios = require('axios');
 const download = require('download');
 
-// https://fonts.google.com/metadata/icons
-const metadata = require('./metadata.json');
 const themes = require('./themes.json');
 
-console.info('Icons count:', metadata.icons.length);
-
 (async () => {
+    const res = await axios.get('https://fonts.google.com/metadata/icons');
+    const data = res.data.replace(/^.+\n/, '');
+    fs.writeFileSync(path.resolve(__dirname, 'metadata.json'), data);
+    const metadata = JSON.parse(data);
+    console.info('Icons count:', metadata.icons.length);
+
     for (const theme of Object.keys(themes)) {
         for (const icon of metadata.icons) {
             // https://fonts.gstatic.com/s/i/materialicons/3d_rotation/v9/24px.svg?download=true

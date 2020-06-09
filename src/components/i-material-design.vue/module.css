@@ -10,6 +10,10 @@
     icon-font: url('./assets/filled/4k.svg');
 }
 
+.root[name="5g"]::before {
+    icon-font: url('./assets/filled/5g.svg');
+}
+
 .root[name="ac_unit"]::before {
     icon-font: url('./assets/filled/ac_unit.svg');
 }
@@ -62,6 +66,10 @@
     icon-font: url('./assets/filled/account_tree.svg');
 }
 
+.root[name="ad_units"]::before {
+    icon-font: url('./assets/filled/ad_units.svg');
+}
+
 .root[name="adb"]::before {
     icon-font: url('./assets/filled/adb.svg');
 }
@@ -86,6 +94,10 @@
     icon-font: url('./assets/filled/add_box.svg');
 }
 
+.root[name="add_business"]::before {
+    icon-font: url('./assets/filled/add_business.svg');
+}
+
 .root[name="add_circle"]::before {
     icon-font: url('./assets/filled/add_circle.svg');
 }
@@ -106,8 +118,16 @@
     icon-font: url('./assets/filled/add_location.svg');
 }
 
+.root[name="add_location_alt"]::before {
+    icon-font: url('./assets/filled/add_location_alt.svg');
+}
+
 .root[name="add_photo_alternate"]::before {
     icon-font: url('./assets/filled/add_photo_alternate.svg');
+}
+
+.root[name="add_road"]::before {
+    icon-font: url('./assets/filled/add_road.svg');
 }
 
 .root[name="add_shopping_cart"]::before {
@@ -126,8 +146,20 @@
     icon-font: url('./assets/filled/add_to_queue.svg');
 }
 
+.root[name="addchart"]::before {
+    icon-font: url('./assets/filled/addchart.svg');
+}
+
 .root[name="adjust"]::before {
     icon-font: url('./assets/filled/adjust.svg');
+}
+
+.root[name="admin_panel_settings"]::before {
+    icon-font: url('./assets/filled/admin_panel_settings.svg');
+}
+
+.root[name="agriculture"]::before {
+    icon-font: url('./assets/filled/agriculture.svg');
 }
 
 .root[name="airline_seat_flat"]::before {
@@ -210,12 +242,24 @@
     icon-font: url('./assets/filled/all_out.svg');
 }
 
+.root[name="alt_route"]::before {
+    icon-font: url('./assets/filled/alt_route.svg');
+}
+
 .root[name="alternate_email"]::before {
     icon-font: url('./assets/filled/alternate_email.svg');
 }
 
 .root[name="amp_stories"]::before {
     icon-font: url('./assets/filled/amp_stories.svg');
+}
+
+.root[name="analytics"]::before {
+    icon-font: url('./assets/filled/analytics.svg');
+}
+
+.root[name="anchor"]::before {
+    icon-font: url('./assets/filled/anchor.svg');
 }
 
 .root[name="android"]::before {
@@ -230,8 +274,24 @@
     icon-font: url('./assets/filled/apartment.svg');
 }
 
+.root[name="api"]::before {
+    icon-font: url('./assets/filled/api.svg');
+}
+
+.root[name="app_blocking"]::before {
+    icon-font: url('./assets/filled/app_blocking.svg');
+}
+
+.root[name="app_settings_alt"]::before {
+    icon-font: url('./assets/filled/app_settings_alt.svg');
+}
+
 .root[name="apps"]::before {
     icon-font: url('./assets/filled/apps.svg');
+}
+
+.root[name="architecture"]::before {
+    icon-font: url('./assets/filled/architecture.svg');
 }
 
 .root[name="archive"]::before {
@@ -244,6 +304,14 @@
 
 .root[name="arrow_back_ios"]::before {
     icon-font: url('./assets/filled/arrow_back_ios.svg');
+}
+
+.root[name="arrow_circle_down"]::before {
+    icon-font: url('./assets/filled/arrow_circle_down.svg');
+}
+
+.root[name="arrow_circle_up"]::before {
+    icon-font: url('./assets/filled/arrow_circle_up.svg');
 }
 
 .root[name="arrow_downward"]::before {
@@ -290,6 +358,10 @@
     icon-font: url('./assets/filled/art_track.svg');
 }
 
+.root[name="article"]::before {
+    icon-font: url('./assets/filled/article.svg');
+}
+
 .root[name="aspect_ratio"]::before {
     icon-font: url('./assets/filled/aspect_ratio.svg');
 }
@@ -334,6 +406,10 @@
     icon-font: url('./assets/filled/atm.svg');
 }
 
+.root[name="attach_email"]::before {
+    icon-font: url('./assets/filled/attach_email.svg');
+}
+
 .root[name="attach_file"]::before {
     icon-font: url('./assets/filled/attach_file.svg');
 }
@@ -350,12 +426,24 @@
     icon-font: url('./assets/filled/audiotrack.svg');
 }
 
+.root[name="auto_delete"]::before {
+    icon-font: url('./assets/filled/auto_delete.svg');
+}
+
 .root[name="autorenew"]::before {
     icon-font: url('./assets/filled/autorenew.svg');
 }
 
 .root[name="av_timer"]::before {
     icon-font: url('./assets/filled/av_timer.svg');
+}
+
+.root[name="baby_changing_station"]::before {
+    icon-font: url('./assets/filled/baby_changing_station.svg');
+}
+
+.root[name="backpack"]::before {
+    icon-font: url('./assets/filled/backpack.svg');
 }
 
 .root[name="backspace"]::before {
@@ -366,12 +454,20 @@
     icon-font: url('./assets/filled/backup.svg');
 }
 
+.root[name="backup_table"]::before {
+    icon-font: url('./assets/filled/backup_table.svg');
+}
+
 .root[name="ballot"]::before {
     icon-font: url('./assets/filled/ballot.svg');
 }
 
 .root[name="bar_chart"]::before {
     icon-font: url('./assets/filled/bar_chart.svg');
+}
+
+.root[name="batch_prediction"]::before {
+    icon-font: url('./assets/filled/batch_prediction.svg');
 }
 
 .root[name="bathtub"]::before {
@@ -402,8 +498,20 @@
     icon-font: url('./assets/filled/beach_access.svg');
 }
 
+.root[name="bedtime"]::before {
+    icon-font: url('./assets/filled/bedtime.svg');
+}
+
 .root[name="beenhere"]::before {
     icon-font: url('./assets/filled/beenhere.svg');
+}
+
+.root[name="bike_scooter"]::before {
+    icon-font: url('./assets/filled/bike_scooter.svg');
+}
+
+.root[name="biotech"]::before {
+    icon-font: url('./assets/filled/biotech.svg');
 }
 
 .root[name="block"]::before {
@@ -558,6 +666,10 @@
     icon-font: url('./assets/filled/broken_image.svg');
 }
 
+.root[name="browser_not_supported"]::before {
+    icon-font: url('./assets/filled/browser_not_supported.svg');
+}
+
 .root[name="brush"]::before {
     icon-font: url('./assets/filled/brush.svg');
 }
@@ -572,6 +684,10 @@
 
 .root[name="build"]::before {
     icon-font: url('./assets/filled/build.svg');
+}
+
+.root[name="build_circle"]::before {
+    icon-font: url('./assets/filled/build_circle.svg');
 }
 
 .root[name="burst_mode"]::before {
@@ -592,6 +708,10 @@
 
 .root[name="cake"]::before {
     icon-font: url('./assets/filled/cake.svg');
+}
+
+.root[name="calculate"]::before {
+    icon-font: url('./assets/filled/calculate.svg');
 }
 
 .root[name="calendar_today"]::before {
@@ -662,6 +782,10 @@
     icon-font: url('./assets/filled/camera_roll.svg');
 }
 
+.root[name="campaign"]::before {
+    icon-font: url('./assets/filled/campaign.svg');
+}
+
 .root[name="cancel"]::before {
     icon-font: url('./assets/filled/cancel.svg');
 }
@@ -698,6 +822,10 @@
     icon-font: url('./assets/filled/cast_connected.svg');
 }
 
+.root[name="cast_for_education"]::before {
+    icon-font: url('./assets/filled/cast_for_education.svg');
+}
+
 .root[name="category"]::before {
     icon-font: url('./assets/filled/category.svg');
 }
@@ -712,6 +840,10 @@
 
 .root[name="change_history"]::before {
     icon-font: url('./assets/filled/change_history.svg');
+}
+
+.root[name="charging_station"]::before {
+    icon-font: url('./assets/filled/charging_station.svg');
 }
 
 .root[name="chat"]::before {
@@ -746,6 +878,10 @@
     icon-font: url('./assets/filled/check_circle_outline.svg');
 }
 
+.root[name="checkroom"]::before {
+    icon-font: url('./assets/filled/checkroom.svg');
+}
+
 .root[name="chevron_left"]::before {
     icon-font: url('./assets/filled/chevron_left.svg');
 }
@@ -770,6 +906,10 @@
     icon-font: url('./assets/filled/class.svg');
 }
 
+.root[name="cleaning_services"]::before {
+    icon-font: url('./assets/filled/cleaning_services.svg');
+}
+
 .root[name="clear"]::before {
     icon-font: url('./assets/filled/clear.svg');
 }
@@ -780,6 +920,10 @@
 
 .root[name="close"]::before {
     icon-font: url('./assets/filled/close.svg');
+}
+
+.root[name="close_fullscreen"]::before {
+    icon-font: url('./assets/filled/close_fullscreen.svg');
 }
 
 .root[name="closed_caption"]::before {
@@ -838,6 +982,10 @@
     icon-font: url('./assets/filled/comment.svg');
 }
 
+.root[name="comment_bank"]::before {
+    icon-font: url('./assets/filled/comment_bank.svg');
+}
+
 .root[name="commute"]::before {
     icon-font: url('./assets/filled/commute.svg');
 }
@@ -860,6 +1008,10 @@
 
 .root[name="confirmation_number"]::before {
     icon-font: url('./assets/filled/confirmation_number.svg');
+}
+
+.root[name="construction"]::before {
+    icon-font: url('./assets/filled/construction.svg');
 }
 
 .root[name="contact_mail"]::before {
@@ -896,6 +1048,10 @@
 
 .root[name="copyright"]::before {
     icon-font: url('./assets/filled/copyright.svg');
+}
+
+.root[name="corporate_fare"]::before {
+    icon-font: url('./assets/filled/corporate_fare.svg');
 }
 
 .root[name="create"]::before {
@@ -1002,6 +1158,10 @@
     icon-font: url('./assets/filled/description.svg');
 }
 
+.root[name="design_services"]::before {
+    icon-font: url('./assets/filled/design_services.svg');
+}
+
 .root[name="desktop_access_disabled"]::before {
     icon-font: url('./assets/filled/desktop_access_disabled.svg');
 }
@@ -1070,6 +1230,10 @@
     icon-font: url('./assets/filled/directions_car.svg');
 }
 
+.root[name="directions_off"]::before {
+    icon-font: url('./assets/filled/directions_off.svg');
+}
+
 .root[name="directions_railway"]::before {
     icon-font: url('./assets/filled/directions_railway.svg');
 }
@@ -1098,6 +1262,14 @@
     icon-font: url('./assets/filled/dns.svg');
 }
 
+.root[name="do_not_step"]::before {
+    icon-font: url('./assets/filled/do_not_step.svg');
+}
+
+.root[name="do_not_touch"]::before {
+    icon-font: url('./assets/filled/do_not_touch.svg');
+}
+
 .root[name="dock"]::before {
     icon-font: url('./assets/filled/dock.svg');
 }
@@ -1108,6 +1280,10 @@
 
 .root[name="domain_disabled"]::before {
     icon-font: url('./assets/filled/domain_disabled.svg');
+}
+
+.root[name="domain_verification"]::before {
+    icon-font: url('./assets/filled/domain_verification.svg');
 }
 
 .root[name="done"]::before {
@@ -1150,6 +1326,10 @@
     icon-font: url('./assets/filled/drive_eta.svg');
 }
 
+.root[name="dry"]::before {
+    icon-font: url('./assets/filled/dry.svg');
+}
+
 .root[name="duo"]::before {
     icon-font: url('./assets/filled/duo.svg');
 }
@@ -1160,6 +1340,10 @@
 
 .root[name="dynamic_feed"]::before {
     icon-font: url('./assets/filled/dynamic_feed.svg');
+}
+
+.root[name="dynamic_form"]::before {
+    icon-font: url('./assets/filled/dynamic_form.svg');
 }
 
 .root[name="eco"]::before {
@@ -1178,8 +1362,36 @@
     icon-font: url('./assets/filled/edit_location.svg');
 }
 
+.root[name="edit_road"]::before {
+    icon-font: url('./assets/filled/edit_road.svg');
+}
+
 .root[name="eject"]::before {
     icon-font: url('./assets/filled/eject.svg');
+}
+
+.root[name="electric_bike"]::before {
+    icon-font: url('./assets/filled/electric_bike.svg');
+}
+
+.root[name="electric_car"]::before {
+    icon-font: url('./assets/filled/electric_car.svg');
+}
+
+.root[name="electric_moped"]::before {
+    icon-font: url('./assets/filled/electric_moped.svg');
+}
+
+.root[name="electric_scooter"]::before {
+    icon-font: url('./assets/filled/electric_scooter.svg');
+}
+
+.root[name="electrical_services"]::before {
+    icon-font: url('./assets/filled/electrical_services.svg');
+}
+
+.root[name="elevator"]::before {
+    icon-font: url('./assets/filled/elevator.svg');
 }
 
 .root[name="email"]::before {
@@ -1222,6 +1434,10 @@
     icon-font: url('./assets/filled/emoji_transportation.svg');
 }
 
+.root[name="engineering"]::before {
+    icon-font: url('./assets/filled/engineering.svg');
+}
+
 .root[name="enhanced_encryption"]::before {
     icon-font: url('./assets/filled/enhanced_encryption.svg');
 }
@@ -1236,6 +1452,14 @@
 
 .root[name="error_outline"]::before {
     icon-font: url('./assets/filled/error_outline.svg');
+}
+
+.root[name="escalator"]::before {
+    icon-font: url('./assets/filled/escalator.svg');
+}
+
+.root[name="escalator_warning"]::before {
+    icon-font: url('./assets/filled/escalator_warning.svg');
 }
 
 .root[name="euro"]::before {
@@ -1324,6 +1548,14 @@
 
 .root[name="face"]::before {
     icon-font: url('./assets/filled/face.svg');
+}
+
+.root[name="fact_check"]::before {
+    icon-font: url('./assets/filled/fact_check.svg');
+}
+
+.root[name="family_restroom"]::before {
+    icon-font: url('./assets/filled/family_restroom.svg');
 }
 
 .root[name="fast_forward"]::before {
@@ -1426,6 +1658,10 @@
     icon-font: url('./assets/filled/filter_9_plus.svg');
 }
 
+.root[name="filter_alt"]::before {
+    icon-font: url('./assets/filled/filter_alt.svg');
+}
+
 .root[name="filter_b_and_w"]::before {
     icon-font: url('./assets/filled/filter_b_and_w.svg');
 }
@@ -1488,6 +1724,10 @@
 
 .root[name="flag"]::before {
     icon-font: url('./assets/filled/flag.svg');
+}
+
+.root[name="flaky"]::before {
+    icon-font: url('./assets/filled/flaky.svg');
 }
 
 .root[name="flare"]::before {
@@ -1666,6 +1906,10 @@
     icon-font: url('./assets/filled/forward_5.svg');
 }
 
+.root[name="forward_to_inbox"]::before {
+    icon-font: url('./assets/filled/forward_to_inbox.svg');
+}
+
 .root[name="free_breakfast"]::before {
     icon-font: url('./assets/filled/free_breakfast.svg');
 }
@@ -1734,6 +1978,10 @@
     icon-font: url('./assets/filled/gradient.svg');
 }
 
+.root[name="grading"]::before {
+    icon-font: url('./assets/filled/grading.svg');
+}
+
 .root[name="grain"]::before {
     icon-font: url('./assets/filled/grain.svg');
 }
@@ -1760,6 +2008,10 @@
 
 .root[name="group_work"]::before {
     icon-font: url('./assets/filled/group_work.svg');
+}
+
+.root[name="handyman"]::before {
+    icon-font: url('./assets/filled/handyman.svg');
 }
 
 .root[name="hd"]::before {
@@ -1798,12 +2050,20 @@
     icon-font: url('./assets/filled/hearing.svg');
 }
 
+.root[name="hearing_disabled"]::before {
+    icon-font: url('./assets/filled/hearing_disabled.svg');
+}
+
 .root[name="height"]::before {
     icon-font: url('./assets/filled/height.svg');
 }
 
 .root[name="help"]::before {
     icon-font: url('./assets/filled/help.svg');
+}
+
+.root[name="help_center"]::before {
+    icon-font: url('./assets/filled/help_center.svg');
 }
 
 .root[name="help_outline"]::before {
@@ -1818,6 +2078,10 @@
     icon-font: url('./assets/filled/highlight.svg');
 }
 
+.root[name="highlight_alt"]::before {
+    icon-font: url('./assets/filled/highlight_alt.svg');
+}
+
 .root[name="highlight_off"]::before {
     icon-font: url('./assets/filled/highlight_off.svg');
 }
@@ -1826,12 +2090,28 @@
     icon-font: url('./assets/filled/history.svg');
 }
 
+.root[name="history_edu"]::before {
+    icon-font: url('./assets/filled/history_edu.svg');
+}
+
+.root[name="history_toggle_off"]::before {
+    icon-font: url('./assets/filled/history_toggle_off.svg');
+}
+
 .root[name="home"]::before {
     icon-font: url('./assets/filled/home.svg');
 }
 
+.root[name="home_repair_service"]::before {
+    icon-font: url('./assets/filled/home_repair_service.svg');
+}
+
 .root[name="home_work"]::before {
     icon-font: url('./assets/filled/home_work.svg');
+}
+
+.root[name="horizontal_rule"]::before {
+    icon-font: url('./assets/filled/horizontal_rule.svg');
 }
 
 .root[name="horizontal_split"]::before {
@@ -1846,12 +2126,24 @@
     icon-font: url('./assets/filled/hotel.svg');
 }
 
+.root[name="hourglass_bottom"]::before {
+    icon-font: url('./assets/filled/hourglass_bottom.svg');
+}
+
+.root[name="hourglass_disabled"]::before {
+    icon-font: url('./assets/filled/hourglass_disabled.svg');
+}
+
 .root[name="hourglass_empty"]::before {
     icon-font: url('./assets/filled/hourglass_empty.svg');
 }
 
 .root[name="hourglass_full"]::before {
     icon-font: url('./assets/filled/hourglass_full.svg');
+}
+
+.root[name="hourglass_top"]::before {
+    icon-font: url('./assets/filled/hourglass_top.svg');
 }
 
 .root[name="house"]::before {
@@ -1874,12 +2166,20 @@
     icon-font: url('./assets/filled/https.svg');
 }
 
+.root[name="hvac"]::before {
+    icon-font: url('./assets/filled/hvac.svg');
+}
+
 .root[name="image"]::before {
     icon-font: url('./assets/filled/image.svg');
 }
 
 .root[name="image_aspect_ratio"]::before {
     icon-font: url('./assets/filled/image_aspect_ratio.svg');
+}
+
+.root[name="image_not_supported"]::before {
+    icon-font: url('./assets/filled/image_not_supported.svg');
 }
 
 .root[name="image_search"]::before {
@@ -1944,6 +2244,14 @@
 
 .root[name="insert_photo"]::before {
     icon-font: url('./assets/filled/insert_photo.svg');
+}
+
+.root[name="insights"]::before {
+    icon-font: url('./assets/filled/insights.svg');
+}
+
+.root[name="integration_instructions"]::before {
+    icon-font: url('./assets/filled/integration_instructions.svg');
 }
 
 .root[name="invert_colors"]::before {
@@ -2068,6 +2376,10 @@
 
 .root[name="leak_remove"]::before {
     icon-font: url('./assets/filled/leak_remove.svg');
+}
+
+.root[name="legend_toggle"]::before {
+    icon-font: url('./assets/filled/legend_toggle.svg');
 }
 
 .root[name="lens"]::before {
@@ -2274,6 +2586,10 @@
     icon-font: url('./assets/filled/lock_open.svg');
 }
 
+.root[name="login"]::before {
+    icon-font: url('./assets/filled/login.svg');
+}
+
 .root[name="looks"]::before {
     icon-font: url('./assets/filled/looks.svg');
 }
@@ -2330,6 +2646,26 @@
     icon-font: url('./assets/filled/map.svg');
 }
 
+.root[name="maps_ugc"]::before {
+    icon-font: url('./assets/filled/maps_ugc.svg');
+}
+
+.root[name="mark_chat_read"]::before {
+    icon-font: url('./assets/filled/mark_chat_read.svg');
+}
+
+.root[name="mark_chat_unread"]::before {
+    icon-font: url('./assets/filled/mark_chat_unread.svg');
+}
+
+.root[name="mark_email_read"]::before {
+    icon-font: url('./assets/filled/mark_email_read.svg');
+}
+
+.root[name="mark_email_unread"]::before {
+    icon-font: url('./assets/filled/mark_email_unread.svg');
+}
+
 .root[name="markunread"]::before {
     icon-font: url('./assets/filled/markunread.svg');
 }
@@ -2340,6 +2676,14 @@
 
 .root[name="maximize"]::before {
     icon-font: url('./assets/filled/maximize.svg');
+}
+
+.root[name="mediation"]::before {
+    icon-font: url('./assets/filled/mediation.svg');
+}
+
+.root[name="medical_services"]::before {
+    icon-font: url('./assets/filled/medical_services.svg');
 }
 
 .root[name="meeting_room"]::before {
@@ -2382,8 +2726,16 @@
     icon-font: url('./assets/filled/mic_off.svg');
 }
 
+.root[name="military_tech"]::before {
+    icon-font: url('./assets/filled/military_tech.svg');
+}
+
 .root[name="minimize"]::before {
     icon-font: url('./assets/filled/minimize.svg');
+}
+
+.root[name="miscellaneous_services"]::before {
+    icon-font: url('./assets/filled/miscellaneous_services.svg');
 }
 
 .root[name="missed_video_call"]::before {
@@ -2410,6 +2762,10 @@
     icon-font: url('./assets/filled/mode_comment.svg');
 }
 
+.root[name="model_training"]::before {
+    icon-font: url('./assets/filled/model_training.svg');
+}
+
 .root[name="monetization_on"]::before {
     icon-font: url('./assets/filled/monetization_on.svg');
 }
@@ -2434,12 +2790,20 @@
     icon-font: url('./assets/filled/mood_bad.svg');
 }
 
+.root[name="moped"]::before {
+    icon-font: url('./assets/filled/moped.svg');
+}
+
 .root[name="more"]::before {
     icon-font: url('./assets/filled/more.svg');
 }
 
 .root[name="more_horiz"]::before {
     icon-font: url('./assets/filled/more_horiz.svg');
+}
+
+.root[name="more_time"]::before {
+    icon-font: url('./assets/filled/more_time.svg');
 }
 
 .root[name="more_vert"]::before {
@@ -2470,6 +2834,10 @@
     icon-font: url('./assets/filled/multiline_chart.svg');
 }
 
+.root[name="multiple_stop"]::before {
+    icon-font: url('./assets/filled/multiple_stop.svg');
+}
+
 .root[name="museum"]::before {
     icon-font: url('./assets/filled/museum.svg');
 }
@@ -2488,6 +2856,10 @@
 
 .root[name="my_location"]::before {
     icon-font: url('./assets/filled/my_location.svg');
+}
+
+.root[name="nat"]::before {
+    icon-font: url('./assets/filled/nat.svg');
 }
 
 .root[name="nature"]::before {
@@ -2526,6 +2898,10 @@
     icon-font: url('./assets/filled/new_releases.svg');
 }
 
+.root[name="next_plan"]::before {
+    icon-font: url('./assets/filled/next_plan.svg');
+}
+
 .root[name="next_week"]::before {
     icon-font: url('./assets/filled/next_week.svg');
 }
@@ -2538,16 +2914,44 @@
     icon-font: url('./assets/filled/nights_stay.svg');
 }
 
+.root[name="no_cell"]::before {
+    icon-font: url('./assets/filled/no_cell.svg');
+}
+
+.root[name="no_drinks"]::before {
+    icon-font: url('./assets/filled/no_drinks.svg');
+}
+
 .root[name="no_encryption"]::before {
     icon-font: url('./assets/filled/no_encryption.svg');
+}
+
+.root[name="no_flash"]::before {
+    icon-font: url('./assets/filled/no_flash.svg');
+}
+
+.root[name="no_food"]::before {
+    icon-font: url('./assets/filled/no_food.svg');
 }
 
 .root[name="no_meeting_room"]::before {
     icon-font: url('./assets/filled/no_meeting_room.svg');
 }
 
+.root[name="no_photography"]::before {
+    icon-font: url('./assets/filled/no_photography.svg');
+}
+
 .root[name="no_sim"]::before {
     icon-font: url('./assets/filled/no_sim.svg');
+}
+
+.root[name="no_stroller"]::before {
+    icon-font: url('./assets/filled/no_stroller.svg');
+}
+
+.root[name="not_accessible"]::before {
+    icon-font: url('./assets/filled/not_accessible.svg');
 }
 
 .root[name="not_interested"]::before {
@@ -2556,6 +2960,10 @@
 
 .root[name="not_listed_location"]::before {
     icon-font: url('./assets/filled/not_listed_location.svg');
+}
+
+.root[name="not_started"]::before {
+    icon-font: url('./assets/filled/not_started.svg');
 }
 
 .root[name="note"]::before {
@@ -2606,12 +3014,20 @@
     icon-font: url('./assets/filled/ondemand_video.svg');
 }
 
+.root[name="online_prediction"]::before {
+    icon-font: url('./assets/filled/online_prediction.svg');
+}
+
 .root[name="opacity"]::before {
     icon-font: url('./assets/filled/opacity.svg');
 }
 
 .root[name="open_in_browser"]::before {
     icon-font: url('./assets/filled/open_in_browser.svg');
+}
+
+.root[name="open_in_full"]::before {
+    icon-font: url('./assets/filled/open_in_full.svg');
 }
 
 .root[name="open_in_new"]::before {
@@ -2624,6 +3040,10 @@
 
 .root[name="outdoor_grill"]::before {
     icon-font: url('./assets/filled/outdoor_grill.svg');
+}
+
+.root[name="outlet"]::before {
+    icon-font: url('./assets/filled/outlet.svg');
 }
 
 .root[name="outlined_flag"]::before {
@@ -2690,6 +3110,22 @@
     icon-font: url('./assets/filled/payment.svg');
 }
 
+.root[name="payments"]::before {
+    icon-font: url('./assets/filled/payments.svg');
+}
+
+.root[name="pedal_bike"]::before {
+    icon-font: url('./assets/filled/pedal_bike.svg');
+}
+
+.root[name="pending"]::before {
+    icon-font: url('./assets/filled/pending.svg');
+}
+
+.root[name="pending_actions"]::before {
+    icon-font: url('./assets/filled/pending_actions.svg');
+}
+
 .root[name="people"]::before {
     icon-font: url('./assets/filled/people.svg');
 }
@@ -2742,6 +3178,10 @@
     icon-font: url('./assets/filled/person_add.svg');
 }
 
+.root[name="person_add_alt_1"]::before {
+    icon-font: url('./assets/filled/person_add_alt_1.svg');
+}
+
 .root[name="person_add_disabled"]::before {
     icon-font: url('./assets/filled/person_add_disabled.svg');
 }
@@ -2758,8 +3198,28 @@
     icon-font: url('./assets/filled/person_pin_circle.svg');
 }
 
+.root[name="person_remove"]::before {
+    icon-font: url('./assets/filled/person_remove.svg');
+}
+
+.root[name="person_remove_alt_1"]::before {
+    icon-font: url('./assets/filled/person_remove_alt_1.svg');
+}
+
+.root[name="person_search"]::before {
+    icon-font: url('./assets/filled/person_search.svg');
+}
+
 .root[name="personal_video"]::before {
     icon-font: url('./assets/filled/personal_video.svg');
+}
+
+.root[name="pest_control"]::before {
+    icon-font: url('./assets/filled/pest_control.svg');
+}
+
+.root[name="pest_control_rodent"]::before {
+    icon-font: url('./assets/filled/pest_control_rodent.svg');
 }
 
 .root[name="pets"]::before {
@@ -2894,6 +3354,10 @@
     icon-font: url('./assets/filled/place.svg');
 }
 
+.root[name="plagiarism"]::before {
+    icon-font: url('./assets/filled/plagiarism.svg');
+}
+
 .root[name="play_arrow"]::before {
     icon-font: url('./assets/filled/play_arrow.svg');
 }
@@ -2922,8 +3386,16 @@
     icon-font: url('./assets/filled/playlist_play.svg');
 }
 
+.root[name="plumbing"]::before {
+    icon-font: url('./assets/filled/plumbing.svg');
+}
+
 .root[name="plus_one"]::before {
     icon-font: url('./assets/filled/plus_one.svg');
+}
+
+.root[name="point_of_sale"]::before {
+    icon-font: url('./assets/filled/point_of_sale.svg');
 }
 
 .root[name="policy"]::before {
@@ -2978,6 +3450,10 @@
     icon-font: url('./assets/filled/present_to_all.svg');
 }
 
+.root[name="preview"]::before {
+    icon-font: url('./assets/filled/preview.svg');
+}
+
 .root[name="print"]::before {
     icon-font: url('./assets/filled/print.svg');
 }
@@ -2990,12 +3466,32 @@
     icon-font: url('./assets/filled/priority_high.svg');
 }
 
+.root[name="privacy_tip"]::before {
+    icon-font: url('./assets/filled/privacy_tip.svg');
+}
+
+.root[name="psychology"]::before {
+    icon-font: url('./assets/filled/psychology.svg');
+}
+
 .root[name="public"]::before {
     icon-font: url('./assets/filled/public.svg');
 }
 
+.root[name="public_off"]::before {
+    icon-font: url('./assets/filled/public_off.svg');
+}
+
 .root[name="publish"]::before {
     icon-font: url('./assets/filled/publish.svg');
+}
+
+.root[name="push_pin"]::before {
+    icon-font: url('./assets/filled/push_pin.svg');
+}
+
+.root[name="qr_code"]::before {
+    icon-font: url('./assets/filled/qr_code.svg');
 }
 
 .root[name="query_builder"]::before {
@@ -3018,6 +3514,10 @@
     icon-font: url('./assets/filled/queue_play_next.svg');
 }
 
+.root[name="quickreply"]::before {
+    icon-font: url('./assets/filled/quickreply.svg');
+}
+
 .root[name="radio"]::before {
     icon-font: url('./assets/filled/radio.svg');
 }
@@ -3034,8 +3534,16 @@
     icon-font: url('./assets/filled/rate_review.svg');
 }
 
+.root[name="read_more"]::before {
+    icon-font: url('./assets/filled/read_more.svg');
+}
+
 .root[name="receipt"]::before {
     icon-font: url('./assets/filled/receipt.svg');
+}
+
+.root[name="receipt_long"]::before {
+    icon-font: url('./assets/filled/receipt_long.svg');
 }
 
 .root[name="recent_actors"]::before {
@@ -3130,6 +3638,10 @@
     icon-font: url('./assets/filled/report_problem.svg');
 }
 
+.root[name="request_quote"]::before {
+    icon-font: url('./assets/filled/request_quote.svg');
+}
+
 .root[name="restaurant"]::before {
     icon-font: url('./assets/filled/restaurant.svg');
 }
@@ -3156,6 +3668,10 @@
 
 .root[name="room"]::before {
     icon-font: url('./assets/filled/room.svg');
+}
+
+.root[name="room_preferences"]::before {
+    icon-font: url('./assets/filled/room_preferences.svg');
 }
 
 .root[name="room_service"]::before {
@@ -3190,6 +3706,18 @@
     icon-font: url('./assets/filled/rss_feed.svg');
 }
 
+.root[name="rule"]::before {
+    icon-font: url('./assets/filled/rule.svg');
+}
+
+.root[name="rule_folder"]::before {
+    icon-font: url('./assets/filled/rule_folder.svg');
+}
+
+.root[name="run_circle"]::before {
+    icon-font: url('./assets/filled/run_circle.svg');
+}
+
 .root[name="rv_hookup"]::before {
     icon-font: url('./assets/filled/rv_hookup.svg');
 }
@@ -3220,6 +3748,10 @@
 
 .root[name="school"]::before {
     icon-font: url('./assets/filled/school.svg');
+}
+
+.root[name="science"]::before {
+    icon-font: url('./assets/filled/science.svg');
 }
 
 .root[name="score"]::before {
@@ -3258,6 +3790,10 @@
     icon-font: url('./assets/filled/search.svg');
 }
 
+.root[name="search_off"]::before {
+    icon-font: url('./assets/filled/search_off.svg');
+}
+
 .root[name="security"]::before {
     icon-font: url('./assets/filled/security.svg');
 }
@@ -3266,8 +3802,20 @@
     icon-font: url('./assets/filled/select_all.svg');
 }
 
+.root[name="self_improvement"]::before {
+    icon-font: url('./assets/filled/self_improvement.svg');
+}
+
 .root[name="send"]::before {
     icon-font: url('./assets/filled/send.svg');
+}
+
+.root[name="sensor_door"]::before {
+    icon-font: url('./assets/filled/sensor_door.svg');
+}
+
+.root[name="sensor_window"]::before {
+    icon-font: url('./assets/filled/sensor_window.svg');
 }
 
 .root[name="sentiment_dissatisfied"]::before {
@@ -3374,6 +3922,10 @@
     icon-font: url('./assets/filled/shop_two.svg');
 }
 
+.root[name="shopping_bag"]::before {
+    icon-font: url('./assets/filled/shopping_bag.svg');
+}
+
 .root[name="shopping_basket"]::before {
     icon-font: url('./assets/filled/shopping_basket.svg');
 }
@@ -3458,6 +4010,10 @@
     icon-font: url('./assets/filled/slow_motion_video.svg');
 }
 
+.root[name="smart_button"]::before {
+    icon-font: url('./assets/filled/smart_button.svg');
+}
+
 .root[name="smartphone"]::before {
     icon-font: url('./assets/filled/smartphone.svg');
 }
@@ -3478,8 +4034,16 @@
     icon-font: url('./assets/filled/sms_failed.svg');
 }
 
+.root[name="snippet_folder"]::before {
+    icon-font: url('./assets/filled/snippet_folder.svg');
+}
+
 .root[name="snooze"]::before {
     icon-font: url('./assets/filled/snooze.svg');
+}
+
+.root[name="soap"]::before {
+    icon-font: url('./assets/filled/soap.svg');
 }
 
 .root[name="sort"]::before {
@@ -3488,6 +4052,10 @@
 
 .root[name="sort_by_alpha"]::before {
     icon-font: url('./assets/filled/sort_by_alpha.svg');
+}
+
+.root[name="source"]::before {
+    icon-font: url('./assets/filled/source.svg');
 }
 
 .root[name="spa"]::before {
@@ -3594,6 +4162,10 @@
     icon-font: url('./assets/filled/square_foot.svg');
 }
 
+.root[name="stairs"]::before {
+    icon-font: url('./assets/filled/stairs.svg');
+}
+
 .root[name="star"]::before {
     icon-font: url('./assets/filled/star.svg');
 }
@@ -3608,6 +4180,10 @@
 
 .root[name="star_outline"]::before {
     icon-font: url('./assets/filled/star_outline.svg');
+}
+
+.root[name="star_rate"]::before {
+    icon-font: url('./assets/filled/star_rate.svg');
 }
 
 .root[name="stars"]::before {
@@ -3632,6 +4208,10 @@
 
 .root[name="stop"]::before {
     icon-font: url('./assets/filled/stop.svg');
+}
+
+.root[name="stop_circle"]::before {
+    icon-font: url('./assets/filled/stop_circle.svg');
 }
 
 .root[name="stop_screen_share"]::before {
@@ -3666,6 +4246,10 @@
     icon-font: url('./assets/filled/strikethrough_s.svg');
 }
 
+.root[name="stroller"]::before {
+    icon-font: url('./assets/filled/stroller.svg');
+}
+
 .root[name="style"]::before {
     icon-font: url('./assets/filled/style.svg');
 }
@@ -3682,6 +4266,10 @@
     icon-font: url('./assets/filled/subject.svg');
 }
 
+.root[name="subscript"]::before {
+    icon-font: url('./assets/filled/subscript.svg');
+}
+
 .root[name="subscriptions"]::before {
     icon-font: url('./assets/filled/subscriptions.svg');
 }
@@ -3690,8 +4278,16 @@
     icon-font: url('./assets/filled/subtitles.svg');
 }
 
+.root[name="subtitles_off"]::before {
+    icon-font: url('./assets/filled/subtitles_off.svg');
+}
+
 .root[name="subway"]::before {
     icon-font: url('./assets/filled/subway.svg');
+}
+
+.root[name="superscript"]::before {
+    icon-font: url('./assets/filled/superscript.svg');
 }
 
 .root[name="supervised_user_circle"]::before {
@@ -3700,6 +4296,14 @@
 
 .root[name="supervisor_account"]::before {
     icon-font: url('./assets/filled/supervisor_account.svg');
+}
+
+.root[name="support"]::before {
+    icon-font: url('./assets/filled/support.svg');
+}
+
+.root[name="support_agent"]::before {
+    icon-font: url('./assets/filled/support_agent.svg');
 }
 
 .root[name="surround_sound"]::before {
@@ -3728,6 +4332,14 @@
 
 .root[name="switch_camera"]::before {
     icon-font: url('./assets/filled/switch_camera.svg');
+}
+
+.root[name="switch_left"]::before {
+    icon-font: url('./assets/filled/switch_left.svg');
+}
+
+.root[name="switch_right"]::before {
+    icon-font: url('./assets/filled/switch_right.svg');
 }
 
 .root[name="switch_video"]::before {
@@ -3768,6 +4380,14 @@
 
 .root[name="table_chart"]::before {
     icon-font: url('./assets/filled/table_chart.svg');
+}
+
+.root[name="table_rows"]::before {
+    icon-font: url('./assets/filled/table_rows.svg');
+}
+
+.root[name="table_view"]::before {
+    icon-font: url('./assets/filled/table_view.svg');
 }
 
 .root[name="tablet"]::before {
@@ -3824,6 +4444,10 @@
 
 .root[name="text_rotation_none"]::before {
     icon-font: url('./assets/filled/text_rotation_none.svg');
+}
+
+.root[name="text_snippet"]::before {
+    icon-font: url('./assets/filled/text_snippet.svg');
 }
 
 .root[name="textsms"]::before {
@@ -3914,8 +4538,16 @@
     icon-font: url('./assets/filled/tonality.svg');
 }
 
+.root[name="topic"]::before {
+    icon-font: url('./assets/filled/topic.svg');
+}
+
 .root[name="touch_app"]::before {
     icon-font: url('./assets/filled/touch_app.svg');
+}
+
+.root[name="tour"]::before {
+    icon-font: url('./assets/filled/tour.svg');
 }
 
 .root[name="toys"]::before {
@@ -3970,6 +4602,10 @@
     icon-font: url('./assets/filled/trip_origin.svg');
 }
 
+.root[name="tty"]::before {
+    icon-font: url('./assets/filled/tty.svg');
+}
+
 .root[name="tune"]::before {
     icon-font: url('./assets/filled/tune.svg');
 }
@@ -3992,6 +4628,10 @@
 
 .root[name="two_wheeler"]::before {
     icon-font: url('./assets/filled/two_wheeler.svg');
+}
+
+.root[name="umbrella"]::before {
+    icon-font: url('./assets/filled/umbrella.svg');
 }
 
 .root[name="unarchive"]::before {
@@ -4018,8 +4658,16 @@
     icon-font: url('./assets/filled/update.svg');
 }
 
+.root[name="upgrade"]::before {
+    icon-font: url('./assets/filled/upgrade.svg');
+}
+
 .root[name="usb"]::before {
     icon-font: url('./assets/filled/usb.svg');
+}
+
+.root[name="verified"]::before {
+    icon-font: url('./assets/filled/verified.svg');
 }
 
 .root[name="verified_user"]::before {
@@ -4056,6 +4704,10 @@
 
 .root[name="video_library"]::before {
     icon-font: url('./assets/filled/video_library.svg');
+}
+
+.root[name="video_settings"]::before {
+    icon-font: url('./assets/filled/video_settings.svg');
 }
 
 .root[name="videocam"]::before {
@@ -4112,6 +4764,10 @@
 
 .root[name="view_quilt"]::before {
     icon-font: url('./assets/filled/view_quilt.svg');
+}
+
+.root[name="view_sidebar"]::before {
+    icon-font: url('./assets/filled/view_sidebar.svg');
 }
 
 .root[name="view_stream"]::before {
@@ -4178,6 +4834,10 @@
     icon-font: url('./assets/filled/warning.svg');
 }
 
+.root[name="wash"]::before {
+    icon-font: url('./assets/filled/wash.svg');
+}
+
 .root[name="watch"]::before {
     icon-font: url('./assets/filled/watch.svg');
 }
@@ -4230,6 +4890,10 @@
     icon-font: url('./assets/filled/whatshot.svg');
 }
 
+.root[name="wheelchair_pickup"]::before {
+    icon-font: url('./assets/filled/wheelchair_pickup.svg');
+}
+
 .root[name="where_to_vote"]::before {
     icon-font: url('./assets/filled/where_to_vote.svg');
 }
@@ -4242,12 +4906,20 @@
     icon-font: url('./assets/filled/wifi.svg');
 }
 
+.root[name="wifi_calling"]::before {
+    icon-font: url('./assets/filled/wifi_calling.svg');
+}
+
 .root[name="wifi_lock"]::before {
     icon-font: url('./assets/filled/wifi_lock.svg');
 }
 
 .root[name="wifi_off"]::before {
     icon-font: url('./assets/filled/wifi_off.svg');
+}
+
+.root[name="wifi_protected_setup"]::before {
+    icon-font: url('./assets/filled/wifi_protected_setup.svg');
 }
 
 .root[name="wifi_tethering"]::before {
@@ -4268,6 +4940,14 @@
 
 .root[name="wrap_text"]::before {
     icon-font: url('./assets/filled/wrap_text.svg');
+}
+
+.root[name="wrong_location"]::before {
+    icon-font: url('./assets/filled/wrong_location.svg');
+}
+
+.root[name="wysiwyg"]::before {
+    icon-font: url('./assets/filled/wysiwyg.svg');
 }
 
 .root[name="youtube_searched_for"]::before {
@@ -4296,6 +4976,10 @@
 
 .root[name="4k"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/4k.svg');
+}
+
+.root[name="5g"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/5g.svg');
 }
 
 .root[name="ac_unit"][theme="outlined"]::before {
@@ -4350,6 +5034,10 @@
     icon-font: url('./assets/outlined/account_tree.svg');
 }
 
+.root[name="ad_units"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/ad_units.svg');
+}
+
 .root[name="adb"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/adb.svg');
 }
@@ -4374,6 +5062,10 @@
     icon-font: url('./assets/outlined/add_box.svg');
 }
 
+.root[name="add_business"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/add_business.svg');
+}
+
 .root[name="add_circle"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/add_circle.svg');
 }
@@ -4394,8 +5086,16 @@
     icon-font: url('./assets/outlined/add_location.svg');
 }
 
+.root[name="add_location_alt"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/add_location_alt.svg');
+}
+
 .root[name="add_photo_alternate"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/add_photo_alternate.svg');
+}
+
+.root[name="add_road"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/add_road.svg');
 }
 
 .root[name="add_shopping_cart"][theme="outlined"]::before {
@@ -4414,8 +5114,20 @@
     icon-font: url('./assets/outlined/add_to_queue.svg');
 }
 
+.root[name="addchart"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/addchart.svg');
+}
+
 .root[name="adjust"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/adjust.svg');
+}
+
+.root[name="admin_panel_settings"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/admin_panel_settings.svg');
+}
+
+.root[name="agriculture"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/agriculture.svg');
 }
 
 .root[name="airline_seat_flat"][theme="outlined"]::before {
@@ -4498,12 +5210,24 @@
     icon-font: url('./assets/outlined/all_out.svg');
 }
 
+.root[name="alt_route"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/alt_route.svg');
+}
+
 .root[name="alternate_email"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/alternate_email.svg');
 }
 
 .root[name="amp_stories"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/amp_stories.svg');
+}
+
+.root[name="analytics"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/analytics.svg');
+}
+
+.root[name="anchor"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/anchor.svg');
 }
 
 .root[name="android"][theme="outlined"]::before {
@@ -4518,8 +5242,24 @@
     icon-font: url('./assets/outlined/apartment.svg');
 }
 
+.root[name="api"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/api.svg');
+}
+
+.root[name="app_blocking"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/app_blocking.svg');
+}
+
+.root[name="app_settings_alt"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/app_settings_alt.svg');
+}
+
 .root[name="apps"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/apps.svg');
+}
+
+.root[name="architecture"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/architecture.svg');
 }
 
 .root[name="archive"][theme="outlined"]::before {
@@ -4532,6 +5272,14 @@
 
 .root[name="arrow_back_ios"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/arrow_back_ios.svg');
+}
+
+.root[name="arrow_circle_down"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/arrow_circle_down.svg');
+}
+
+.root[name="arrow_circle_up"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/arrow_circle_up.svg');
 }
 
 .root[name="arrow_downward"][theme="outlined"]::before {
@@ -4578,6 +5326,10 @@
     icon-font: url('./assets/outlined/art_track.svg');
 }
 
+.root[name="article"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/article.svg');
+}
+
 .root[name="aspect_ratio"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/aspect_ratio.svg');
 }
@@ -4622,6 +5374,10 @@
     icon-font: url('./assets/outlined/atm.svg');
 }
 
+.root[name="attach_email"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/attach_email.svg');
+}
+
 .root[name="attach_file"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/attach_file.svg');
 }
@@ -4638,12 +5394,24 @@
     icon-font: url('./assets/outlined/audiotrack.svg');
 }
 
+.root[name="auto_delete"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/auto_delete.svg');
+}
+
 .root[name="autorenew"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/autorenew.svg');
 }
 
 .root[name="av_timer"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/av_timer.svg');
+}
+
+.root[name="baby_changing_station"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/baby_changing_station.svg');
+}
+
+.root[name="backpack"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/backpack.svg');
 }
 
 .root[name="backspace"][theme="outlined"]::before {
@@ -4654,12 +5422,20 @@
     icon-font: url('./assets/outlined/backup.svg');
 }
 
+.root[name="backup_table"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/backup_table.svg');
+}
+
 .root[name="ballot"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/ballot.svg');
 }
 
 .root[name="bar_chart"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/bar_chart.svg');
+}
+
+.root[name="batch_prediction"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/batch_prediction.svg');
 }
 
 .root[name="bathtub"][theme="outlined"]::before {
@@ -4690,8 +5466,20 @@
     icon-font: url('./assets/outlined/beach_access.svg');
 }
 
+.root[name="bedtime"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/bedtime.svg');
+}
+
 .root[name="beenhere"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/beenhere.svg');
+}
+
+.root[name="bike_scooter"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/bike_scooter.svg');
+}
+
+.root[name="biotech"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/biotech.svg');
 }
 
 .root[name="block"][theme="outlined"]::before {
@@ -4846,6 +5634,10 @@
     icon-font: url('./assets/outlined/broken_image.svg');
 }
 
+.root[name="browser_not_supported"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/browser_not_supported.svg');
+}
+
 .root[name="brush"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/brush.svg');
 }
@@ -4860,6 +5652,10 @@
 
 .root[name="build"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/build.svg');
+}
+
+.root[name="build_circle"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/build_circle.svg');
 }
 
 .root[name="burst_mode"][theme="outlined"]::before {
@@ -4880,6 +5676,10 @@
 
 .root[name="cake"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/cake.svg');
+}
+
+.root[name="calculate"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/calculate.svg');
 }
 
 .root[name="calendar_today"][theme="outlined"]::before {
@@ -4950,6 +5750,10 @@
     icon-font: url('./assets/outlined/camera_roll.svg');
 }
 
+.root[name="campaign"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/campaign.svg');
+}
+
 .root[name="cancel"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/cancel.svg');
 }
@@ -4986,6 +5790,10 @@
     icon-font: url('./assets/outlined/cast_connected.svg');
 }
 
+.root[name="cast_for_education"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/cast_for_education.svg');
+}
+
 .root[name="category"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/category.svg');
 }
@@ -5000,6 +5808,10 @@
 
 .root[name="change_history"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/change_history.svg');
+}
+
+.root[name="charging_station"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/charging_station.svg');
 }
 
 .root[name="chat"][theme="outlined"]::before {
@@ -5034,6 +5846,10 @@
     icon-font: url('./assets/outlined/check_circle_outline.svg');
 }
 
+.root[name="checkroom"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/checkroom.svg');
+}
+
 .root[name="chevron_left"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/chevron_left.svg');
 }
@@ -5058,6 +5874,10 @@
     icon-font: url('./assets/outlined/class.svg');
 }
 
+.root[name="cleaning_services"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/cleaning_services.svg');
+}
+
 .root[name="clear"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/clear.svg');
 }
@@ -5068,6 +5888,10 @@
 
 .root[name="close"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/close.svg');
+}
+
+.root[name="close_fullscreen"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/close_fullscreen.svg');
 }
 
 .root[name="closed_caption"][theme="outlined"]::before {
@@ -5126,6 +5950,10 @@
     icon-font: url('./assets/outlined/comment.svg');
 }
 
+.root[name="comment_bank"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/comment_bank.svg');
+}
+
 .root[name="commute"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/commute.svg');
 }
@@ -5148,6 +5976,10 @@
 
 .root[name="confirmation_number"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/confirmation_number.svg');
+}
+
+.root[name="construction"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/construction.svg');
 }
 
 .root[name="contact_mail"][theme="outlined"]::before {
@@ -5184,6 +6016,10 @@
 
 .root[name="copyright"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/copyright.svg');
+}
+
+.root[name="corporate_fare"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/corporate_fare.svg');
 }
 
 .root[name="create"][theme="outlined"]::before {
@@ -5290,6 +6126,10 @@
     icon-font: url('./assets/outlined/description.svg');
 }
 
+.root[name="design_services"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/design_services.svg');
+}
+
 .root[name="desktop_access_disabled"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/desktop_access_disabled.svg');
 }
@@ -5358,6 +6198,10 @@
     icon-font: url('./assets/outlined/directions_car.svg');
 }
 
+.root[name="directions_off"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/directions_off.svg');
+}
+
 .root[name="directions_railway"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/directions_railway.svg');
 }
@@ -5386,6 +6230,14 @@
     icon-font: url('./assets/outlined/dns.svg');
 }
 
+.root[name="do_not_step"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/do_not_step.svg');
+}
+
+.root[name="do_not_touch"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/do_not_touch.svg');
+}
+
 .root[name="dock"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/dock.svg');
 }
@@ -5396,6 +6248,10 @@
 
 .root[name="domain_disabled"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/domain_disabled.svg');
+}
+
+.root[name="domain_verification"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/domain_verification.svg');
 }
 
 .root[name="done"][theme="outlined"]::before {
@@ -5438,6 +6294,10 @@
     icon-font: url('./assets/outlined/drive_eta.svg');
 }
 
+.root[name="dry"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/dry.svg');
+}
+
 .root[name="duo"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/duo.svg');
 }
@@ -5448,6 +6308,10 @@
 
 .root[name="dynamic_feed"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/dynamic_feed.svg');
+}
+
+.root[name="dynamic_form"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/dynamic_form.svg');
 }
 
 .root[name="eco"][theme="outlined"]::before {
@@ -5466,8 +6330,36 @@
     icon-font: url('./assets/outlined/edit_location.svg');
 }
 
+.root[name="edit_road"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/edit_road.svg');
+}
+
 .root[name="eject"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/eject.svg');
+}
+
+.root[name="electric_bike"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/electric_bike.svg');
+}
+
+.root[name="electric_car"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/electric_car.svg');
+}
+
+.root[name="electric_moped"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/electric_moped.svg');
+}
+
+.root[name="electric_scooter"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/electric_scooter.svg');
+}
+
+.root[name="electrical_services"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/electrical_services.svg');
+}
+
+.root[name="elevator"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/elevator.svg');
 }
 
 .root[name="email"][theme="outlined"]::before {
@@ -5510,6 +6402,10 @@
     icon-font: url('./assets/outlined/emoji_transportation.svg');
 }
 
+.root[name="engineering"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/engineering.svg');
+}
+
 .root[name="enhanced_encryption"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/enhanced_encryption.svg');
 }
@@ -5524,6 +6420,14 @@
 
 .root[name="error_outline"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/error_outline.svg');
+}
+
+.root[name="escalator"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/escalator.svg');
+}
+
+.root[name="escalator_warning"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/escalator_warning.svg');
 }
 
 .root[name="euro"][theme="outlined"]::before {
@@ -5612,6 +6516,14 @@
 
 .root[name="face"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/face.svg');
+}
+
+.root[name="fact_check"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/fact_check.svg');
+}
+
+.root[name="family_restroom"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/family_restroom.svg');
 }
 
 .root[name="fast_forward"][theme="outlined"]::before {
@@ -5714,6 +6626,10 @@
     icon-font: url('./assets/outlined/filter_9_plus.svg');
 }
 
+.root[name="filter_alt"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/filter_alt.svg');
+}
+
 .root[name="filter_b_and_w"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/filter_b_and_w.svg');
 }
@@ -5776,6 +6692,10 @@
 
 .root[name="flag"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/flag.svg');
+}
+
+.root[name="flaky"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/flaky.svg');
 }
 
 .root[name="flare"][theme="outlined"]::before {
@@ -5954,6 +6874,10 @@
     icon-font: url('./assets/outlined/forward_5.svg');
 }
 
+.root[name="forward_to_inbox"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/forward_to_inbox.svg');
+}
+
 .root[name="free_breakfast"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/free_breakfast.svg');
 }
@@ -6022,6 +6946,10 @@
     icon-font: url('./assets/outlined/gradient.svg');
 }
 
+.root[name="grading"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/grading.svg');
+}
+
 .root[name="grain"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/grain.svg');
 }
@@ -6048,6 +6976,10 @@
 
 .root[name="group_work"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/group_work.svg');
+}
+
+.root[name="handyman"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/handyman.svg');
 }
 
 .root[name="hd"][theme="outlined"]::before {
@@ -6086,12 +7018,20 @@
     icon-font: url('./assets/outlined/hearing.svg');
 }
 
+.root[name="hearing_disabled"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/hearing_disabled.svg');
+}
+
 .root[name="height"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/height.svg');
 }
 
 .root[name="help"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/help.svg');
+}
+
+.root[name="help_center"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/help_center.svg');
 }
 
 .root[name="help_outline"][theme="outlined"]::before {
@@ -6106,6 +7046,10 @@
     icon-font: url('./assets/outlined/highlight.svg');
 }
 
+.root[name="highlight_alt"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/highlight_alt.svg');
+}
+
 .root[name="highlight_off"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/highlight_off.svg');
 }
@@ -6114,12 +7058,28 @@
     icon-font: url('./assets/outlined/history.svg');
 }
 
+.root[name="history_edu"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/history_edu.svg');
+}
+
+.root[name="history_toggle_off"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/history_toggle_off.svg');
+}
+
 .root[name="home"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/home.svg');
 }
 
+.root[name="home_repair_service"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/home_repair_service.svg');
+}
+
 .root[name="home_work"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/home_work.svg');
+}
+
+.root[name="horizontal_rule"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/horizontal_rule.svg');
 }
 
 .root[name="horizontal_split"][theme="outlined"]::before {
@@ -6134,12 +7094,24 @@
     icon-font: url('./assets/outlined/hotel.svg');
 }
 
+.root[name="hourglass_bottom"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/hourglass_bottom.svg');
+}
+
+.root[name="hourglass_disabled"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/hourglass_disabled.svg');
+}
+
 .root[name="hourglass_empty"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/hourglass_empty.svg');
 }
 
 .root[name="hourglass_full"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/hourglass_full.svg');
+}
+
+.root[name="hourglass_top"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/hourglass_top.svg');
 }
 
 .root[name="house"][theme="outlined"]::before {
@@ -6162,12 +7134,20 @@
     icon-font: url('./assets/outlined/https.svg');
 }
 
+.root[name="hvac"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/hvac.svg');
+}
+
 .root[name="image"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/image.svg');
 }
 
 .root[name="image_aspect_ratio"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/image_aspect_ratio.svg');
+}
+
+.root[name="image_not_supported"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/image_not_supported.svg');
 }
 
 .root[name="image_search"][theme="outlined"]::before {
@@ -6232,6 +7212,14 @@
 
 .root[name="insert_photo"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/insert_photo.svg');
+}
+
+.root[name="insights"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/insights.svg');
+}
+
+.root[name="integration_instructions"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/integration_instructions.svg');
 }
 
 .root[name="invert_colors"][theme="outlined"]::before {
@@ -6356,6 +7344,10 @@
 
 .root[name="leak_remove"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/leak_remove.svg');
+}
+
+.root[name="legend_toggle"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/legend_toggle.svg');
 }
 
 .root[name="lens"][theme="outlined"]::before {
@@ -6562,6 +7554,10 @@
     icon-font: url('./assets/outlined/lock_open.svg');
 }
 
+.root[name="login"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/login.svg');
+}
+
 .root[name="looks"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/looks.svg');
 }
@@ -6618,6 +7614,26 @@
     icon-font: url('./assets/outlined/map.svg');
 }
 
+.root[name="maps_ugc"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/maps_ugc.svg');
+}
+
+.root[name="mark_chat_read"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/mark_chat_read.svg');
+}
+
+.root[name="mark_chat_unread"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/mark_chat_unread.svg');
+}
+
+.root[name="mark_email_read"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/mark_email_read.svg');
+}
+
+.root[name="mark_email_unread"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/mark_email_unread.svg');
+}
+
 .root[name="markunread"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/markunread.svg');
 }
@@ -6628,6 +7644,14 @@
 
 .root[name="maximize"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/maximize.svg');
+}
+
+.root[name="mediation"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/mediation.svg');
+}
+
+.root[name="medical_services"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/medical_services.svg');
 }
 
 .root[name="meeting_room"][theme="outlined"]::before {
@@ -6670,8 +7694,16 @@
     icon-font: url('./assets/outlined/mic_off.svg');
 }
 
+.root[name="military_tech"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/military_tech.svg');
+}
+
 .root[name="minimize"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/minimize.svg');
+}
+
+.root[name="miscellaneous_services"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/miscellaneous_services.svg');
 }
 
 .root[name="missed_video_call"][theme="outlined"]::before {
@@ -6698,6 +7730,10 @@
     icon-font: url('./assets/outlined/mode_comment.svg');
 }
 
+.root[name="model_training"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/model_training.svg');
+}
+
 .root[name="monetization_on"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/monetization_on.svg');
 }
@@ -6722,12 +7758,20 @@
     icon-font: url('./assets/outlined/mood_bad.svg');
 }
 
+.root[name="moped"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/moped.svg');
+}
+
 .root[name="more"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/more.svg');
 }
 
 .root[name="more_horiz"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/more_horiz.svg');
+}
+
+.root[name="more_time"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/more_time.svg');
 }
 
 .root[name="more_vert"][theme="outlined"]::before {
@@ -6758,6 +7802,10 @@
     icon-font: url('./assets/outlined/multiline_chart.svg');
 }
 
+.root[name="multiple_stop"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/multiple_stop.svg');
+}
+
 .root[name="museum"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/museum.svg');
 }
@@ -6776,6 +7824,10 @@
 
 .root[name="my_location"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/my_location.svg');
+}
+
+.root[name="nat"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/nat.svg');
 }
 
 .root[name="nature"][theme="outlined"]::before {
@@ -6814,6 +7866,10 @@
     icon-font: url('./assets/outlined/new_releases.svg');
 }
 
+.root[name="next_plan"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/next_plan.svg');
+}
+
 .root[name="next_week"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/next_week.svg');
 }
@@ -6826,16 +7882,44 @@
     icon-font: url('./assets/outlined/nights_stay.svg');
 }
 
+.root[name="no_cell"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_cell.svg');
+}
+
+.root[name="no_drinks"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_drinks.svg');
+}
+
 .root[name="no_encryption"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/no_encryption.svg');
+}
+
+.root[name="no_flash"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_flash.svg');
+}
+
+.root[name="no_food"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_food.svg');
 }
 
 .root[name="no_meeting_room"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/no_meeting_room.svg');
 }
 
+.root[name="no_photography"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_photography.svg');
+}
+
 .root[name="no_sim"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/no_sim.svg');
+}
+
+.root[name="no_stroller"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/no_stroller.svg');
+}
+
+.root[name="not_accessible"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/not_accessible.svg');
 }
 
 .root[name="not_interested"][theme="outlined"]::before {
@@ -6844,6 +7928,10 @@
 
 .root[name="not_listed_location"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/not_listed_location.svg');
+}
+
+.root[name="not_started"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/not_started.svg');
 }
 
 .root[name="note"][theme="outlined"]::before {
@@ -6894,12 +7982,20 @@
     icon-font: url('./assets/outlined/ondemand_video.svg');
 }
 
+.root[name="online_prediction"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/online_prediction.svg');
+}
+
 .root[name="opacity"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/opacity.svg');
 }
 
 .root[name="open_in_browser"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/open_in_browser.svg');
+}
+
+.root[name="open_in_full"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/open_in_full.svg');
 }
 
 .root[name="open_in_new"][theme="outlined"]::before {
@@ -6912,6 +8008,10 @@
 
 .root[name="outdoor_grill"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/outdoor_grill.svg');
+}
+
+.root[name="outlet"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/outlet.svg');
 }
 
 .root[name="outlined_flag"][theme="outlined"]::before {
@@ -6978,6 +8078,22 @@
     icon-font: url('./assets/outlined/payment.svg');
 }
 
+.root[name="payments"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/payments.svg');
+}
+
+.root[name="pedal_bike"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/pedal_bike.svg');
+}
+
+.root[name="pending"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/pending.svg');
+}
+
+.root[name="pending_actions"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/pending_actions.svg');
+}
+
 .root[name="people"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/people.svg');
 }
@@ -7030,6 +8146,10 @@
     icon-font: url('./assets/outlined/person_add.svg');
 }
 
+.root[name="person_add_alt_1"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/person_add_alt_1.svg');
+}
+
 .root[name="person_add_disabled"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/person_add_disabled.svg');
 }
@@ -7046,8 +8166,28 @@
     icon-font: url('./assets/outlined/person_pin_circle.svg');
 }
 
+.root[name="person_remove"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/person_remove.svg');
+}
+
+.root[name="person_remove_alt_1"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/person_remove_alt_1.svg');
+}
+
+.root[name="person_search"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/person_search.svg');
+}
+
 .root[name="personal_video"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/personal_video.svg');
+}
+
+.root[name="pest_control"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/pest_control.svg');
+}
+
+.root[name="pest_control_rodent"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/pest_control_rodent.svg');
 }
 
 .root[name="pets"][theme="outlined"]::before {
@@ -7182,6 +8322,10 @@
     icon-font: url('./assets/outlined/place.svg');
 }
 
+.root[name="plagiarism"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/plagiarism.svg');
+}
+
 .root[name="play_arrow"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/play_arrow.svg');
 }
@@ -7210,8 +8354,16 @@
     icon-font: url('./assets/outlined/playlist_play.svg');
 }
 
+.root[name="plumbing"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/plumbing.svg');
+}
+
 .root[name="plus_one"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/plus_one.svg');
+}
+
+.root[name="point_of_sale"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/point_of_sale.svg');
 }
 
 .root[name="policy"][theme="outlined"]::before {
@@ -7266,6 +8418,10 @@
     icon-font: url('./assets/outlined/present_to_all.svg');
 }
 
+.root[name="preview"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/preview.svg');
+}
+
 .root[name="print"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/print.svg');
 }
@@ -7278,12 +8434,32 @@
     icon-font: url('./assets/outlined/priority_high.svg');
 }
 
+.root[name="privacy_tip"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/privacy_tip.svg');
+}
+
+.root[name="psychology"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/psychology.svg');
+}
+
 .root[name="public"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/public.svg');
 }
 
+.root[name="public_off"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/public_off.svg');
+}
+
 .root[name="publish"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/publish.svg');
+}
+
+.root[name="push_pin"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/push_pin.svg');
+}
+
+.root[name="qr_code"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/qr_code.svg');
 }
 
 .root[name="query_builder"][theme="outlined"]::before {
@@ -7306,6 +8482,10 @@
     icon-font: url('./assets/outlined/queue_play_next.svg');
 }
 
+.root[name="quickreply"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/quickreply.svg');
+}
+
 .root[name="radio"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/radio.svg');
 }
@@ -7322,8 +8502,16 @@
     icon-font: url('./assets/outlined/rate_review.svg');
 }
 
+.root[name="read_more"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/read_more.svg');
+}
+
 .root[name="receipt"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/receipt.svg');
+}
+
+.root[name="receipt_long"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/receipt_long.svg');
 }
 
 .root[name="recent_actors"][theme="outlined"]::before {
@@ -7418,6 +8606,10 @@
     icon-font: url('./assets/outlined/report_problem.svg');
 }
 
+.root[name="request_quote"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/request_quote.svg');
+}
+
 .root[name="restaurant"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/restaurant.svg');
 }
@@ -7444,6 +8636,10 @@
 
 .root[name="room"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/room.svg');
+}
+
+.root[name="room_preferences"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/room_preferences.svg');
 }
 
 .root[name="room_service"][theme="outlined"]::before {
@@ -7478,6 +8674,18 @@
     icon-font: url('./assets/outlined/rss_feed.svg');
 }
 
+.root[name="rule"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/rule.svg');
+}
+
+.root[name="rule_folder"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/rule_folder.svg');
+}
+
+.root[name="run_circle"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/run_circle.svg');
+}
+
 .root[name="rv_hookup"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/rv_hookup.svg');
 }
@@ -7508,6 +8716,10 @@
 
 .root[name="school"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/school.svg');
+}
+
+.root[name="science"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/science.svg');
 }
 
 .root[name="score"][theme="outlined"]::before {
@@ -7546,6 +8758,10 @@
     icon-font: url('./assets/outlined/search.svg');
 }
 
+.root[name="search_off"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/search_off.svg');
+}
+
 .root[name="security"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/security.svg');
 }
@@ -7554,8 +8770,20 @@
     icon-font: url('./assets/outlined/select_all.svg');
 }
 
+.root[name="self_improvement"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/self_improvement.svg');
+}
+
 .root[name="send"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/send.svg');
+}
+
+.root[name="sensor_door"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/sensor_door.svg');
+}
+
+.root[name="sensor_window"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/sensor_window.svg');
 }
 
 .root[name="sentiment_dissatisfied"][theme="outlined"]::before {
@@ -7662,6 +8890,10 @@
     icon-font: url('./assets/outlined/shop_two.svg');
 }
 
+.root[name="shopping_bag"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/shopping_bag.svg');
+}
+
 .root[name="shopping_basket"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/shopping_basket.svg');
 }
@@ -7746,6 +8978,10 @@
     icon-font: url('./assets/outlined/slow_motion_video.svg');
 }
 
+.root[name="smart_button"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/smart_button.svg');
+}
+
 .root[name="smartphone"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/smartphone.svg');
 }
@@ -7766,8 +9002,16 @@
     icon-font: url('./assets/outlined/sms_failed.svg');
 }
 
+.root[name="snippet_folder"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/snippet_folder.svg');
+}
+
 .root[name="snooze"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/snooze.svg');
+}
+
+.root[name="soap"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/soap.svg');
 }
 
 .root[name="sort"][theme="outlined"]::before {
@@ -7776,6 +9020,10 @@
 
 .root[name="sort_by_alpha"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/sort_by_alpha.svg');
+}
+
+.root[name="source"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/source.svg');
 }
 
 .root[name="spa"][theme="outlined"]::before {
@@ -7882,6 +9130,10 @@
     icon-font: url('./assets/outlined/square_foot.svg');
 }
 
+.root[name="stairs"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/stairs.svg');
+}
+
 .root[name="star"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/star.svg');
 }
@@ -7896,6 +9148,10 @@
 
 .root[name="star_outline"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/star_outline.svg');
+}
+
+.root[name="star_rate"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/star_rate.svg');
 }
 
 .root[name="stars"][theme="outlined"]::before {
@@ -7920,6 +9176,10 @@
 
 .root[name="stop"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/stop.svg');
+}
+
+.root[name="stop_circle"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/stop_circle.svg');
 }
 
 .root[name="stop_screen_share"][theme="outlined"]::before {
@@ -7954,6 +9214,10 @@
     icon-font: url('./assets/outlined/strikethrough_s.svg');
 }
 
+.root[name="stroller"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/stroller.svg');
+}
+
 .root[name="style"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/style.svg');
 }
@@ -7970,6 +9234,10 @@
     icon-font: url('./assets/outlined/subject.svg');
 }
 
+.root[name="subscript"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/subscript.svg');
+}
+
 .root[name="subscriptions"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/subscriptions.svg');
 }
@@ -7978,8 +9246,16 @@
     icon-font: url('./assets/outlined/subtitles.svg');
 }
 
+.root[name="subtitles_off"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/subtitles_off.svg');
+}
+
 .root[name="subway"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/subway.svg');
+}
+
+.root[name="superscript"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/superscript.svg');
 }
 
 .root[name="supervised_user_circle"][theme="outlined"]::before {
@@ -7988,6 +9264,14 @@
 
 .root[name="supervisor_account"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/supervisor_account.svg');
+}
+
+.root[name="support"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/support.svg');
+}
+
+.root[name="support_agent"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/support_agent.svg');
 }
 
 .root[name="surround_sound"][theme="outlined"]::before {
@@ -8016,6 +9300,14 @@
 
 .root[name="switch_camera"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/switch_camera.svg');
+}
+
+.root[name="switch_left"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/switch_left.svg');
+}
+
+.root[name="switch_right"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/switch_right.svg');
 }
 
 .root[name="switch_video"][theme="outlined"]::before {
@@ -8056,6 +9348,14 @@
 
 .root[name="table_chart"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/table_chart.svg');
+}
+
+.root[name="table_rows"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/table_rows.svg');
+}
+
+.root[name="table_view"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/table_view.svg');
 }
 
 .root[name="tablet"][theme="outlined"]::before {
@@ -8112,6 +9412,10 @@
 
 .root[name="text_rotation_none"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/text_rotation_none.svg');
+}
+
+.root[name="text_snippet"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/text_snippet.svg');
 }
 
 .root[name="textsms"][theme="outlined"]::before {
@@ -8202,8 +9506,16 @@
     icon-font: url('./assets/outlined/tonality.svg');
 }
 
+.root[name="topic"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/topic.svg');
+}
+
 .root[name="touch_app"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/touch_app.svg');
+}
+
+.root[name="tour"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/tour.svg');
 }
 
 .root[name="toys"][theme="outlined"]::before {
@@ -8258,6 +9570,10 @@
     icon-font: url('./assets/outlined/trip_origin.svg');
 }
 
+.root[name="tty"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/tty.svg');
+}
+
 .root[name="tune"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/tune.svg');
 }
@@ -8280,6 +9596,10 @@
 
 .root[name="two_wheeler"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/two_wheeler.svg');
+}
+
+.root[name="umbrella"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/umbrella.svg');
 }
 
 .root[name="unarchive"][theme="outlined"]::before {
@@ -8306,8 +9626,16 @@
     icon-font: url('./assets/outlined/update.svg');
 }
 
+.root[name="upgrade"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/upgrade.svg');
+}
+
 .root[name="usb"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/usb.svg');
+}
+
+.root[name="verified"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/verified.svg');
 }
 
 .root[name="verified_user"][theme="outlined"]::before {
@@ -8344,6 +9672,10 @@
 
 .root[name="video_library"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/video_library.svg');
+}
+
+.root[name="video_settings"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/video_settings.svg');
 }
 
 .root[name="videocam"][theme="outlined"]::before {
@@ -8400,6 +9732,10 @@
 
 .root[name="view_quilt"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/view_quilt.svg');
+}
+
+.root[name="view_sidebar"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/view_sidebar.svg');
 }
 
 .root[name="view_stream"][theme="outlined"]::before {
@@ -8466,6 +9802,10 @@
     icon-font: url('./assets/outlined/warning.svg');
 }
 
+.root[name="wash"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wash.svg');
+}
+
 .root[name="watch"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/watch.svg');
 }
@@ -8518,6 +9858,10 @@
     icon-font: url('./assets/outlined/whatshot.svg');
 }
 
+.root[name="wheelchair_pickup"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wheelchair_pickup.svg');
+}
+
 .root[name="where_to_vote"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/where_to_vote.svg');
 }
@@ -8530,12 +9874,20 @@
     icon-font: url('./assets/outlined/wifi.svg');
 }
 
+.root[name="wifi_calling"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wifi_calling.svg');
+}
+
 .root[name="wifi_lock"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/wifi_lock.svg');
 }
 
 .root[name="wifi_off"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/wifi_off.svg');
+}
+
+.root[name="wifi_protected_setup"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wifi_protected_setup.svg');
 }
 
 .root[name="wifi_tethering"][theme="outlined"]::before {
@@ -8556,6 +9908,14 @@
 
 .root[name="wrap_text"][theme="outlined"]::before {
     icon-font: url('./assets/outlined/wrap_text.svg');
+}
+
+.root[name="wrong_location"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wrong_location.svg');
+}
+
+.root[name="wysiwyg"][theme="outlined"]::before {
+    icon-font: url('./assets/outlined/wysiwyg.svg');
 }
 
 .root[name="youtube_searched_for"][theme="outlined"]::before {
@@ -8584,6 +9944,10 @@
 
 .root[name="4k"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/4k.svg');
+}
+
+.root[name="5g"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/5g.svg');
 }
 
 .root[name="ac_unit"][theme="rounded"]::before {
@@ -8638,6 +10002,10 @@
     icon-font: url('./assets/rounded/account_tree.svg');
 }
 
+.root[name="ad_units"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/ad_units.svg');
+}
+
 .root[name="adb"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/adb.svg');
 }
@@ -8662,6 +10030,10 @@
     icon-font: url('./assets/rounded/add_box.svg');
 }
 
+.root[name="add_business"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/add_business.svg');
+}
+
 .root[name="add_circle"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/add_circle.svg');
 }
@@ -8682,8 +10054,16 @@
     icon-font: url('./assets/rounded/add_location.svg');
 }
 
+.root[name="add_location_alt"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/add_location_alt.svg');
+}
+
 .root[name="add_photo_alternate"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/add_photo_alternate.svg');
+}
+
+.root[name="add_road"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/add_road.svg');
 }
 
 .root[name="add_shopping_cart"][theme="rounded"]::before {
@@ -8702,8 +10082,20 @@
     icon-font: url('./assets/rounded/add_to_queue.svg');
 }
 
+.root[name="addchart"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/addchart.svg');
+}
+
 .root[name="adjust"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/adjust.svg');
+}
+
+.root[name="admin_panel_settings"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/admin_panel_settings.svg');
+}
+
+.root[name="agriculture"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/agriculture.svg');
 }
 
 .root[name="airline_seat_flat"][theme="rounded"]::before {
@@ -8786,12 +10178,24 @@
     icon-font: url('./assets/rounded/all_out.svg');
 }
 
+.root[name="alt_route"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/alt_route.svg');
+}
+
 .root[name="alternate_email"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/alternate_email.svg');
 }
 
 .root[name="amp_stories"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/amp_stories.svg');
+}
+
+.root[name="analytics"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/analytics.svg');
+}
+
+.root[name="anchor"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/anchor.svg');
 }
 
 .root[name="android"][theme="rounded"]::before {
@@ -8806,8 +10210,24 @@
     icon-font: url('./assets/rounded/apartment.svg');
 }
 
+.root[name="api"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/api.svg');
+}
+
+.root[name="app_blocking"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/app_blocking.svg');
+}
+
+.root[name="app_settings_alt"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/app_settings_alt.svg');
+}
+
 .root[name="apps"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/apps.svg');
+}
+
+.root[name="architecture"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/architecture.svg');
 }
 
 .root[name="archive"][theme="rounded"]::before {
@@ -8820,6 +10240,14 @@
 
 .root[name="arrow_back_ios"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/arrow_back_ios.svg');
+}
+
+.root[name="arrow_circle_down"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/arrow_circle_down.svg');
+}
+
+.root[name="arrow_circle_up"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/arrow_circle_up.svg');
 }
 
 .root[name="arrow_downward"][theme="rounded"]::before {
@@ -8866,6 +10294,10 @@
     icon-font: url('./assets/rounded/art_track.svg');
 }
 
+.root[name="article"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/article.svg');
+}
+
 .root[name="aspect_ratio"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/aspect_ratio.svg');
 }
@@ -8910,6 +10342,10 @@
     icon-font: url('./assets/rounded/atm.svg');
 }
 
+.root[name="attach_email"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/attach_email.svg');
+}
+
 .root[name="attach_file"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/attach_file.svg');
 }
@@ -8926,12 +10362,24 @@
     icon-font: url('./assets/rounded/audiotrack.svg');
 }
 
+.root[name="auto_delete"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/auto_delete.svg');
+}
+
 .root[name="autorenew"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/autorenew.svg');
 }
 
 .root[name="av_timer"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/av_timer.svg');
+}
+
+.root[name="baby_changing_station"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/baby_changing_station.svg');
+}
+
+.root[name="backpack"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/backpack.svg');
 }
 
 .root[name="backspace"][theme="rounded"]::before {
@@ -8942,12 +10390,20 @@
     icon-font: url('./assets/rounded/backup.svg');
 }
 
+.root[name="backup_table"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/backup_table.svg');
+}
+
 .root[name="ballot"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/ballot.svg');
 }
 
 .root[name="bar_chart"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/bar_chart.svg');
+}
+
+.root[name="batch_prediction"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/batch_prediction.svg');
 }
 
 .root[name="bathtub"][theme="rounded"]::before {
@@ -8978,8 +10434,20 @@
     icon-font: url('./assets/rounded/beach_access.svg');
 }
 
+.root[name="bedtime"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/bedtime.svg');
+}
+
 .root[name="beenhere"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/beenhere.svg');
+}
+
+.root[name="bike_scooter"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/bike_scooter.svg');
+}
+
+.root[name="biotech"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/biotech.svg');
 }
 
 .root[name="block"][theme="rounded"]::before {
@@ -9134,6 +10602,10 @@
     icon-font: url('./assets/rounded/broken_image.svg');
 }
 
+.root[name="browser_not_supported"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/browser_not_supported.svg');
+}
+
 .root[name="brush"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/brush.svg');
 }
@@ -9148,6 +10620,10 @@
 
 .root[name="build"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/build.svg');
+}
+
+.root[name="build_circle"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/build_circle.svg');
 }
 
 .root[name="burst_mode"][theme="rounded"]::before {
@@ -9168,6 +10644,10 @@
 
 .root[name="cake"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/cake.svg');
+}
+
+.root[name="calculate"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/calculate.svg');
 }
 
 .root[name="calendar_today"][theme="rounded"]::before {
@@ -9238,6 +10718,10 @@
     icon-font: url('./assets/rounded/camera_roll.svg');
 }
 
+.root[name="campaign"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/campaign.svg');
+}
+
 .root[name="cancel"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/cancel.svg');
 }
@@ -9274,6 +10758,10 @@
     icon-font: url('./assets/rounded/cast_connected.svg');
 }
 
+.root[name="cast_for_education"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/cast_for_education.svg');
+}
+
 .root[name="category"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/category.svg');
 }
@@ -9288,6 +10776,10 @@
 
 .root[name="change_history"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/change_history.svg');
+}
+
+.root[name="charging_station"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/charging_station.svg');
 }
 
 .root[name="chat"][theme="rounded"]::before {
@@ -9322,6 +10814,10 @@
     icon-font: url('./assets/rounded/check_circle_outline.svg');
 }
 
+.root[name="checkroom"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/checkroom.svg');
+}
+
 .root[name="chevron_left"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/chevron_left.svg');
 }
@@ -9346,6 +10842,10 @@
     icon-font: url('./assets/rounded/class.svg');
 }
 
+.root[name="cleaning_services"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/cleaning_services.svg');
+}
+
 .root[name="clear"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/clear.svg');
 }
@@ -9356,6 +10856,10 @@
 
 .root[name="close"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/close.svg');
+}
+
+.root[name="close_fullscreen"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/close_fullscreen.svg');
 }
 
 .root[name="closed_caption"][theme="rounded"]::before {
@@ -9414,6 +10918,10 @@
     icon-font: url('./assets/rounded/comment.svg');
 }
 
+.root[name="comment_bank"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/comment_bank.svg');
+}
+
 .root[name="commute"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/commute.svg');
 }
@@ -9436,6 +10944,10 @@
 
 .root[name="confirmation_number"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/confirmation_number.svg');
+}
+
+.root[name="construction"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/construction.svg');
 }
 
 .root[name="contact_mail"][theme="rounded"]::before {
@@ -9472,6 +10984,10 @@
 
 .root[name="copyright"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/copyright.svg');
+}
+
+.root[name="corporate_fare"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/corporate_fare.svg');
 }
 
 .root[name="create"][theme="rounded"]::before {
@@ -9578,6 +11094,10 @@
     icon-font: url('./assets/rounded/description.svg');
 }
 
+.root[name="design_services"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/design_services.svg');
+}
+
 .root[name="desktop_access_disabled"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/desktop_access_disabled.svg');
 }
@@ -9646,6 +11166,10 @@
     icon-font: url('./assets/rounded/directions_car.svg');
 }
 
+.root[name="directions_off"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/directions_off.svg');
+}
+
 .root[name="directions_railway"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/directions_railway.svg');
 }
@@ -9674,6 +11198,14 @@
     icon-font: url('./assets/rounded/dns.svg');
 }
 
+.root[name="do_not_step"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/do_not_step.svg');
+}
+
+.root[name="do_not_touch"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/do_not_touch.svg');
+}
+
 .root[name="dock"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/dock.svg');
 }
@@ -9684,6 +11216,10 @@
 
 .root[name="domain_disabled"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/domain_disabled.svg');
+}
+
+.root[name="domain_verification"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/domain_verification.svg');
 }
 
 .root[name="done"][theme="rounded"]::before {
@@ -9726,6 +11262,10 @@
     icon-font: url('./assets/rounded/drive_eta.svg');
 }
 
+.root[name="dry"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/dry.svg');
+}
+
 .root[name="duo"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/duo.svg');
 }
@@ -9736,6 +11276,10 @@
 
 .root[name="dynamic_feed"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/dynamic_feed.svg');
+}
+
+.root[name="dynamic_form"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/dynamic_form.svg');
 }
 
 .root[name="eco"][theme="rounded"]::before {
@@ -9754,8 +11298,36 @@
     icon-font: url('./assets/rounded/edit_location.svg');
 }
 
+.root[name="edit_road"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/edit_road.svg');
+}
+
 .root[name="eject"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/eject.svg');
+}
+
+.root[name="electric_bike"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/electric_bike.svg');
+}
+
+.root[name="electric_car"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/electric_car.svg');
+}
+
+.root[name="electric_moped"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/electric_moped.svg');
+}
+
+.root[name="electric_scooter"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/electric_scooter.svg');
+}
+
+.root[name="electrical_services"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/electrical_services.svg');
+}
+
+.root[name="elevator"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/elevator.svg');
 }
 
 .root[name="email"][theme="rounded"]::before {
@@ -9798,6 +11370,10 @@
     icon-font: url('./assets/rounded/emoji_transportation.svg');
 }
 
+.root[name="engineering"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/engineering.svg');
+}
+
 .root[name="enhanced_encryption"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/enhanced_encryption.svg');
 }
@@ -9812,6 +11388,14 @@
 
 .root[name="error_outline"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/error_outline.svg');
+}
+
+.root[name="escalator"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/escalator.svg');
+}
+
+.root[name="escalator_warning"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/escalator_warning.svg');
 }
 
 .root[name="euro"][theme="rounded"]::before {
@@ -9900,6 +11484,14 @@
 
 .root[name="face"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/face.svg');
+}
+
+.root[name="fact_check"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/fact_check.svg');
+}
+
+.root[name="family_restroom"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/family_restroom.svg');
 }
 
 .root[name="fast_forward"][theme="rounded"]::before {
@@ -10002,6 +11594,10 @@
     icon-font: url('./assets/rounded/filter_9_plus.svg');
 }
 
+.root[name="filter_alt"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/filter_alt.svg');
+}
+
 .root[name="filter_b_and_w"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/filter_b_and_w.svg');
 }
@@ -10064,6 +11660,10 @@
 
 .root[name="flag"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/flag.svg');
+}
+
+.root[name="flaky"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/flaky.svg');
 }
 
 .root[name="flare"][theme="rounded"]::before {
@@ -10242,6 +11842,10 @@
     icon-font: url('./assets/rounded/forward_5.svg');
 }
 
+.root[name="forward_to_inbox"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/forward_to_inbox.svg');
+}
+
 .root[name="free_breakfast"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/free_breakfast.svg');
 }
@@ -10310,6 +11914,10 @@
     icon-font: url('./assets/rounded/gradient.svg');
 }
 
+.root[name="grading"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/grading.svg');
+}
+
 .root[name="grain"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/grain.svg');
 }
@@ -10336,6 +11944,10 @@
 
 .root[name="group_work"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/group_work.svg');
+}
+
+.root[name="handyman"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/handyman.svg');
 }
 
 .root[name="hd"][theme="rounded"]::before {
@@ -10374,12 +11986,20 @@
     icon-font: url('./assets/rounded/hearing.svg');
 }
 
+.root[name="hearing_disabled"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/hearing_disabled.svg');
+}
+
 .root[name="height"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/height.svg');
 }
 
 .root[name="help"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/help.svg');
+}
+
+.root[name="help_center"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/help_center.svg');
 }
 
 .root[name="help_outline"][theme="rounded"]::before {
@@ -10394,6 +12014,10 @@
     icon-font: url('./assets/rounded/highlight.svg');
 }
 
+.root[name="highlight_alt"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/highlight_alt.svg');
+}
+
 .root[name="highlight_off"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/highlight_off.svg');
 }
@@ -10402,12 +12026,28 @@
     icon-font: url('./assets/rounded/history.svg');
 }
 
+.root[name="history_edu"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/history_edu.svg');
+}
+
+.root[name="history_toggle_off"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/history_toggle_off.svg');
+}
+
 .root[name="home"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/home.svg');
 }
 
+.root[name="home_repair_service"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/home_repair_service.svg');
+}
+
 .root[name="home_work"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/home_work.svg');
+}
+
+.root[name="horizontal_rule"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/horizontal_rule.svg');
 }
 
 .root[name="horizontal_split"][theme="rounded"]::before {
@@ -10422,12 +12062,24 @@
     icon-font: url('./assets/rounded/hotel.svg');
 }
 
+.root[name="hourglass_bottom"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/hourglass_bottom.svg');
+}
+
+.root[name="hourglass_disabled"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/hourglass_disabled.svg');
+}
+
 .root[name="hourglass_empty"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/hourglass_empty.svg');
 }
 
 .root[name="hourglass_full"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/hourglass_full.svg');
+}
+
+.root[name="hourglass_top"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/hourglass_top.svg');
 }
 
 .root[name="house"][theme="rounded"]::before {
@@ -10450,12 +12102,20 @@
     icon-font: url('./assets/rounded/https.svg');
 }
 
+.root[name="hvac"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/hvac.svg');
+}
+
 .root[name="image"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/image.svg');
 }
 
 .root[name="image_aspect_ratio"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/image_aspect_ratio.svg');
+}
+
+.root[name="image_not_supported"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/image_not_supported.svg');
 }
 
 .root[name="image_search"][theme="rounded"]::before {
@@ -10520,6 +12180,14 @@
 
 .root[name="insert_photo"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/insert_photo.svg');
+}
+
+.root[name="insights"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/insights.svg');
+}
+
+.root[name="integration_instructions"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/integration_instructions.svg');
 }
 
 .root[name="invert_colors"][theme="rounded"]::before {
@@ -10644,6 +12312,10 @@
 
 .root[name="leak_remove"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/leak_remove.svg');
+}
+
+.root[name="legend_toggle"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/legend_toggle.svg');
 }
 
 .root[name="lens"][theme="rounded"]::before {
@@ -10850,6 +12522,10 @@
     icon-font: url('./assets/rounded/lock_open.svg');
 }
 
+.root[name="login"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/login.svg');
+}
+
 .root[name="looks"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/looks.svg');
 }
@@ -10906,6 +12582,26 @@
     icon-font: url('./assets/rounded/map.svg');
 }
 
+.root[name="maps_ugc"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/maps_ugc.svg');
+}
+
+.root[name="mark_chat_read"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/mark_chat_read.svg');
+}
+
+.root[name="mark_chat_unread"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/mark_chat_unread.svg');
+}
+
+.root[name="mark_email_read"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/mark_email_read.svg');
+}
+
+.root[name="mark_email_unread"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/mark_email_unread.svg');
+}
+
 .root[name="markunread"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/markunread.svg');
 }
@@ -10916,6 +12612,14 @@
 
 .root[name="maximize"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/maximize.svg');
+}
+
+.root[name="mediation"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/mediation.svg');
+}
+
+.root[name="medical_services"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/medical_services.svg');
 }
 
 .root[name="meeting_room"][theme="rounded"]::before {
@@ -10958,8 +12662,16 @@
     icon-font: url('./assets/rounded/mic_off.svg');
 }
 
+.root[name="military_tech"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/military_tech.svg');
+}
+
 .root[name="minimize"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/minimize.svg');
+}
+
+.root[name="miscellaneous_services"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/miscellaneous_services.svg');
 }
 
 .root[name="missed_video_call"][theme="rounded"]::before {
@@ -10986,6 +12698,10 @@
     icon-font: url('./assets/rounded/mode_comment.svg');
 }
 
+.root[name="model_training"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/model_training.svg');
+}
+
 .root[name="monetization_on"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/monetization_on.svg');
 }
@@ -11010,12 +12726,20 @@
     icon-font: url('./assets/rounded/mood_bad.svg');
 }
 
+.root[name="moped"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/moped.svg');
+}
+
 .root[name="more"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/more.svg');
 }
 
 .root[name="more_horiz"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/more_horiz.svg');
+}
+
+.root[name="more_time"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/more_time.svg');
 }
 
 .root[name="more_vert"][theme="rounded"]::before {
@@ -11046,6 +12770,10 @@
     icon-font: url('./assets/rounded/multiline_chart.svg');
 }
 
+.root[name="multiple_stop"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/multiple_stop.svg');
+}
+
 .root[name="museum"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/museum.svg');
 }
@@ -11064,6 +12792,10 @@
 
 .root[name="my_location"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/my_location.svg');
+}
+
+.root[name="nat"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/nat.svg');
 }
 
 .root[name="nature"][theme="rounded"]::before {
@@ -11102,6 +12834,10 @@
     icon-font: url('./assets/rounded/new_releases.svg');
 }
 
+.root[name="next_plan"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/next_plan.svg');
+}
+
 .root[name="next_week"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/next_week.svg');
 }
@@ -11114,16 +12850,44 @@
     icon-font: url('./assets/rounded/nights_stay.svg');
 }
 
+.root[name="no_cell"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_cell.svg');
+}
+
+.root[name="no_drinks"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_drinks.svg');
+}
+
 .root[name="no_encryption"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/no_encryption.svg');
+}
+
+.root[name="no_flash"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_flash.svg');
+}
+
+.root[name="no_food"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_food.svg');
 }
 
 .root[name="no_meeting_room"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/no_meeting_room.svg');
 }
 
+.root[name="no_photography"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_photography.svg');
+}
+
 .root[name="no_sim"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/no_sim.svg');
+}
+
+.root[name="no_stroller"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/no_stroller.svg');
+}
+
+.root[name="not_accessible"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/not_accessible.svg');
 }
 
 .root[name="not_interested"][theme="rounded"]::before {
@@ -11132,6 +12896,10 @@
 
 .root[name="not_listed_location"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/not_listed_location.svg');
+}
+
+.root[name="not_started"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/not_started.svg');
 }
 
 .root[name="note"][theme="rounded"]::before {
@@ -11182,12 +12950,20 @@
     icon-font: url('./assets/rounded/ondemand_video.svg');
 }
 
+.root[name="online_prediction"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/online_prediction.svg');
+}
+
 .root[name="opacity"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/opacity.svg');
 }
 
 .root[name="open_in_browser"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/open_in_browser.svg');
+}
+
+.root[name="open_in_full"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/open_in_full.svg');
 }
 
 .root[name="open_in_new"][theme="rounded"]::before {
@@ -11200,6 +12976,10 @@
 
 .root[name="outdoor_grill"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/outdoor_grill.svg');
+}
+
+.root[name="outlet"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/outlet.svg');
 }
 
 .root[name="outlined_flag"][theme="rounded"]::before {
@@ -11266,6 +13046,22 @@
     icon-font: url('./assets/rounded/payment.svg');
 }
 
+.root[name="payments"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/payments.svg');
+}
+
+.root[name="pedal_bike"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/pedal_bike.svg');
+}
+
+.root[name="pending"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/pending.svg');
+}
+
+.root[name="pending_actions"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/pending_actions.svg');
+}
+
 .root[name="people"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/people.svg');
 }
@@ -11318,6 +13114,10 @@
     icon-font: url('./assets/rounded/person_add.svg');
 }
 
+.root[name="person_add_alt_1"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/person_add_alt_1.svg');
+}
+
 .root[name="person_add_disabled"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/person_add_disabled.svg');
 }
@@ -11334,8 +13134,28 @@
     icon-font: url('./assets/rounded/person_pin_circle.svg');
 }
 
+.root[name="person_remove"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/person_remove.svg');
+}
+
+.root[name="person_remove_alt_1"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/person_remove_alt_1.svg');
+}
+
+.root[name="person_search"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/person_search.svg');
+}
+
 .root[name="personal_video"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/personal_video.svg');
+}
+
+.root[name="pest_control"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/pest_control.svg');
+}
+
+.root[name="pest_control_rodent"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/pest_control_rodent.svg');
 }
 
 .root[name="pets"][theme="rounded"]::before {
@@ -11470,6 +13290,10 @@
     icon-font: url('./assets/rounded/place.svg');
 }
 
+.root[name="plagiarism"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/plagiarism.svg');
+}
+
 .root[name="play_arrow"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/play_arrow.svg');
 }
@@ -11498,8 +13322,16 @@
     icon-font: url('./assets/rounded/playlist_play.svg');
 }
 
+.root[name="plumbing"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/plumbing.svg');
+}
+
 .root[name="plus_one"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/plus_one.svg');
+}
+
+.root[name="point_of_sale"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/point_of_sale.svg');
 }
 
 .root[name="policy"][theme="rounded"]::before {
@@ -11554,6 +13386,10 @@
     icon-font: url('./assets/rounded/present_to_all.svg');
 }
 
+.root[name="preview"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/preview.svg');
+}
+
 .root[name="print"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/print.svg');
 }
@@ -11566,12 +13402,32 @@
     icon-font: url('./assets/rounded/priority_high.svg');
 }
 
+.root[name="privacy_tip"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/privacy_tip.svg');
+}
+
+.root[name="psychology"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/psychology.svg');
+}
+
 .root[name="public"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/public.svg');
 }
 
+.root[name="public_off"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/public_off.svg');
+}
+
 .root[name="publish"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/publish.svg');
+}
+
+.root[name="push_pin"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/push_pin.svg');
+}
+
+.root[name="qr_code"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/qr_code.svg');
 }
 
 .root[name="query_builder"][theme="rounded"]::before {
@@ -11594,6 +13450,10 @@
     icon-font: url('./assets/rounded/queue_play_next.svg');
 }
 
+.root[name="quickreply"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/quickreply.svg');
+}
+
 .root[name="radio"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/radio.svg');
 }
@@ -11610,8 +13470,16 @@
     icon-font: url('./assets/rounded/rate_review.svg');
 }
 
+.root[name="read_more"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/read_more.svg');
+}
+
 .root[name="receipt"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/receipt.svg');
+}
+
+.root[name="receipt_long"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/receipt_long.svg');
 }
 
 .root[name="recent_actors"][theme="rounded"]::before {
@@ -11706,6 +13574,10 @@
     icon-font: url('./assets/rounded/report_problem.svg');
 }
 
+.root[name="request_quote"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/request_quote.svg');
+}
+
 .root[name="restaurant"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/restaurant.svg');
 }
@@ -11732,6 +13604,10 @@
 
 .root[name="room"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/room.svg');
+}
+
+.root[name="room_preferences"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/room_preferences.svg');
 }
 
 .root[name="room_service"][theme="rounded"]::before {
@@ -11766,6 +13642,18 @@
     icon-font: url('./assets/rounded/rss_feed.svg');
 }
 
+.root[name="rule"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/rule.svg');
+}
+
+.root[name="rule_folder"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/rule_folder.svg');
+}
+
+.root[name="run_circle"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/run_circle.svg');
+}
+
 .root[name="rv_hookup"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/rv_hookup.svg');
 }
@@ -11796,6 +13684,10 @@
 
 .root[name="school"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/school.svg');
+}
+
+.root[name="science"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/science.svg');
 }
 
 .root[name="score"][theme="rounded"]::before {
@@ -11834,6 +13726,10 @@
     icon-font: url('./assets/rounded/search.svg');
 }
 
+.root[name="search_off"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/search_off.svg');
+}
+
 .root[name="security"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/security.svg');
 }
@@ -11842,8 +13738,20 @@
     icon-font: url('./assets/rounded/select_all.svg');
 }
 
+.root[name="self_improvement"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/self_improvement.svg');
+}
+
 .root[name="send"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/send.svg');
+}
+
+.root[name="sensor_door"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/sensor_door.svg');
+}
+
+.root[name="sensor_window"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/sensor_window.svg');
 }
 
 .root[name="sentiment_dissatisfied"][theme="rounded"]::before {
@@ -11950,6 +13858,10 @@
     icon-font: url('./assets/rounded/shop_two.svg');
 }
 
+.root[name="shopping_bag"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/shopping_bag.svg');
+}
+
 .root[name="shopping_basket"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/shopping_basket.svg');
 }
@@ -12034,6 +13946,10 @@
     icon-font: url('./assets/rounded/slow_motion_video.svg');
 }
 
+.root[name="smart_button"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/smart_button.svg');
+}
+
 .root[name="smartphone"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/smartphone.svg');
 }
@@ -12054,8 +13970,16 @@
     icon-font: url('./assets/rounded/sms_failed.svg');
 }
 
+.root[name="snippet_folder"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/snippet_folder.svg');
+}
+
 .root[name="snooze"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/snooze.svg');
+}
+
+.root[name="soap"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/soap.svg');
 }
 
 .root[name="sort"][theme="rounded"]::before {
@@ -12064,6 +13988,10 @@
 
 .root[name="sort_by_alpha"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/sort_by_alpha.svg');
+}
+
+.root[name="source"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/source.svg');
 }
 
 .root[name="spa"][theme="rounded"]::before {
@@ -12170,6 +14098,10 @@
     icon-font: url('./assets/rounded/square_foot.svg');
 }
 
+.root[name="stairs"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/stairs.svg');
+}
+
 .root[name="star"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/star.svg');
 }
@@ -12184,6 +14116,10 @@
 
 .root[name="star_outline"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/star_outline.svg');
+}
+
+.root[name="star_rate"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/star_rate.svg');
 }
 
 .root[name="stars"][theme="rounded"]::before {
@@ -12208,6 +14144,10 @@
 
 .root[name="stop"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/stop.svg');
+}
+
+.root[name="stop_circle"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/stop_circle.svg');
 }
 
 .root[name="stop_screen_share"][theme="rounded"]::before {
@@ -12242,6 +14182,10 @@
     icon-font: url('./assets/rounded/strikethrough_s.svg');
 }
 
+.root[name="stroller"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/stroller.svg');
+}
+
 .root[name="style"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/style.svg');
 }
@@ -12258,6 +14202,10 @@
     icon-font: url('./assets/rounded/subject.svg');
 }
 
+.root[name="subscript"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/subscript.svg');
+}
+
 .root[name="subscriptions"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/subscriptions.svg');
 }
@@ -12266,8 +14214,16 @@
     icon-font: url('./assets/rounded/subtitles.svg');
 }
 
+.root[name="subtitles_off"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/subtitles_off.svg');
+}
+
 .root[name="subway"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/subway.svg');
+}
+
+.root[name="superscript"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/superscript.svg');
 }
 
 .root[name="supervised_user_circle"][theme="rounded"]::before {
@@ -12276,6 +14232,14 @@
 
 .root[name="supervisor_account"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/supervisor_account.svg');
+}
+
+.root[name="support"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/support.svg');
+}
+
+.root[name="support_agent"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/support_agent.svg');
 }
 
 .root[name="surround_sound"][theme="rounded"]::before {
@@ -12304,6 +14268,14 @@
 
 .root[name="switch_camera"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/switch_camera.svg');
+}
+
+.root[name="switch_left"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/switch_left.svg');
+}
+
+.root[name="switch_right"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/switch_right.svg');
 }
 
 .root[name="switch_video"][theme="rounded"]::before {
@@ -12344,6 +14316,14 @@
 
 .root[name="table_chart"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/table_chart.svg');
+}
+
+.root[name="table_rows"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/table_rows.svg');
+}
+
+.root[name="table_view"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/table_view.svg');
 }
 
 .root[name="tablet"][theme="rounded"]::before {
@@ -12400,6 +14380,10 @@
 
 .root[name="text_rotation_none"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/text_rotation_none.svg');
+}
+
+.root[name="text_snippet"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/text_snippet.svg');
 }
 
 .root[name="textsms"][theme="rounded"]::before {
@@ -12490,8 +14474,16 @@
     icon-font: url('./assets/rounded/tonality.svg');
 }
 
+.root[name="topic"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/topic.svg');
+}
+
 .root[name="touch_app"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/touch_app.svg');
+}
+
+.root[name="tour"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/tour.svg');
 }
 
 .root[name="toys"][theme="rounded"]::before {
@@ -12546,6 +14538,10 @@
     icon-font: url('./assets/rounded/trip_origin.svg');
 }
 
+.root[name="tty"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/tty.svg');
+}
+
 .root[name="tune"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/tune.svg');
 }
@@ -12568,6 +14564,10 @@
 
 .root[name="two_wheeler"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/two_wheeler.svg');
+}
+
+.root[name="umbrella"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/umbrella.svg');
 }
 
 .root[name="unarchive"][theme="rounded"]::before {
@@ -12594,8 +14594,16 @@
     icon-font: url('./assets/rounded/update.svg');
 }
 
+.root[name="upgrade"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/upgrade.svg');
+}
+
 .root[name="usb"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/usb.svg');
+}
+
+.root[name="verified"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/verified.svg');
 }
 
 .root[name="verified_user"][theme="rounded"]::before {
@@ -12632,6 +14640,10 @@
 
 .root[name="video_library"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/video_library.svg');
+}
+
+.root[name="video_settings"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/video_settings.svg');
 }
 
 .root[name="videocam"][theme="rounded"]::before {
@@ -12688,6 +14700,10 @@
 
 .root[name="view_quilt"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/view_quilt.svg');
+}
+
+.root[name="view_sidebar"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/view_sidebar.svg');
 }
 
 .root[name="view_stream"][theme="rounded"]::before {
@@ -12754,6 +14770,10 @@
     icon-font: url('./assets/rounded/warning.svg');
 }
 
+.root[name="wash"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wash.svg');
+}
+
 .root[name="watch"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/watch.svg');
 }
@@ -12806,6 +14826,10 @@
     icon-font: url('./assets/rounded/whatshot.svg');
 }
 
+.root[name="wheelchair_pickup"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wheelchair_pickup.svg');
+}
+
 .root[name="where_to_vote"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/where_to_vote.svg');
 }
@@ -12818,12 +14842,20 @@
     icon-font: url('./assets/rounded/wifi.svg');
 }
 
+.root[name="wifi_calling"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wifi_calling.svg');
+}
+
 .root[name="wifi_lock"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/wifi_lock.svg');
 }
 
 .root[name="wifi_off"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/wifi_off.svg');
+}
+
+.root[name="wifi_protected_setup"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wifi_protected_setup.svg');
 }
 
 .root[name="wifi_tethering"][theme="rounded"]::before {
@@ -12844,6 +14876,14 @@
 
 .root[name="wrap_text"][theme="rounded"]::before {
     icon-font: url('./assets/rounded/wrap_text.svg');
+}
+
+.root[name="wrong_location"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wrong_location.svg');
+}
+
+.root[name="wysiwyg"][theme="rounded"]::before {
+    icon-font: url('./assets/rounded/wysiwyg.svg');
 }
 
 .root[name="youtube_searched_for"][theme="rounded"]::before {
@@ -12873,6 +14913,10 @@
 
 .root[name="4k"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/4k.svg');
+}
+
+.root[name="5g"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/5g.svg');
 }
 
 .root[name="ac_unit"][theme="sharp"]::before {
@@ -12927,6 +14971,10 @@
     icon-font: url('./assets/sharp/account_tree.svg');
 }
 
+.root[name="ad_units"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/ad_units.svg');
+}
+
 .root[name="adb"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/adb.svg');
 }
@@ -12951,6 +14999,10 @@
     icon-font: url('./assets/sharp/add_box.svg');
 }
 
+.root[name="add_business"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/add_business.svg');
+}
+
 .root[name="add_circle"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/add_circle.svg');
 }
@@ -12971,8 +15023,16 @@
     icon-font: url('./assets/sharp/add_location.svg');
 }
 
+.root[name="add_location_alt"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/add_location_alt.svg');
+}
+
 .root[name="add_photo_alternate"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/add_photo_alternate.svg');
+}
+
+.root[name="add_road"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/add_road.svg');
 }
 
 .root[name="add_shopping_cart"][theme="sharp"]::before {
@@ -12991,8 +15051,20 @@
     icon-font: url('./assets/sharp/add_to_queue.svg');
 }
 
+.root[name="addchart"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/addchart.svg');
+}
+
 .root[name="adjust"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/adjust.svg');
+}
+
+.root[name="admin_panel_settings"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/admin_panel_settings.svg');
+}
+
+.root[name="agriculture"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/agriculture.svg');
 }
 
 .root[name="airline_seat_flat"][theme="sharp"]::before {
@@ -13075,12 +15147,24 @@
     icon-font: url('./assets/sharp/all_out.svg');
 }
 
+.root[name="alt_route"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/alt_route.svg');
+}
+
 .root[name="alternate_email"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/alternate_email.svg');
 }
 
 .root[name="amp_stories"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/amp_stories.svg');
+}
+
+.root[name="analytics"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/analytics.svg');
+}
+
+.root[name="anchor"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/anchor.svg');
 }
 
 .root[name="android"][theme="sharp"]::before {
@@ -13095,8 +15179,24 @@
     icon-font: url('./assets/sharp/apartment.svg');
 }
 
+.root[name="api"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/api.svg');
+}
+
+.root[name="app_blocking"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/app_blocking.svg');
+}
+
+.root[name="app_settings_alt"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/app_settings_alt.svg');
+}
+
 .root[name="apps"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/apps.svg');
+}
+
+.root[name="architecture"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/architecture.svg');
 }
 
 .root[name="archive"][theme="sharp"]::before {
@@ -13109,6 +15209,14 @@
 
 .root[name="arrow_back_ios"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/arrow_back_ios.svg');
+}
+
+.root[name="arrow_circle_down"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/arrow_circle_down.svg');
+}
+
+.root[name="arrow_circle_up"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/arrow_circle_up.svg');
 }
 
 .root[name="arrow_downward"][theme="sharp"]::before {
@@ -13155,6 +15263,10 @@
     icon-font: url('./assets/sharp/art_track.svg');
 }
 
+.root[name="article"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/article.svg');
+}
+
 .root[name="aspect_ratio"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/aspect_ratio.svg');
 }
@@ -13199,6 +15311,10 @@
     icon-font: url('./assets/sharp/atm.svg');
 }
 
+.root[name="attach_email"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/attach_email.svg');
+}
+
 .root[name="attach_file"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/attach_file.svg');
 }
@@ -13215,12 +15331,24 @@
     icon-font: url('./assets/sharp/audiotrack.svg');
 }
 
+.root[name="auto_delete"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/auto_delete.svg');
+}
+
 .root[name="autorenew"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/autorenew.svg');
 }
 
 .root[name="av_timer"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/av_timer.svg');
+}
+
+.root[name="baby_changing_station"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/baby_changing_station.svg');
+}
+
+.root[name="backpack"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/backpack.svg');
 }
 
 .root[name="backspace"][theme="sharp"]::before {
@@ -13231,12 +15359,20 @@
     icon-font: url('./assets/sharp/backup.svg');
 }
 
+.root[name="backup_table"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/backup_table.svg');
+}
+
 .root[name="ballot"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/ballot.svg');
 }
 
 .root[name="bar_chart"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/bar_chart.svg');
+}
+
+.root[name="batch_prediction"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/batch_prediction.svg');
 }
 
 .root[name="bathtub"][theme="sharp"]::before {
@@ -13267,8 +15403,20 @@
     icon-font: url('./assets/sharp/beach_access.svg');
 }
 
+.root[name="bedtime"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/bedtime.svg');
+}
+
 .root[name="beenhere"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/beenhere.svg');
+}
+
+.root[name="bike_scooter"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/bike_scooter.svg');
+}
+
+.root[name="biotech"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/biotech.svg');
 }
 
 .root[name="block"][theme="sharp"]::before {
@@ -13423,6 +15571,10 @@
     icon-font: url('./assets/sharp/broken_image.svg');
 }
 
+.root[name="browser_not_supported"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/browser_not_supported.svg');
+}
+
 .root[name="brush"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/brush.svg');
 }
@@ -13437,6 +15589,10 @@
 
 .root[name="build"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/build.svg');
+}
+
+.root[name="build_circle"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/build_circle.svg');
 }
 
 .root[name="burst_mode"][theme="sharp"]::before {
@@ -13457,6 +15613,10 @@
 
 .root[name="cake"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/cake.svg');
+}
+
+.root[name="calculate"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/calculate.svg');
 }
 
 .root[name="calendar_today"][theme="sharp"]::before {
@@ -13527,6 +15687,10 @@
     icon-font: url('./assets/sharp/camera_roll.svg');
 }
 
+.root[name="campaign"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/campaign.svg');
+}
+
 .root[name="cancel"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/cancel.svg');
 }
@@ -13563,6 +15727,10 @@
     icon-font: url('./assets/sharp/cast_connected.svg');
 }
 
+.root[name="cast_for_education"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/cast_for_education.svg');
+}
+
 .root[name="category"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/category.svg');
 }
@@ -13577,6 +15745,10 @@
 
 .root[name="change_history"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/change_history.svg');
+}
+
+.root[name="charging_station"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/charging_station.svg');
 }
 
 .root[name="chat"][theme="sharp"]::before {
@@ -13611,6 +15783,10 @@
     icon-font: url('./assets/sharp/check_circle_outline.svg');
 }
 
+.root[name="checkroom"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/checkroom.svg');
+}
+
 .root[name="chevron_left"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/chevron_left.svg');
 }
@@ -13635,6 +15811,10 @@
     icon-font: url('./assets/sharp/class.svg');
 }
 
+.root[name="cleaning_services"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/cleaning_services.svg');
+}
+
 .root[name="clear"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/clear.svg');
 }
@@ -13645,6 +15825,10 @@
 
 .root[name="close"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/close.svg');
+}
+
+.root[name="close_fullscreen"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/close_fullscreen.svg');
 }
 
 .root[name="closed_caption"][theme="sharp"]::before {
@@ -13703,6 +15887,10 @@
     icon-font: url('./assets/sharp/comment.svg');
 }
 
+.root[name="comment_bank"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/comment_bank.svg');
+}
+
 .root[name="commute"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/commute.svg');
 }
@@ -13725,6 +15913,10 @@
 
 .root[name="confirmation_number"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/confirmation_number.svg');
+}
+
+.root[name="construction"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/construction.svg');
 }
 
 .root[name="contact_mail"][theme="sharp"]::before {
@@ -13761,6 +15953,10 @@
 
 .root[name="copyright"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/copyright.svg');
+}
+
+.root[name="corporate_fare"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/corporate_fare.svg');
 }
 
 .root[name="create"][theme="sharp"]::before {
@@ -13867,6 +16063,10 @@
     icon-font: url('./assets/sharp/description.svg');
 }
 
+.root[name="design_services"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/design_services.svg');
+}
+
 .root[name="desktop_access_disabled"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/desktop_access_disabled.svg');
 }
@@ -13935,6 +16135,10 @@
     icon-font: url('./assets/sharp/directions_car.svg');
 }
 
+.root[name="directions_off"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/directions_off.svg');
+}
+
 .root[name="directions_railway"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/directions_railway.svg');
 }
@@ -13963,6 +16167,14 @@
     icon-font: url('./assets/sharp/dns.svg');
 }
 
+.root[name="do_not_step"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/do_not_step.svg');
+}
+
+.root[name="do_not_touch"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/do_not_touch.svg');
+}
+
 .root[name="dock"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/dock.svg');
 }
@@ -13973,6 +16185,10 @@
 
 .root[name="domain_disabled"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/domain_disabled.svg');
+}
+
+.root[name="domain_verification"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/domain_verification.svg');
 }
 
 .root[name="done"][theme="sharp"]::before {
@@ -14015,6 +16231,10 @@
     icon-font: url('./assets/sharp/drive_eta.svg');
 }
 
+.root[name="dry"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/dry.svg');
+}
+
 .root[name="duo"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/duo.svg');
 }
@@ -14025,6 +16245,10 @@
 
 .root[name="dynamic_feed"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/dynamic_feed.svg');
+}
+
+.root[name="dynamic_form"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/dynamic_form.svg');
 }
 
 .root[name="eco"][theme="sharp"]::before {
@@ -14043,8 +16267,36 @@
     icon-font: url('./assets/sharp/edit_location.svg');
 }
 
+.root[name="edit_road"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/edit_road.svg');
+}
+
 .root[name="eject"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/eject.svg');
+}
+
+.root[name="electric_bike"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/electric_bike.svg');
+}
+
+.root[name="electric_car"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/electric_car.svg');
+}
+
+.root[name="electric_moped"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/electric_moped.svg');
+}
+
+.root[name="electric_scooter"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/electric_scooter.svg');
+}
+
+.root[name="electrical_services"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/electrical_services.svg');
+}
+
+.root[name="elevator"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/elevator.svg');
 }
 
 .root[name="email"][theme="sharp"]::before {
@@ -14087,6 +16339,10 @@
     icon-font: url('./assets/sharp/emoji_transportation.svg');
 }
 
+.root[name="engineering"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/engineering.svg');
+}
+
 .root[name="enhanced_encryption"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/enhanced_encryption.svg');
 }
@@ -14101,6 +16357,14 @@
 
 .root[name="error_outline"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/error_outline.svg');
+}
+
+.root[name="escalator"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/escalator.svg');
+}
+
+.root[name="escalator_warning"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/escalator_warning.svg');
 }
 
 .root[name="euro"][theme="sharp"]::before {
@@ -14189,6 +16453,14 @@
 
 .root[name="face"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/face.svg');
+}
+
+.root[name="fact_check"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/fact_check.svg');
+}
+
+.root[name="family_restroom"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/family_restroom.svg');
 }
 
 .root[name="fast_forward"][theme="sharp"]::before {
@@ -14291,6 +16563,10 @@
     icon-font: url('./assets/sharp/filter_9_plus.svg');
 }
 
+.root[name="filter_alt"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/filter_alt.svg');
+}
+
 .root[name="filter_b_and_w"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/filter_b_and_w.svg');
 }
@@ -14353,6 +16629,10 @@
 
 .root[name="flag"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/flag.svg');
+}
+
+.root[name="flaky"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/flaky.svg');
 }
 
 .root[name="flare"][theme="sharp"]::before {
@@ -14531,6 +16811,10 @@
     icon-font: url('./assets/sharp/forward_5.svg');
 }
 
+.root[name="forward_to_inbox"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/forward_to_inbox.svg');
+}
+
 .root[name="free_breakfast"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/free_breakfast.svg');
 }
@@ -14599,6 +16883,10 @@
     icon-font: url('./assets/sharp/gradient.svg');
 }
 
+.root[name="grading"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/grading.svg');
+}
+
 .root[name="grain"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/grain.svg');
 }
@@ -14625,6 +16913,10 @@
 
 .root[name="group_work"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/group_work.svg');
+}
+
+.root[name="handyman"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/handyman.svg');
 }
 
 .root[name="hd"][theme="sharp"]::before {
@@ -14663,12 +16955,20 @@
     icon-font: url('./assets/sharp/hearing.svg');
 }
 
+.root[name="hearing_disabled"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/hearing_disabled.svg');
+}
+
 .root[name="height"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/height.svg');
 }
 
 .root[name="help"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/help.svg');
+}
+
+.root[name="help_center"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/help_center.svg');
 }
 
 .root[name="help_outline"][theme="sharp"]::before {
@@ -14683,6 +16983,10 @@
     icon-font: url('./assets/sharp/highlight.svg');
 }
 
+.root[name="highlight_alt"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/highlight_alt.svg');
+}
+
 .root[name="highlight_off"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/highlight_off.svg');
 }
@@ -14691,12 +16995,28 @@
     icon-font: url('./assets/sharp/history.svg');
 }
 
+.root[name="history_edu"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/history_edu.svg');
+}
+
+.root[name="history_toggle_off"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/history_toggle_off.svg');
+}
+
 .root[name="home"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/home.svg');
 }
 
+.root[name="home_repair_service"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/home_repair_service.svg');
+}
+
 .root[name="home_work"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/home_work.svg');
+}
+
+.root[name="horizontal_rule"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/horizontal_rule.svg');
 }
 
 .root[name="horizontal_split"][theme="sharp"]::before {
@@ -14711,12 +17031,24 @@
     icon-font: url('./assets/sharp/hotel.svg');
 }
 
+.root[name="hourglass_bottom"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/hourglass_bottom.svg');
+}
+
+.root[name="hourglass_disabled"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/hourglass_disabled.svg');
+}
+
 .root[name="hourglass_empty"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/hourglass_empty.svg');
 }
 
 .root[name="hourglass_full"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/hourglass_full.svg');
+}
+
+.root[name="hourglass_top"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/hourglass_top.svg');
 }
 
 .root[name="house"][theme="sharp"]::before {
@@ -14739,12 +17071,20 @@
     icon-font: url('./assets/sharp/https.svg');
 }
 
+.root[name="hvac"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/hvac.svg');
+}
+
 .root[name="image"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/image.svg');
 }
 
 .root[name="image_aspect_ratio"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/image_aspect_ratio.svg');
+}
+
+.root[name="image_not_supported"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/image_not_supported.svg');
 }
 
 .root[name="image_search"][theme="sharp"]::before {
@@ -14809,6 +17149,14 @@
 
 .root[name="insert_photo"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/insert_photo.svg');
+}
+
+.root[name="insights"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/insights.svg');
+}
+
+.root[name="integration_instructions"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/integration_instructions.svg');
 }
 
 .root[name="invert_colors"][theme="sharp"]::before {
@@ -14933,6 +17281,10 @@
 
 .root[name="leak_remove"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/leak_remove.svg');
+}
+
+.root[name="legend_toggle"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/legend_toggle.svg');
 }
 
 .root[name="lens"][theme="sharp"]::before {
@@ -15139,6 +17491,10 @@
     icon-font: url('./assets/sharp/lock_open.svg');
 }
 
+.root[name="login"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/login.svg');
+}
+
 .root[name="looks"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/looks.svg');
 }
@@ -15195,6 +17551,26 @@
     icon-font: url('./assets/sharp/map.svg');
 }
 
+.root[name="maps_ugc"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/maps_ugc.svg');
+}
+
+.root[name="mark_chat_read"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/mark_chat_read.svg');
+}
+
+.root[name="mark_chat_unread"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/mark_chat_unread.svg');
+}
+
+.root[name="mark_email_read"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/mark_email_read.svg');
+}
+
+.root[name="mark_email_unread"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/mark_email_unread.svg');
+}
+
 .root[name="markunread"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/markunread.svg');
 }
@@ -15205,6 +17581,14 @@
 
 .root[name="maximize"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/maximize.svg');
+}
+
+.root[name="mediation"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/mediation.svg');
+}
+
+.root[name="medical_services"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/medical_services.svg');
 }
 
 .root[name="meeting_room"][theme="sharp"]::before {
@@ -15247,8 +17631,16 @@
     icon-font: url('./assets/sharp/mic_off.svg');
 }
 
+.root[name="military_tech"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/military_tech.svg');
+}
+
 .root[name="minimize"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/minimize.svg');
+}
+
+.root[name="miscellaneous_services"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/miscellaneous_services.svg');
 }
 
 .root[name="missed_video_call"][theme="sharp"]::before {
@@ -15275,6 +17667,10 @@
     icon-font: url('./assets/sharp/mode_comment.svg');
 }
 
+.root[name="model_training"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/model_training.svg');
+}
+
 .root[name="monetization_on"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/monetization_on.svg');
 }
@@ -15299,12 +17695,20 @@
     icon-font: url('./assets/sharp/mood_bad.svg');
 }
 
+.root[name="moped"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/moped.svg');
+}
+
 .root[name="more"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/more.svg');
 }
 
 .root[name="more_horiz"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/more_horiz.svg');
+}
+
+.root[name="more_time"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/more_time.svg');
 }
 
 .root[name="more_vert"][theme="sharp"]::before {
@@ -15335,6 +17739,10 @@
     icon-font: url('./assets/sharp/multiline_chart.svg');
 }
 
+.root[name="multiple_stop"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/multiple_stop.svg');
+}
+
 .root[name="museum"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/museum.svg');
 }
@@ -15353,6 +17761,10 @@
 
 .root[name="my_location"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/my_location.svg');
+}
+
+.root[name="nat"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/nat.svg');
 }
 
 .root[name="nature"][theme="sharp"]::before {
@@ -15391,6 +17803,10 @@
     icon-font: url('./assets/sharp/new_releases.svg');
 }
 
+.root[name="next_plan"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/next_plan.svg');
+}
+
 .root[name="next_week"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/next_week.svg');
 }
@@ -15403,16 +17819,44 @@
     icon-font: url('./assets/sharp/nights_stay.svg');
 }
 
+.root[name="no_cell"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_cell.svg');
+}
+
+.root[name="no_drinks"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_drinks.svg');
+}
+
 .root[name="no_encryption"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/no_encryption.svg');
+}
+
+.root[name="no_flash"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_flash.svg');
+}
+
+.root[name="no_food"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_food.svg');
 }
 
 .root[name="no_meeting_room"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/no_meeting_room.svg');
 }
 
+.root[name="no_photography"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_photography.svg');
+}
+
 .root[name="no_sim"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/no_sim.svg');
+}
+
+.root[name="no_stroller"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/no_stroller.svg');
+}
+
+.root[name="not_accessible"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/not_accessible.svg');
 }
 
 .root[name="not_interested"][theme="sharp"]::before {
@@ -15421,6 +17865,10 @@
 
 .root[name="not_listed_location"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/not_listed_location.svg');
+}
+
+.root[name="not_started"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/not_started.svg');
 }
 
 .root[name="note"][theme="sharp"]::before {
@@ -15471,12 +17919,20 @@
     icon-font: url('./assets/sharp/ondemand_video.svg');
 }
 
+.root[name="online_prediction"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/online_prediction.svg');
+}
+
 .root[name="opacity"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/opacity.svg');
 }
 
 .root[name="open_in_browser"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/open_in_browser.svg');
+}
+
+.root[name="open_in_full"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/open_in_full.svg');
 }
 
 .root[name="open_in_new"][theme="sharp"]::before {
@@ -15489,6 +17945,10 @@
 
 .root[name="outdoor_grill"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/outdoor_grill.svg');
+}
+
+.root[name="outlet"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/outlet.svg');
 }
 
 .root[name="outlined_flag"][theme="sharp"]::before {
@@ -15555,6 +18015,22 @@
     icon-font: url('./assets/sharp/payment.svg');
 }
 
+.root[name="payments"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/payments.svg');
+}
+
+.root[name="pedal_bike"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/pedal_bike.svg');
+}
+
+.root[name="pending"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/pending.svg');
+}
+
+.root[name="pending_actions"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/pending_actions.svg');
+}
+
 .root[name="people"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/people.svg');
 }
@@ -15607,6 +18083,10 @@
     icon-font: url('./assets/sharp/person_add.svg');
 }
 
+.root[name="person_add_alt_1"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/person_add_alt_1.svg');
+}
+
 .root[name="person_add_disabled"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/person_add_disabled.svg');
 }
@@ -15623,8 +18103,28 @@
     icon-font: url('./assets/sharp/person_pin_circle.svg');
 }
 
+.root[name="person_remove"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/person_remove.svg');
+}
+
+.root[name="person_remove_alt_1"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/person_remove_alt_1.svg');
+}
+
+.root[name="person_search"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/person_search.svg');
+}
+
 .root[name="personal_video"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/personal_video.svg');
+}
+
+.root[name="pest_control"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/pest_control.svg');
+}
+
+.root[name="pest_control_rodent"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/pest_control_rodent.svg');
 }
 
 .root[name="pets"][theme="sharp"]::before {
@@ -15759,6 +18259,10 @@
     icon-font: url('./assets/sharp/place.svg');
 }
 
+.root[name="plagiarism"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/plagiarism.svg');
+}
+
 .root[name="play_arrow"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/play_arrow.svg');
 }
@@ -15787,8 +18291,16 @@
     icon-font: url('./assets/sharp/playlist_play.svg');
 }
 
+.root[name="plumbing"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/plumbing.svg');
+}
+
 .root[name="plus_one"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/plus_one.svg');
+}
+
+.root[name="point_of_sale"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/point_of_sale.svg');
 }
 
 .root[name="policy"][theme="sharp"]::before {
@@ -15843,6 +18355,10 @@
     icon-font: url('./assets/sharp/present_to_all.svg');
 }
 
+.root[name="preview"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/preview.svg');
+}
+
 .root[name="print"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/print.svg');
 }
@@ -15855,12 +18371,32 @@
     icon-font: url('./assets/sharp/priority_high.svg');
 }
 
+.root[name="privacy_tip"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/privacy_tip.svg');
+}
+
+.root[name="psychology"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/psychology.svg');
+}
+
 .root[name="public"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/public.svg');
 }
 
+.root[name="public_off"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/public_off.svg');
+}
+
 .root[name="publish"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/publish.svg');
+}
+
+.root[name="push_pin"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/push_pin.svg');
+}
+
+.root[name="qr_code"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/qr_code.svg');
 }
 
 .root[name="query_builder"][theme="sharp"]::before {
@@ -15883,6 +18419,10 @@
     icon-font: url('./assets/sharp/queue_play_next.svg');
 }
 
+.root[name="quickreply"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/quickreply.svg');
+}
+
 .root[name="radio"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/radio.svg');
 }
@@ -15899,8 +18439,16 @@
     icon-font: url('./assets/sharp/rate_review.svg');
 }
 
+.root[name="read_more"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/read_more.svg');
+}
+
 .root[name="receipt"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/receipt.svg');
+}
+
+.root[name="receipt_long"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/receipt_long.svg');
 }
 
 .root[name="recent_actors"][theme="sharp"]::before {
@@ -15995,6 +18543,10 @@
     icon-font: url('./assets/sharp/report_problem.svg');
 }
 
+.root[name="request_quote"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/request_quote.svg');
+}
+
 .root[name="restaurant"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/restaurant.svg');
 }
@@ -16021,6 +18573,10 @@
 
 .root[name="room"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/room.svg');
+}
+
+.root[name="room_preferences"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/room_preferences.svg');
 }
 
 .root[name="room_service"][theme="sharp"]::before {
@@ -16055,6 +18611,18 @@
     icon-font: url('./assets/sharp/rss_feed.svg');
 }
 
+.root[name="rule"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/rule.svg');
+}
+
+.root[name="rule_folder"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/rule_folder.svg');
+}
+
+.root[name="run_circle"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/run_circle.svg');
+}
+
 .root[name="rv_hookup"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/rv_hookup.svg');
 }
@@ -16085,6 +18653,10 @@
 
 .root[name="school"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/school.svg');
+}
+
+.root[name="science"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/science.svg');
 }
 
 .root[name="score"][theme="sharp"]::before {
@@ -16123,6 +18695,10 @@
     icon-font: url('./assets/sharp/search.svg');
 }
 
+.root[name="search_off"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/search_off.svg');
+}
+
 .root[name="security"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/security.svg');
 }
@@ -16131,8 +18707,20 @@
     icon-font: url('./assets/sharp/select_all.svg');
 }
 
+.root[name="self_improvement"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/self_improvement.svg');
+}
+
 .root[name="send"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/send.svg');
+}
+
+.root[name="sensor_door"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/sensor_door.svg');
+}
+
+.root[name="sensor_window"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/sensor_window.svg');
 }
 
 .root[name="sentiment_dissatisfied"][theme="sharp"]::before {
@@ -16239,6 +18827,10 @@
     icon-font: url('./assets/sharp/shop_two.svg');
 }
 
+.root[name="shopping_bag"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/shopping_bag.svg');
+}
+
 .root[name="shopping_basket"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/shopping_basket.svg');
 }
@@ -16323,6 +18915,10 @@
     icon-font: url('./assets/sharp/slow_motion_video.svg');
 }
 
+.root[name="smart_button"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/smart_button.svg');
+}
+
 .root[name="smartphone"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/smartphone.svg');
 }
@@ -16343,8 +18939,16 @@
     icon-font: url('./assets/sharp/sms_failed.svg');
 }
 
+.root[name="snippet_folder"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/snippet_folder.svg');
+}
+
 .root[name="snooze"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/snooze.svg');
+}
+
+.root[name="soap"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/soap.svg');
 }
 
 .root[name="sort"][theme="sharp"]::before {
@@ -16353,6 +18957,10 @@
 
 .root[name="sort_by_alpha"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/sort_by_alpha.svg');
+}
+
+.root[name="source"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/source.svg');
 }
 
 .root[name="spa"][theme="sharp"]::before {
@@ -16459,6 +19067,10 @@
     icon-font: url('./assets/sharp/square_foot.svg');
 }
 
+.root[name="stairs"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/stairs.svg');
+}
+
 .root[name="star"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/star.svg');
 }
@@ -16473,6 +19085,10 @@
 
 .root[name="star_outline"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/star_outline.svg');
+}
+
+.root[name="star_rate"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/star_rate.svg');
 }
 
 .root[name="stars"][theme="sharp"]::before {
@@ -16497,6 +19113,10 @@
 
 .root[name="stop"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/stop.svg');
+}
+
+.root[name="stop_circle"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/stop_circle.svg');
 }
 
 .root[name="stop_screen_share"][theme="sharp"]::before {
@@ -16531,6 +19151,10 @@
     icon-font: url('./assets/sharp/strikethrough_s.svg');
 }
 
+.root[name="stroller"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/stroller.svg');
+}
+
 .root[name="style"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/style.svg');
 }
@@ -16547,6 +19171,10 @@
     icon-font: url('./assets/sharp/subject.svg');
 }
 
+.root[name="subscript"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/subscript.svg');
+}
+
 .root[name="subscriptions"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/subscriptions.svg');
 }
@@ -16555,8 +19183,16 @@
     icon-font: url('./assets/sharp/subtitles.svg');
 }
 
+.root[name="subtitles_off"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/subtitles_off.svg');
+}
+
 .root[name="subway"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/subway.svg');
+}
+
+.root[name="superscript"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/superscript.svg');
 }
 
 .root[name="supervised_user_circle"][theme="sharp"]::before {
@@ -16565,6 +19201,14 @@
 
 .root[name="supervisor_account"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/supervisor_account.svg');
+}
+
+.root[name="support"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/support.svg');
+}
+
+.root[name="support_agent"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/support_agent.svg');
 }
 
 .root[name="surround_sound"][theme="sharp"]::before {
@@ -16593,6 +19237,14 @@
 
 .root[name="switch_camera"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/switch_camera.svg');
+}
+
+.root[name="switch_left"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/switch_left.svg');
+}
+
+.root[name="switch_right"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/switch_right.svg');
 }
 
 .root[name="switch_video"][theme="sharp"]::before {
@@ -16633,6 +19285,14 @@
 
 .root[name="table_chart"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/table_chart.svg');
+}
+
+.root[name="table_rows"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/table_rows.svg');
+}
+
+.root[name="table_view"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/table_view.svg');
 }
 
 .root[name="tablet"][theme="sharp"]::before {
@@ -16689,6 +19349,10 @@
 
 .root[name="text_rotation_none"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/text_rotation_none.svg');
+}
+
+.root[name="text_snippet"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/text_snippet.svg');
 }
 
 .root[name="textsms"][theme="sharp"]::before {
@@ -16779,8 +19443,16 @@
     icon-font: url('./assets/sharp/tonality.svg');
 }
 
+.root[name="topic"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/topic.svg');
+}
+
 .root[name="touch_app"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/touch_app.svg');
+}
+
+.root[name="tour"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/tour.svg');
 }
 
 .root[name="toys"][theme="sharp"]::before {
@@ -16835,6 +19507,10 @@
     icon-font: url('./assets/sharp/trip_origin.svg');
 }
 
+.root[name="tty"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/tty.svg');
+}
+
 .root[name="tune"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/tune.svg');
 }
@@ -16857,6 +19533,10 @@
 
 .root[name="two_wheeler"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/two_wheeler.svg');
+}
+
+.root[name="umbrella"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/umbrella.svg');
 }
 
 .root[name="unarchive"][theme="sharp"]::before {
@@ -16883,8 +19563,16 @@
     icon-font: url('./assets/sharp/update.svg');
 }
 
+.root[name="upgrade"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/upgrade.svg');
+}
+
 .root[name="usb"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/usb.svg');
+}
+
+.root[name="verified"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/verified.svg');
 }
 
 .root[name="verified_user"][theme="sharp"]::before {
@@ -16921,6 +19609,10 @@
 
 .root[name="video_library"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/video_library.svg');
+}
+
+.root[name="video_settings"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/video_settings.svg');
 }
 
 .root[name="videocam"][theme="sharp"]::before {
@@ -16977,6 +19669,10 @@
 
 .root[name="view_quilt"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/view_quilt.svg');
+}
+
+.root[name="view_sidebar"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/view_sidebar.svg');
 }
 
 .root[name="view_stream"][theme="sharp"]::before {
@@ -17043,6 +19739,10 @@
     icon-font: url('./assets/sharp/warning.svg');
 }
 
+.root[name="wash"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wash.svg');
+}
+
 .root[name="watch"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/watch.svg');
 }
@@ -17095,6 +19795,10 @@
     icon-font: url('./assets/sharp/whatshot.svg');
 }
 
+.root[name="wheelchair_pickup"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wheelchair_pickup.svg');
+}
+
 .root[name="where_to_vote"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/where_to_vote.svg');
 }
@@ -17107,12 +19811,20 @@
     icon-font: url('./assets/sharp/wifi.svg');
 }
 
+.root[name="wifi_calling"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wifi_calling.svg');
+}
+
 .root[name="wifi_lock"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/wifi_lock.svg');
 }
 
 .root[name="wifi_off"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/wifi_off.svg');
+}
+
+.root[name="wifi_protected_setup"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wifi_protected_setup.svg');
 }
 
 .root[name="wifi_tethering"][theme="sharp"]::before {
@@ -17133,6 +19845,14 @@
 
 .root[name="wrap_text"][theme="sharp"]::before {
     icon-font: url('./assets/sharp/wrap_text.svg');
+}
+
+.root[name="wrong_location"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wrong_location.svg');
+}
+
+.root[name="wysiwyg"][theme="sharp"]::before {
+    icon-font: url('./assets/sharp/wysiwyg.svg');
 }
 
 .root[name="youtube_searched_for"][theme="sharp"]::before {

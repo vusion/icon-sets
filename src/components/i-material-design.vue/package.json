@@ -20,6 +20,7 @@
     "design"
   ],
   "scripts": {
+    "sync": "node scripts/download.js && node scripts/transform.js && node scripts/generate.js",
     "dev": "../../../node_modules/.bin/vue-cli-service doc --port 9090",
     "build:doc": "../../../node_modules/.bin/vue-cli-service doc-build",
     "screenshot": "vusion screenshot public/index.html#examples --code-example  --smart-crop --package",
@@ -41,11 +42,14 @@
     ]
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "download": "^8.0.0"
+  },
   "peerDependencies": {
     "@vue/cli-service": ">=3.10.0",
-    "vue-cli-plugin-vusion": "^0.9.15",
+    "vue-cli-plugin-vusion": "^0.10.6",
     "vue": "^2.6.10",
-    "cloud-ui.vusion": "^0.6.0"
+    "cloud-ui.vusion": "^0.9.0"
   }
 }

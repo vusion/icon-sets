@@ -17,13 +17,13 @@ fs.writeFileSync(path.resolve(__dirname, '../module.css'), Object.keys(themes)
 fs.writeFileSync(path.resolve(__dirname, '../docs/examples.md'), `
 <p></p>
 
-<u-subtabs>
+<u-tabs appear="round" size="small">
 ` + Object.keys(themes)
-    .map((theme) => theme === 'two-tone' ? '' : `    <u-subtab title="${theme}">
+    .map((theme) => theme === 'two-tone' ? '' : `    <u-tab title="${theme}">
 ` + metadata.icons.map((icon) => `        <u-icon-example icon="i-material-design" theme="${theme}" name="${icon.name}"></u-icon-example>
 `).join('')
- + `    </u-subtab>
+ + `    </u-tab>
 `).join('')
- + `</u-subtabs>
+ + `</u-tabs>
 `);
 
